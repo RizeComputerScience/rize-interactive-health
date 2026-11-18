@@ -50,20 +50,26 @@ linked from a course; nobody has to add it. To run the same thing by hand:
 
 ```bash
 python3 scripts/sanity_rows.py > rows.txt
+PSYQUE_TOKEN=... python3 scripts/psyque_rows.py >> rows.txt   # optional
 python3 scripts/build_manifest.py --rows rows.txt
 ```
 
-Check the diff it prints. New URLs appear as `+`. URLs that dropped out of Sanity are
-kept and marked `retired: true` rather than deleted, because an unwiring is sometimes a
-mistake and a silent deletion hides it. A rebuild that would retire more than half the
-Sanity pages at once refuses (a broken read, not a mass unwiring); the run then checks
-the old list.
+Check the diff it prints. New URLs appear as `+`. URLs no longer linked are kept and
+marked `retired: true` rather than deleted, because an unwiring is sometimes a mistake
+and a silent deletion hides it. A rebuild that would retire more than half the pages it
+read at once refuses (a broken read, not a mass unwiring); the run then checks the old
+list.
 
-**What it cannot see: courses that live in Psyque.** Sanity has no copy of their links.
-Add those pages by hand with `"source": "manual"` (and `courses`); a rebuild never
-retires a manual entry, and it switches to Sanity tracking if the link later shows up
-there. Hosts outside the list above (another GitHub account, Google Sites) also go in
-by hand.
+**Courses that live in Psyque** (followsSanity off) have no copy in Sanity.
+`scripts/psyque_rows.py` reads them over Psyque's MCP endpoint (read only, Blueprint
+term, every document plus assignment and discussion steps; about a minute). It needs a
+Psyque token: in CI, the `PSYQUE_TOKEN` repository secret, which an org admin sets.
+Without it the run skips Psyque and leaves Psyque pages as they are; it only retires a
+Psyque page after a complete Psyque read.
+
+Hosts outside the list above go in by hand with `"source": "manual"` (and `courses`);
+a rebuild never retires a manual entry. The Workbench rule is that new pages go on
+Rize's GitHub or Rize's Netlify, so this should be rare.
 
 **Use `string::startsWith`, not `match`,** if you ever query the hrefs yourself
 (`scripts/sanity_urls.groq` is the old MCP version). GROQ's `match` returns true against

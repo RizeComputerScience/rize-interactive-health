@@ -11,10 +11,12 @@ then this script merges them in:
 Hand-tuned `expect` blocks on existing pages are preserved. Pages that have
 dropped out of Sanity are kept but marked `"retired": true` rather than
 deleted, so an unwiring that was a mistake stays visible. Pages added by hand
-(`"source": "manual"`, e.g. a page linked from a course that lives in Psyque,
-which Sanity cannot see) are never retired by a rebuild. If a rebuild would
-retire more than half of the Sanity-sourced pages at once, it refuses: that
-is a broken read, not a mass unwiring (override with --force).
+(`"source": "manual"`) are never retired by a rebuild, and a page is retired
+only by a complete read of its own source (a `#read <source>` line), so a run
+that skips Psyque never retires Psyque pages. If a rebuild would retire more
+than half of the pages it read at once, it refuses: that is a broken read, not
+a mass unwiring (override with --force). Psyque rows come from
+scripts/psyque_rows.py when PSYQUE_TOKEN is set.
 
 >>> owner_for('https://rizecomputerscience.github.io/calc1-chain-rule/')
 'RizeComputerScience'
@@ -53,8 +55,9 @@ def owner_for(url: str) -> str:
     return 'RizeComputerScience' if account == 'rizecomputerscience' else account
 
 
-def from_sanity(p: dict) -> bool:
-    return str(p.get('source', '')).startswith('sanity:')
+def automatic(p: dict) -> bool:
+    """Found by a read of course content (Sanity or Psyque), as opposed to added by hand."""
+    return str(p.get('source', '')).startswith(('sanity:', 'psyque:'))
 
 
 def main() -> int:
@@ -66,8 +69,12 @@ def main() -> int:
     a = ap.parse_args()
 
     by_url = collections.OrderedDict()
+    read = set()  # sources read in full this run (`#read <source>` lines); only these can retire pages
     for line in open(a.rows):
         line = line.strip()
+        if line.startswith('#read '):
+            read.add(line[6:].strip())
+            continue
         if not line or line.startswith('#'):
             continue
         parts = [x.strip() for x in line.split('|')]
@@ -81,6 +88,9 @@ def main() -> int:
             entry['courses'].add(course)
         entry['sources'].add(source)
 
+    if not read:  # a by-hand inventory without markers: it read what its rows name
+        read = {'sanity:production'} | {s for e in by_url.values() for s in e['sources']}
+
     old = {}
     if os.path.exists(a.manifest):
         old = {p['url']: p for p in json.load(open(a.manifest)).get('pages', [])}
@@ -89,7 +99,7 @@ def main() -> int:
     for url, e in by_url.items():
         prev = old.get(url, {})
         courses = set(e['courses'])
-        if not from_sanity(prev):
+        if not automatic(prev):
             courses |= set(prev.get('courses', []))  # a hand-added page keeps its courses
         pages.append({
             'id': prev.get('id') or slug(url),
@@ -99,12 +109,13 @@ def main() -> int:
             'source': 'sanity:production' if 'sanity:production' in e['sources'] else sorted(e['sources'])[0],
             'expect': prev.get('expect', {'minVisibleText': 300}),
         })
-    kept = [p for u, p in old.items() if u not in by_url and not from_sanity(p)]
+    retirable = lambda p: automatic(p) and p.get('source') in read
+    kept = [p for u, p in old.items() if u not in by_url and not retirable(p)]
     retired = [dict(p, retired=True, courses=[]) for u, p in old.items()
-               if u not in by_url and from_sanity(p) and not p.get('retired')]
-    live_before = sum(1 for p in old.values() if from_sanity(p) and not p.get('retired'))
+               if u not in by_url and retirable(p) and not p.get('retired')]
+    live_before = sum(1 for p in old.values() if retirable(p) and not p.get('retired'))
     if live_before and len(retired) > live_before / 2 and not a.force:
-        print(f'refusing: this rebuild would retire {len(retired)} of {live_before} Sanity pages; '
+        print(f'refusing: this rebuild would retire {len(retired)} of {live_before} linked pages; '
               'that is a broken read, not an unwiring (use --force if it is real)', file=sys.stderr)
         return 2
     pages.extend(kept)
@@ -123,7 +134,7 @@ def main() -> int:
     for u in added:
         print(f'  + {u}')
     for u in dropped:
-        print(f'  - {u}  (no longer referenced in Sanity)')
+        print(f'  - {u}  (no longer linked from course content)')
     if a.dry_run:
         return 0
     json.dump(out, open(a.manifest, 'w'), indent=2)

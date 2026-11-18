@@ -83,6 +83,7 @@ def main() -> int:
                         seen.add(row)
                         print('|'.join(row))
                         n += 1
+        print(f'#read sanity:{dataset}')
         print(f'{project}/{dataset}: {len(docs)} documents, {n} rows', file=sys.stderr)
     return 0
 

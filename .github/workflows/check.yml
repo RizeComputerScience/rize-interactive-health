@@ -39,14 +39,19 @@ jobs:
       - run: npm ci
       - run: npx playwright install --with-deps chromium
 
-      # Every run refreshes the page list from what courses link to (both Sanity
-      # datasets, public read, no credentials), so a page is registered by being
-      # linked. If the read fails or looks broken, the old list stands and the run
-      # carries on: a stale list is better than no check.
-      - name: Refresh the page list from Sanity
+      # Every run refreshes the page list from what courses link to: both Sanity
+      # datasets (public read, no credentials) and, when the PSYQUE_TOKEN secret is
+      # set, the courses that live in Psyque. A page is registered by being linked.
+      # If a read fails or looks broken, the old list stands and the run carries on:
+      # a stale list is better than no check. A skipped or failed Psyque read never
+      # retires Psyque pages.
+      - name: Refresh the page list from course content
         continue-on-error: true
+        env:
+          PSYQUE_TOKEN: ${{ secrets.PSYQUE_TOKEN }}
         run: |
           python3 scripts/sanity_rows.py > rows.txt
+          python3 scripts/psyque_rows.py >> rows.txt || echo "Psyque read failed; Psyque pages kept as they were."
           python3 scripts/build_manifest.py --rows rows.txt
 
       - name: Check every page

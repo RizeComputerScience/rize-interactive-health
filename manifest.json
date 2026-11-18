@@ -1533,6 +1533,42 @@
       }
     },
     {
+      "id": "due-process-cases",
+      "url": "https://due-process-cases.netlify.app/",
+      "courses": [
+        "CRIMJ VII"
+      ],
+      "owner": "netlify:due-process-cases",
+      "source": "psyque:blueprint",
+      "expect": {
+        "minVisibleText": 300
+      }
+    },
+    {
+      "id": "youth-crime-numbers-simulation",
+      "url": "https://youth-crime-numbers-simulation.netlify.app/",
+      "courses": [
+        "CRIMJ VII"
+      ],
+      "owner": "netlify:youth-crime-numbers-simulation",
+      "source": "psyque:blueprint",
+      "expect": {
+        "minVisibleText": 300
+      }
+    },
+    {
+      "id": "ITM_itm2-u7-shared-drive",
+      "url": "https://rizecomputerscience.github.io/ITM/itm2-u7-shared-drive/",
+      "courses": [
+        "ITM II"
+      ],
+      "owner": "RizeComputerScience",
+      "source": "psyque:blueprint",
+      "expect": {
+        "minVisibleText": 300
+      }
+    },
+    {
       "id": "calc1-speed-at-an-instant",
       "url": "https://rizecomputerscience.github.io/calc1-speed-at-an-instant/",
       "courses": [
