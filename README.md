@@ -91,8 +91,9 @@ TRIAGE.md               what to do when a run fails; read this first
 manifest.json           what gets checked, and which course each page serves
 scripts/check.mjs       the checker (Playwright; ~230 lines, the whole engine)
 scripts/render_status.mjs   builds the status board from results.json
-scripts/build_manifest.py   regenerates the manifest from a Sanity inventory
-scripts/sanity_urls.groq    the GROQ query that produces that inventory
+scripts/sanity_rows.py      reads every Rize-hosted link from both Sanity datasets (each run)
+scripts/build_manifest.py   merges those rows into the manifest (keeps manual entries)
+scripts/sanity_urls.groq    the older MCP query, for a by-hand inventory
 template/interactive-page-template.html   start every new page from this
 workflow/check.yml      the GitHub Actions workflow (the entire "system")
 SELFCHECK.md            the page-author contract

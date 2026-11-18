@@ -214,6 +214,16 @@ const results = await pool(pages, CONCURRENCY, async (p) => {
   console.log(`  ${r.status.padEnd(4)} ${r.id}`);
   return r;
 });
+// A check that never got an answer (timeout, connection reset) is usually the
+// host throttling parallel loads, not a broken page: Netlify did this to a third
+// of its pages at concurrency 6 (2026-11-18). Retry those once, one at a time.
+const unanswered = (r) => r.status === 'FAIL' && r.fails.some((f) => f.startsWith('Check could not complete'));
+for (let i = 0; i < results.length; i++) {
+  if (!unanswered(results[i])) continue;
+  const page = pages.find((p) => p.url === results[i].url);
+  results[i] = await checkPage(browser, page);
+  console.log(`  ${results[i].status.padEnd(4)} ${results[i].id} (retried one at a time)`);
+}
 await browser.close();
 
 // Outbound links are checked once globally, not per page, so a shared

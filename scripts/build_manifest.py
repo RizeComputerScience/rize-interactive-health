@@ -1,15 +1,25 @@
 #!/usr/bin/env python3
 """Rebuild manifest.json from a fresh Sanity inventory.
 
-The Sanity read is done by a Claude through the Sanity MCP (see
-sanity_urls.groq), not by this script, so that CI never needs Sanity
-credentials. The Claude saves the rows as `COURSE|URL` lines and runs:
+The weekly workflow does this on its own: scripts/sanity_rows.py reads both
+public Sanity datasets (no credentials) and prints `COURSE|URL|SOURCE` lines,
+then this script merges them in:
 
+    python3 scripts/sanity_rows.py > rows.txt
     python3 scripts/build_manifest.py --rows rows.txt
 
 Hand-tuned `expect` blocks on existing pages are preserved. Pages that have
 dropped out of Sanity are kept but marked `"retired": true` rather than
-deleted, so an unwiring that was a mistake stays visible.
+deleted, so an unwiring that was a mistake stays visible. Pages added by hand
+(`"source": "manual"`, e.g. a page linked from a course that lives in Psyque,
+which Sanity cannot see) are never retired by a rebuild. If a rebuild would
+retire more than half of the Sanity-sourced pages at once, it refuses: that
+is a broken read, not a mass unwiring (override with --force).
+
+>>> owner_for('https://rizecomputerscience.github.io/calc1-chain-rule/')
+'RizeComputerScience'
+>>> owner_for('https://physc-ii.netlify.app/unit-3/')
+'netlify:physc-ii'
 """
 import argparse, collections, datetime, json, os, sys
 
@@ -17,16 +27,42 @@ ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 
 
 def slug(url: str) -> str:
-    s = url.split('://', 1)[-1].split('/', 1)[-1].rstrip('/') or 'root'
+    """A GitHub Pages id is the path (the repo names the page); elsewhere the site
+    name leads, so two Netlify sites' home pages do not both become `root`.
+
+    >>> slug('https://rizecomputerscience.github.io/calc1-chain-rule/')
+    'calc1-chain-rule'
+    >>> slug('https://physc-ii.netlify.app/unit-3/')
+    'physc-ii_unit-3'
+    >>> slug('https://chem-ii-unit2.netlify.app/')
+    'chem-ii-unit2'
+    """
+    host, _, path = url.split('://', 1)[-1].partition('/')
+    s = path.rstrip('/')
+    if not host.lower().endswith('.github.io'):
+        s = host.split('.')[0] + ('_' + s if s else '')
+    s = s or 'root'
     return s.replace('/', '_').replace('?', '-').replace('=', '').replace('&', '-')
+
+
+def owner_for(url: str) -> str:
+    host = url.split('://', 1)[-1].split('/', 1)[0].lower()
+    if host.endswith('.netlify.app'):
+        return 'netlify:' + host[:-len('.netlify.app')]
+    account = host.split('.')[0]
+    return 'RizeComputerScience' if account == 'rizecomputerscience' else account
+
+
+def from_sanity(p: dict) -> bool:
+    return str(p.get('source', '')).startswith('sanity:')
 
 
 def main() -> int:
     ap = argparse.ArgumentParser()
     ap.add_argument('--rows', required=True, help='file of COURSE|URL lines')
     ap.add_argument('--manifest', default=os.path.join(ROOT, 'manifest.json'))
-    ap.add_argument('--owner', default='swachtel-dev')
     ap.add_argument('--dry-run', action='store_true')
+    ap.add_argument('--force', action='store_true', help='allow retiring more than half the Sanity pages at once')
     a = ap.parse_args()
 
     by_url = collections.OrderedDict()
@@ -34,29 +70,44 @@ def main() -> int:
         line = line.strip()
         if not line or line.startswith('#'):
             continue
-        course, _, url = line.partition('|')
-        if not url:
+        parts = [x.strip() for x in line.split('|')]
+        if len(parts) < 2 or not parts[1]:
             print(f'skipping malformed row: {line}', file=sys.stderr)
             continue
-        by_url.setdefault(url.strip(), set()).add(course.strip())
+        course, url = parts[0], parts[1]
+        source = parts[2] if len(parts) > 2 and parts[2] else 'sanity:production'
+        entry = by_url.setdefault(url, {'courses': set(), 'sources': set()})
+        if course and course != '?':
+            entry['courses'].add(course)
+        entry['sources'].add(source)
 
     old = {}
     if os.path.exists(a.manifest):
         old = {p['url']: p for p in json.load(open(a.manifest)).get('pages', [])}
 
     pages = []
-    for url, courses in by_url.items():
+    for url, e in by_url.items():
         prev = old.get(url, {})
+        courses = set(e['courses'])
+        if not from_sanity(prev):
+            courses |= set(prev.get('courses', []))  # a hand-added page keeps its courses
         pages.append({
             'id': prev.get('id') or slug(url),
             'url': url,
             'courses': sorted(courses),
-            'owner': prev.get('owner', a.owner),
-            'source': 'sanity:production',
+            'owner': prev.get('owner') or owner_for(url),
+            'source': 'sanity:production' if 'sanity:production' in e['sources'] else sorted(e['sources'])[0],
             'expect': prev.get('expect', {'minVisibleText': 300}),
         })
+    kept = [p for u, p in old.items() if u not in by_url and not from_sanity(p)]
     retired = [dict(p, retired=True, courses=[]) for u, p in old.items()
-               if u not in by_url and not p.get('retired')]
+               if u not in by_url and from_sanity(p) and not p.get('retired')]
+    live_before = sum(1 for p in old.values() if from_sanity(p) and not p.get('retired'))
+    if live_before and len(retired) > live_before / 2 and not a.force:
+        print(f'refusing: this rebuild would retire {len(retired)} of {live_before} Sanity pages; '
+              'that is a broken read, not an unwiring (use --force if it is real)', file=sys.stderr)
+        return 2
+    pages.extend(kept)
     pages.extend(retired)
 
     out = {

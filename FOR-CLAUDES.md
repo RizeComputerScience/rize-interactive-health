@@ -41,31 +41,42 @@ Then, in the repo settings:
 
 ## Step 2: the manifest
 
-Query Sanity for every externally-hosted URL that live course content links to. The
-query is in `scripts/sanity_urls.groq`. Run it through the Sanity MCP against
-`{"projectId": "yom2datu", "dataset": "production"}`, with `$prefix` set to the
-ID's GitHub Pages origin (for example `https://<account>.github.io`).
-
-**Use `string::startsWith`, not `match`.** GROQ's `match` returns true against the null
-hrefs inside `markDefs` and will silently select every document in the dataset. This
-cost an hour the first time. The query in the repo already does it correctly.
-
-Save the results as `COURSE|URL` lines, then:
+**The workflow keeps the manifest current on its own (since 2026-11-18).** Every run
+first reads both Sanity datasets anonymously (they are public-read): `yom2datu/production`
+for live courses and `9v6llexe/future` for courses being built. It keeps every link to
+a Rize host (`swachtel-dev.github.io`, `rizecomputerscience.github.io`, any
+`*.netlify.app`) and merges them into `manifest.json`. A page is registered by being
+linked from a course; nobody has to add it. To run the same thing by hand:
 
 ```bash
+python3 scripts/sanity_rows.py > rows.txt
 python3 scripts/build_manifest.py --rows rows.txt
 ```
 
 Check the diff it prints. New URLs appear as `+`. URLs that dropped out of Sanity are
 kept and marked `retired: true` rather than deleted, because an unwiring is sometimes a
-mistake and a silent deletion hides it.
+mistake and a silent deletion hides it. A rebuild that would retire more than half the
+Sanity pages at once refuses (a broken read, not a mass unwiring); the run then checks
+the old list.
+
+**What it cannot see: courses that live in Psyque.** Sanity has no copy of their links.
+Add those pages by hand with `"source": "manual"` (and `courses`); a rebuild never
+retires a manual entry, and it switches to Sanity tracking if the link later shows up
+there. Hosts outside the list above (another GitHub account, Google Sites) also go in
+by hand.
+
+**Use `string::startsWith`, not `match`,** if you ever query the hrefs yourself
+(`scripts/sanity_urls.groq` is the old MCP version). GROQ's `match` returns true against
+the null hrefs inside `markDefs` and will silently select every document in the dataset.
 
 Note that the manifest holds the **exact URLs courses link to**, including deep links
 and query strings (`/macro-interactives/u1.html`, `/asm-fm-formula-trainer/?unit=3`).
 A deep link can 404 while the repo's home page is perfectly fine, so checking repo roots
 is not a substitute.
 
-Rerun this whenever pages are added or a course is rebuilt. Quarterly is plenty.
+A page whose design shows little text at first (a step-by-step studio, a tap game) can
+fail the 300-character floor while working fine; lower its `expect.minVisibleText` by
+hand after looking at it. Rebuilds keep hand-tuned `expect` blocks.
 
 ## Step 3: prove it works
 

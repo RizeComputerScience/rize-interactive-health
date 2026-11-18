@@ -39,6 +39,16 @@ jobs:
       - run: npm ci
       - run: npx playwright install --with-deps chromium
 
+      # Every run refreshes the page list from what courses link to (both Sanity
+      # datasets, public read, no credentials), so a page is registered by being
+      # linked. If the read fails or looks broken, the old list stands and the run
+      # carries on: a stale list is better than no check.
+      - name: Refresh the page list from Sanity
+        continue-on-error: true
+        run: |
+          python3 scripts/sanity_rows.py > rows.txt
+          python3 scripts/build_manifest.py --rows rows.txt
+
       - name: Check every page
         id: check
         run: node scripts/check.mjs --manifest manifest.json --out results.json
@@ -54,7 +64,7 @@ jobs:
         run: |
           git config user.name  "interactive-health bot"
           git config user.email "actions@github.com"
-          git add docs/index.html results.json
+          git add docs/index.html results.json manifest.json
           if git diff --staged --quiet; then
             echo "Status board unchanged; nothing to publish."
             exit 0
