@@ -139,7 +139,7 @@ jobs:
             echo "| What must a page do to pass? | [\`SELFCHECK.md\`](https://github.com/${{ github.repository }}/blob/main/SELFCHECK.md) |"
             echo "| When is an interactive page allowed at all? | \`standards/interactive-pages.md\` in the Workbench repo (\`projects/hacking/repos/coursedev/\`) |"
             echo ""
-            echo "Status board: https://swachtel-dev.github.io/rize-interactive-health/"
+            echo "Status board: https://rizecomputerscience.github.io/rize-interactive-health/"
           } >> "$GITHUB_STEP_SUMMARY"
 
       # Optional. Add a SLACK_WEBHOOK secret to get pinged; without it this is skipped.
@@ -157,7 +157,7 @@ jobs:
               broken.map(b => "• <" + b.url + "|" + (b.title || b.id) + "> (" +
                               (b.courses.join(", ") || "no course") + ") — " + b.fails[0]).join("\n") +
               "\nTriage: <https://github.com/" + process.env.REPO + "/blob/main/TRIAGE.md|TRIAGE.md>" +
-              " · <https://swachtel-dev.github.io/rize-interactive-health/|status board>" });
+              " · <https://rizecomputerscience.github.io/rize-interactive-health/|status board>" });
           ')"
 
       # Fail the run last, so the status page and summary are always produced first.

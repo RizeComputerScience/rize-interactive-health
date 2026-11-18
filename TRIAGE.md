@@ -35,7 +35,7 @@ will be when the term starts.
    `node scripts/check.mjs --manifest <(...) --no-links`, or at minimum load the page and
    exercise the thing that broke.
 6. **Confirm green.** GitHub Pages takes a minute to redeploy. Then re-run this workflow
-   (`gh workflow run "Check interactive pages" --repo swachtel-dev/rize-interactive-health`)
+   (`gh workflow run "Check interactive pages" --repo RizeComputerScience/rize-interactive-health`)
    and check the board.
 
 ### Failure modes seen so far, with their real causes
@@ -92,10 +92,9 @@ and mostly not the course's fault, and a board that goes red every week gets ign
   `standards/interactive-pages.md` in the Workbench repo
   (`~/Desktop/Mucking/projects/hacking/repos/coursedev/`). That is the governing
   standard; this repo is the enforcement.
-- **Source of truth:** the working copy is `projects/coursedev/interactive-health/` on
-  Samuel's machine; `swachtel-dev/rize-interactive-health` on GitHub is the published
-  copy. Edit the local one and publish. Pathway:
-  `coursedev/interactive-health-MAINTAINING.md`.
+- **Source of truth:** this repo, `RizeComputerScience/rize-interactive-health`
+  (Rize-owned since 2026-11-18). Edit here and push; `git pull` first, because every
+  run commits `manifest.json`, `results.json` and the board.
 
 Two things that will waste your time if you do not know them:
 
