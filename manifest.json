@@ -1340,6 +1340,58 @@
         "minVisibleText": 300,
         "selfCheck": true
       }
+    },
+    {
+      "id": "finan3-bond-desk",
+      "url": "https://rizecomputerscience.github.io/finan3-bond-desk/",
+      "courses": [
+        "FINAN III"
+      ],
+      "owner": "RizeComputerScience",
+      "source": "manual",
+      "expect": {
+        "minVisibleText": 300,
+        "selfCheck": true
+      }
+    },
+    {
+      "id": "finan3-florence-desk",
+      "url": "https://rizecomputerscience.github.io/finan3-florence-desk/",
+      "courses": [
+        "FINAN III"
+      ],
+      "owner": "RizeComputerScience",
+      "source": "manual",
+      "expect": {
+        "minVisibleText": 300,
+        "selfCheck": true
+      }
+    },
+    {
+      "id": "finan3-mortgage-desk",
+      "url": "https://rizecomputerscience.github.io/finan3-mortgage-desk/",
+      "courses": [
+        "FINAN III"
+      ],
+      "owner": "RizeComputerScience",
+      "source": "manual",
+      "expect": {
+        "minVisibleText": 300,
+        "selfCheck": true
+      }
+    },
+    {
+      "id": "finan3-currency-desk",
+      "url": "https://rizecomputerscience.github.io/finan3-currency-desk/",
+      "courses": [
+        "FINAN III"
+      ],
+      "owner": "RizeComputerScience",
+      "source": "manual",
+      "expect": {
+        "minVisibleText": 300,
+        "selfCheck": true
+      }
     }
   ]
 }

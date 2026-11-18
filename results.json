@@ -1,11 +1,11 @@
 {
   "summary": {
-    "generated": "2026-11-16T20:43:31.768Z",
-    "total": 107,
+    "generated": "2026-11-18T04:57:07.397Z",
+    "total": 111,
     "fail": 11,
-    "warn": 9,
-    "ok": 87,
-    "deadLinks": 5
+    "warn": 10,
+    "ok": 90,
+    "deadLinks": 1
   },
   "results": [
     {
@@ -20,7 +20,7 @@
       "warns": [],
       "selfCheck": null,
       "links": [],
-      "checkedAt": "2026-11-16T20:42:29.822Z",
+      "checkedAt": "2026-11-18T04:55:57.952Z",
       "httpStatus": 200,
       "visibleText": 1327
     },
@@ -31,9 +31,11 @@
         "FINAN I"
       ],
       "title": "Finding Financial Statements Online - FINAN I Unit 3",
-      "status": "OK",
+      "status": "WARN",
       "fails": [],
-      "warns": [],
+      "warns": [
+        "Console error: Failed to load resource: the server responded with a status of 404 ()"
+      ],
       "selfCheck": null,
       "links": [
         "https://www.sec.gov/search-filings",
@@ -41,7 +43,7 @@
         "https://www.investopedia.com/terms/1/10-k.asp",
         "https://www.khanacademy.org/economics-finance-domain/core-finance/accounting-and-financial-stateme"
       ],
-      "checkedAt": "2026-11-16T20:42:29.822Z",
+      "checkedAt": "2026-11-18T04:55:57.956Z",
       "httpStatus": 200,
       "visibleText": 6664
     },
@@ -57,7 +59,7 @@
       "warns": [],
       "selfCheck": null,
       "links": [],
-      "checkedAt": "2026-11-16T20:42:29.822Z",
+      "checkedAt": "2026-11-18T04:55:57.956Z",
       "httpStatus": 200,
       "visibleText": 2603
     },
@@ -75,7 +77,7 @@
       ],
       "selfCheck": null,
       "links": [],
-      "checkedAt": "2026-11-16T20:42:29.822Z",
+      "checkedAt": "2026-11-18T04:55:57.956Z",
       "httpStatus": 200,
       "visibleText": 14866
     },
@@ -93,7 +95,7 @@
       ],
       "selfCheck": null,
       "links": [],
-      "checkedAt": "2026-11-16T20:42:29.822Z",
+      "checkedAt": "2026-11-18T04:55:57.956Z",
       "httpStatus": 200,
       "visibleText": 13697
     },
@@ -104,12 +106,14 @@
         "FINAN I"
       ],
       "title": "How to Evaluate a Business - FINAN I Unit 2",
-      "status": "OK",
+      "status": "WARN",
       "fails": [],
-      "warns": [],
+      "warns": [
+        "Console error: Failed to load resource: the server responded with a status of 404 ()"
+      ],
       "selfCheck": null,
       "links": [],
-      "checkedAt": "2026-11-16T20:42:29.822Z",
+      "checkedAt": "2026-11-18T04:55:57.956Z",
       "httpStatus": 200,
       "visibleText": 5716
     },
@@ -137,7 +141,7 @@
         "https://www.youtube.com/watch?v=9jLlOPqHxLs",
         "https://www.youtube.com/watch?v=GMNcJ0pXAY8"
       ],
-      "checkedAt": "2026-11-16T20:42:31.151Z",
+      "checkedAt": "2026-11-18T04:55:59.717Z",
       "httpStatus": 200,
       "visibleText": 14979
     },
@@ -153,7 +157,7 @@
       "warns": [],
       "selfCheck": null,
       "links": [],
-      "checkedAt": "2026-11-16T20:42:31.170Z",
+      "checkedAt": "2026-11-18T04:55:59.797Z",
       "httpStatus": 200,
       "visibleText": 1367
     },
@@ -169,7 +173,7 @@
       "warns": [],
       "selfCheck": null,
       "links": [],
-      "checkedAt": "2026-11-16T20:42:31.280Z",
+      "checkedAt": "2026-11-18T04:55:59.972Z",
       "httpStatus": 200,
       "visibleText": 2073
     },
@@ -185,7 +189,7 @@
       "warns": [],
       "selfCheck": null,
       "links": [],
-      "checkedAt": "2026-11-16T20:42:31.329Z",
+      "checkedAt": "2026-11-18T04:56:00.071Z",
       "httpStatus": 200,
       "visibleText": 2464
     },
@@ -201,7 +205,7 @@
       "warns": [],
       "selfCheck": null,
       "links": [],
-      "checkedAt": "2026-11-16T20:42:31.410Z",
+      "checkedAt": "2026-11-18T04:56:00.137Z",
       "httpStatus": 200,
       "visibleText": 1397
     },
@@ -217,7 +221,7 @@
       "warns": [],
       "selfCheck": null,
       "links": [],
-      "checkedAt": "2026-11-16T20:42:31.446Z",
+      "checkedAt": "2026-11-18T04:56:00.243Z",
       "httpStatus": 200,
       "visibleText": 2535
     },
@@ -258,7 +262,7 @@
         "https://makerdao.com/en/whitepaper/",
         "https://daistats.com/"
       ],
-      "checkedAt": "2026-11-16T20:42:32.637Z",
+      "checkedAt": "2026-11-18T04:56:01.429Z",
       "httpStatus": 200,
       "visibleText": 6946
     },
@@ -278,7 +282,7 @@
         "https://corporatefinanceinstitute.com/resources/accounting/statement-of-cash-flows/",
         "https://www.investopedia.com/investing/what-is-a-cash-flow-statement/"
       ],
-      "checkedAt": "2026-11-16T20:42:32.786Z",
+      "checkedAt": "2026-11-18T04:56:01.522Z",
       "httpStatus": 200,
       "visibleText": 14897
     },
@@ -294,7 +298,7 @@
       "warns": [],
       "selfCheck": null,
       "links": [],
-      "checkedAt": "2026-11-16T20:42:32.841Z",
+      "checkedAt": "2026-11-18T04:56:01.664Z",
       "httpStatus": 200,
       "visibleText": 18199
     },
@@ -310,7 +314,7 @@
       "warns": [],
       "selfCheck": null,
       "links": [],
-      "checkedAt": "2026-11-16T20:42:32.867Z",
+      "checkedAt": "2026-11-18T04:56:01.878Z",
       "httpStatus": 200,
       "visibleText": 5251
     },
@@ -326,7 +330,7 @@
       "warns": [],
       "selfCheck": null,
       "links": [],
-      "checkedAt": "2026-11-16T20:42:32.892Z",
+      "checkedAt": "2026-11-18T04:56:01.969Z",
       "httpStatus": 200,
       "visibleText": 1350
     },
@@ -342,7 +346,7 @@
       "warns": [],
       "selfCheck": null,
       "links": [],
-      "checkedAt": "2026-11-16T20:42:32.956Z",
+      "checkedAt": "2026-11-18T04:56:02.055Z",
       "httpStatus": 200,
       "visibleText": 6493
     },
@@ -358,7 +362,7 @@
       "warns": [],
       "selfCheck": null,
       "links": [],
-      "checkedAt": "2026-11-16T20:42:33.845Z",
+      "checkedAt": "2026-11-18T04:56:02.922Z",
       "httpStatus": 200,
       "visibleText": 9222
     },
@@ -386,7 +390,7 @@
         "https://www.piie.com/blogs/realtime-economics/2026/china-gives-state-backed-digital-cash-us-and-europe-should-take-note",
         "https://www.bis.org/publ/bppdf/bispap159.htm"
       ],
-      "checkedAt": "2026-11-16T20:42:34.025Z",
+      "checkedAt": "2026-11-18T04:56:03.020Z",
       "httpStatus": 200,
       "visibleText": 14202
     },
@@ -402,7 +406,7 @@
       "warns": [],
       "selfCheck": null,
       "links": [],
-      "checkedAt": "2026-11-16T20:42:34.086Z",
+      "checkedAt": "2026-11-18T04:56:03.096Z",
       "httpStatus": 200,
       "visibleText": 1408
     },
@@ -422,7 +426,7 @@
         "https://actuary.org/article/unmasking-hidden-bias/",
         "https://fortune.com/2021/05/26/lemonade-insurance-ai-face-scanning-fraud/"
       ],
-      "checkedAt": "2026-11-16T20:42:34.145Z",
+      "checkedAt": "2026-11-18T04:56:03.241Z",
       "httpStatus": 200,
       "visibleText": 19366
     },
@@ -441,7 +445,7 @@
       ],
       "selfCheck": null,
       "links": [],
-      "checkedAt": "2026-11-16T20:42:34.239Z",
+      "checkedAt": "2026-11-18T04:56:03.454Z",
       "httpStatus": 200,
       "visibleText": 10800
     },
@@ -457,7 +461,7 @@
       "warns": [],
       "selfCheck": null,
       "links": [],
-      "checkedAt": "2026-11-16T20:42:34.478Z",
+      "checkedAt": "2026-11-18T04:56:03.771Z",
       "httpStatus": 200,
       "visibleText": 1445
     },
@@ -488,7 +492,7 @@
         "https://www.youtube.com/watch?v=uPRQnQxsL3E",
         "https://www.youtube.com/watch?v=5X5v7vRYQjc"
       ],
-      "checkedAt": "2026-11-16T20:42:35.304Z",
+      "checkedAt": "2026-11-18T04:56:04.632Z",
       "httpStatus": 200,
       "visibleText": 16450
     },
@@ -508,7 +512,7 @@
         "https://www.investopedia.com/terms/y/year-over-year.asp",
         "https://support.microsoft.com/en-us/office/create-a-chart-from-start-to-finish-0baf399e-dd61-4e18-8a73-b3fd5d5680c2"
       ],
-      "checkedAt": "2026-11-16T20:42:35.388Z",
+      "checkedAt": "2026-11-18T04:56:04.707Z",
       "httpStatus": 200,
       "visibleText": 5744
     },
@@ -519,18 +523,16 @@
         "FINAN I"
       ],
       "title": "Berkshire Hathaway Financial Data Guide - FINAN I Unit 7",
-      "status": "WARN",
+      "status": "OK",
       "fails": [],
-      "warns": [
-        "Outbound link is dead (HTTP 0): https://www.sec.gov/cgi-bin/browse-edgar?company=berkshire+hathaway&CIK=&type=10-K&dateb=&owner=include&count=40&search_text=&action=getcompany"
-      ],
+      "warns": [],
       "selfCheck": null,
       "links": [
         "https://www.berkshirehathaway.com/letters/2022ltr.pdf",
         "https://www.berkshirehathaway.com/reports.html",
         "https://www.sec.gov/cgi-bin/browse-edgar?company=berkshire+hathaway&CIK=&type=10-K&dateb=&owner=include&count=40&search_text=&action=getcompany"
       ],
-      "checkedAt": "2026-11-16T20:42:35.433Z",
+      "checkedAt": "2026-11-18T04:56:04.787Z",
       "httpStatus": 200,
       "visibleText": 3893
     },
@@ -546,7 +548,7 @@
       "warns": [],
       "selfCheck": null,
       "links": [],
-      "checkedAt": "2026-11-16T20:42:35.457Z",
+      "checkedAt": "2026-11-18T04:56:04.869Z",
       "httpStatus": 200,
       "visibleText": 1431
     },
@@ -562,7 +564,7 @@
       "warns": [],
       "selfCheck": null,
       "links": [],
-      "checkedAt": "2026-11-16T20:42:35.797Z",
+      "checkedAt": "2026-11-18T04:56:05.325Z",
       "httpStatus": 200,
       "visibleText": 1360
     },
@@ -594,7 +596,7 @@
         "https://ocw.mit.edu/courses/15-s12-blockchain-and-money-fall-2018/",
         "https://ethereum.org/developers/docs/standards/tokens/erc-20/"
       ],
-      "checkedAt": "2026-11-16T20:42:36.113Z",
+      "checkedAt": "2026-11-18T04:56:05.431Z",
       "httpStatus": 200,
       "visibleText": 12852
     },
@@ -614,7 +616,7 @@
         "https://www.investopedia.com/terms/b/balancesheet.asp",
         "https://corporatefinanceinstitute.com/resources/accounting/balance-sheet/"
       ],
-      "checkedAt": "2026-11-16T20:42:36.620Z",
+      "checkedAt": "2026-11-18T04:56:06.074Z",
       "httpStatus": 200,
       "visibleText": 7884
     },
@@ -633,7 +635,7 @@
       ],
       "selfCheck": null,
       "links": [],
-      "checkedAt": "2026-11-16T20:42:36.678Z",
+      "checkedAt": "2026-11-18T04:56:06.160Z",
       "httpStatus": 200,
       "visibleText": 17252
     },
@@ -649,7 +651,7 @@
       "warns": [],
       "selfCheck": null,
       "links": [],
-      "checkedAt": "2026-11-16T20:42:36.775Z",
+      "checkedAt": "2026-11-18T04:56:06.425Z",
       "httpStatus": 200,
       "visibleText": 1284
     },
@@ -665,7 +667,7 @@
       "warns": [],
       "selfCheck": null,
       "links": [],
-      "checkedAt": "2026-11-16T20:42:36.832Z",
+      "checkedAt": "2026-11-18T04:56:06.518Z",
       "httpStatus": 200,
       "visibleText": 1431
     },
@@ -683,7 +685,7 @@
       "links": [
         "https://support.microsoft.com/en-us/office/create-a-chart-from-start-to-finish-0baf399e-dd61-4e18-8a73-b3fd5d5680c2"
       ],
-      "checkedAt": "2026-11-16T20:42:37.094Z",
+      "checkedAt": "2026-11-18T04:56:06.871Z",
       "httpStatus": 200,
       "visibleText": 11265
     },
@@ -699,7 +701,7 @@
       "warns": [],
       "selfCheck": null,
       "links": [],
-      "checkedAt": "2026-11-16T20:42:37.450Z",
+      "checkedAt": "2026-11-18T04:56:07.074Z",
       "httpStatus": 200,
       "visibleText": 1367
     },
@@ -718,7 +720,7 @@
       ],
       "selfCheck": null,
       "links": [],
-      "checkedAt": "2026-11-16T20:42:37.852Z",
+      "checkedAt": "2026-11-18T04:56:07.618Z",
       "httpStatus": 200,
       "visibleText": 7125
     },
@@ -734,7 +736,7 @@
       "warns": [],
       "selfCheck": null,
       "links": [],
-      "checkedAt": "2026-11-16T20:42:38.146Z",
+      "checkedAt": "2026-11-18T04:56:07.938Z",
       "httpStatus": 200,
       "visibleText": 1358
     },
@@ -750,7 +752,7 @@
       "warns": [],
       "selfCheck": null,
       "links": [],
-      "checkedAt": "2026-11-16T20:42:38.186Z",
+      "checkedAt": "2026-11-18T04:56:08.063Z",
       "httpStatus": 200,
       "visibleText": 3260
     },
@@ -766,7 +768,7 @@
       "warns": [],
       "selfCheck": null,
       "links": [],
-      "checkedAt": "2026-11-16T20:42:38.326Z",
+      "checkedAt": "2026-11-18T04:56:08.236Z",
       "httpStatus": 200,
       "visibleText": 6188
     },
@@ -793,7 +795,7 @@
         "https://etherscan.io/",
         "https://etherscan.io/gastracker"
       ],
-      "checkedAt": "2026-11-16T20:42:38.393Z",
+      "checkedAt": "2026-11-18T04:56:08.238Z",
       "httpStatus": 200,
       "visibleText": 14191
     },
@@ -809,7 +811,7 @@
       "warns": [],
       "selfCheck": null,
       "links": [],
-      "checkedAt": "2026-11-16T20:42:38.723Z",
+      "checkedAt": "2026-11-18T04:56:08.553Z",
       "httpStatus": 200,
       "visibleText": 1618
     },
@@ -834,7 +836,7 @@
         "https://www.bis.org/about/bisih/topics/cbdc/mcbdc_bridge.htm",
         "https://www.atlanticcouncil.org/programs/geoeconomics-center/dollar-dominance-monitor/"
       ],
-      "checkedAt": "2026-11-16T20:42:39.521Z",
+      "checkedAt": "2026-11-18T04:56:09.542Z",
       "httpStatus": 200,
       "visibleText": 11768
     },
@@ -850,7 +852,7 @@
       "warns": [],
       "selfCheck": null,
       "links": [],
-      "checkedAt": "2026-11-16T20:42:39.656Z",
+      "checkedAt": "2026-11-18T04:56:09.633Z",
       "httpStatus": 200,
       "visibleText": 1331
     },
@@ -866,7 +868,7 @@
       "warns": [],
       "selfCheck": null,
       "links": [],
-      "checkedAt": "2026-11-16T20:42:39.723Z",
+      "checkedAt": "2026-11-18T04:56:09.737Z",
       "httpStatus": 200,
       "visibleText": 2278
     },
@@ -885,7 +887,7 @@
       ],
       "selfCheck": null,
       "links": [],
-      "checkedAt": "2026-11-16T20:42:39.780Z",
+      "checkedAt": "2026-11-18T04:56:09.804Z",
       "httpStatus": 200,
       "visibleText": 12063
     },
@@ -905,7 +907,7 @@
         "https://www.congress.gov/event/117th-congress/house-event/LC66883/text",
         "https://www.npr.org/2021/02/18/968829355/gamestop-hearing-today-roaring-kitty-along-with-ceos-to-appear-before-congress"
       ],
-      "checkedAt": "2026-11-16T20:42:39.833Z",
+      "checkedAt": "2026-11-18T04:56:10.111Z",
       "httpStatus": 200,
       "visibleText": 3515
     },
@@ -929,7 +931,7 @@
         "https://www.youtube.com/watch?v=-4yCXpv-drg",
         "https://www.youtube.com/watch?v=iotrTlRT3q0"
       ],
-      "checkedAt": "2026-11-16T20:42:40.022Z",
+      "checkedAt": "2026-11-18T04:56:10.301Z",
       "httpStatus": 200,
       "visibleText": 5795
     },
@@ -951,7 +953,7 @@
         "https://www.brookings.edu/articles/an-ai-fair-lending-policy-agenda-for-the-federal-financial-regulators/",
         "https://www.federalreserve.gov/econres/feds/files/2017056pap.pdf"
       ],
-      "checkedAt": "2026-11-16T20:42:40.861Z",
+      "checkedAt": "2026-11-18T04:56:11.126Z",
       "httpStatus": 200,
       "visibleText": 4390
     },
@@ -967,7 +969,7 @@
       "warns": [],
       "selfCheck": null,
       "links": [],
-      "checkedAt": "2026-11-16T20:42:40.968Z",
+      "checkedAt": "2026-11-18T04:56:11.214Z",
       "httpStatus": 200,
       "visibleText": 1356
     },
@@ -978,13 +980,9 @@
         "FINAN VIII"
       ],
       "title": "Fintech Company Profiles",
-      "status": "WARN",
+      "status": "OK",
       "fails": [],
-      "warns": [
-        "Outbound link is dead (HTTP 404): https://investors.block.xyz/financial-information/sec-filings",
-        "Outbound link is dead (HTTP 404): https://investors.sofi.com/financial-information/sec-filings",
-        "Outbound link is dead (HTTP 404): https://investors.toasttab.com/financial-information/sec-filings"
-      ],
+      "warns": [],
       "selfCheck": null,
       "links": [
         "https://stripe.com/newsroom",
@@ -1019,7 +1017,7 @@
         "https://investors.toasttab.com/",
         "https://pos.toasttab.com/about"
       ],
-      "checkedAt": "2026-11-16T20:42:41.007Z",
+      "checkedAt": "2026-11-18T04:56:11.297Z",
       "httpStatus": 200,
       "visibleText": 2643
     },
@@ -1040,7 +1038,7 @@
         "https://www.britannica.com/money/profit-margin-types",
         "https://corporatefinanceinstitute.com/resources/accounting/profit-margin/"
       ],
-      "checkedAt": "2026-11-16T20:42:41.216Z",
+      "checkedAt": "2026-11-18T04:56:11.674Z",
       "httpStatus": 200,
       "visibleText": 8164
     },
@@ -1051,9 +1049,11 @@
         "MATHS I"
       ],
       "title": "The chain rule",
-      "status": "OK",
+      "status": "WARN",
       "fails": [],
-      "warns": [],
+      "warns": [
+        "Console error: Failed to load resource: the server responded with a status of 404 ()"
+      ],
       "selfCheck": {
         "ok": true,
         "checks": [
@@ -1078,7 +1078,7 @@
         "https://tutorial.math.lamar.edu/Classes/CalcI/ChainRule.aspx",
         "https://tutorial.math.lamar.edu/Classes/CalcI/DiffExpLogFcns.aspx"
       ],
-      "checkedAt": "2026-11-16T20:42:41.296Z",
+      "checkedAt": "2026-11-18T04:56:11.745Z",
       "httpStatus": 200,
       "visibleText": 5380
     },
@@ -1155,7 +1155,7 @@
         "https://tutorial.math.lamar.edu/Classes/CalcI/Tangents_Rates.aspx",
         "https://openstax.org/books/calculus-volume-1/pages/2-1-a-preview-of-calculus"
       ],
-      "checkedAt": "2026-11-16T20:42:41.333Z",
+      "checkedAt": "2026-11-18T04:56:11.836Z",
       "httpStatus": 200,
       "visibleText": 9235
     },
@@ -1254,7 +1254,7 @@
         "https://tutorial.math.lamar.edu/Classes/CalcI/Tangents_Rates.aspx",
         "https://tutorial.math.lamar.edu/Classes/CalcI/DefnOfDerivative.aspx"
       ],
-      "checkedAt": "2026-11-16T20:42:42.208Z",
+      "checkedAt": "2026-11-18T04:56:12.741Z",
       "httpStatus": 200,
       "visibleText": 3525
     },
@@ -1336,7 +1336,7 @@
       "links": [
         "https://tutorial.math.lamar.edu/Classes/CalcI/Continuity.aspx"
       ],
-      "checkedAt": "2026-11-16T20:42:42.256Z",
+      "checkedAt": "2026-11-18T04:56:12.873Z",
       "httpStatus": 200,
       "visibleText": 3057
     },
@@ -1427,9 +1427,9 @@
         "https://tutorial.math.lamar.edu/Classes/CalcI/DerivativeInterp.aspx",
         "https://tutorial.math.lamar.edu/Classes/CalcI/DefnOfDerivative.aspx"
       ],
-      "checkedAt": "2026-11-16T20:42:42.371Z",
+      "checkedAt": "2026-11-18T04:56:12.961Z",
       "httpStatus": 200,
-      "visibleText": 4314
+      "visibleText": 4318
     },
     {
       "id": "calc1-linear-approximation",
@@ -1514,9 +1514,9 @@
         "https://tutorial.math.lamar.edu/Classes/CalcI/LinearApproximations.aspx",
         "https://tutorial.math.lamar.edu/Classes/CalcI/Differentials.aspx"
       ],
-      "checkedAt": "2026-11-16T20:42:42.506Z",
+      "checkedAt": "2026-11-18T04:56:13.086Z",
       "httpStatus": 200,
-      "visibleText": 3240
+      "visibleText": 3271
     },
     {
       "id": "calc1-related-rates-setup",
@@ -1604,7 +1604,7 @@
       "links": [
         "https://tutorial.math.lamar.edu/Classes/CalcI/RelatedRates.aspx"
       ],
-      "checkedAt": "2026-11-16T20:42:42.932Z",
+      "checkedAt": "2026-11-18T04:56:13.593Z",
       "httpStatus": 200,
       "visibleText": 3966
     },
@@ -1680,7 +1680,7 @@
         ]
       },
       "links": [],
-      "checkedAt": "2026-11-16T20:42:42.958Z",
+      "checkedAt": "2026-11-18T04:56:13.685Z",
       "httpStatus": 200,
       "visibleText": 2991
     },
@@ -1770,7 +1770,7 @@
       "links": [
         "https://tutorial.math.lamar.edu/Classes/CalcI/Optimization.aspx"
       ],
-      "checkedAt": "2026-11-16T20:42:43.760Z",
+      "checkedAt": "2026-11-18T04:56:14.579Z",
       "httpStatus": 200,
       "visibleText": 3697
     },
@@ -1850,7 +1850,7 @@
         "https://tutorial.math.lamar.edu/Classes/CalcI/DefnOfDefiniteIntegral.aspx",
         "https://www.desmos.com/scientific"
       ],
-      "checkedAt": "2026-11-16T20:42:43.790Z",
+      "checkedAt": "2026-11-18T04:56:14.822Z",
       "httpStatus": 200,
       "visibleText": 3664
     },
@@ -1937,7 +1937,7 @@
         "https://tutorial.math.lamar.edu/Classes/CalcI/DefnOfDefiniteIntegral.aspx",
         "https://tutorial.math.lamar.edu/Classes/CalcI/AvgFcnValue.aspx"
       ],
-      "checkedAt": "2026-11-16T20:42:43.921Z",
+      "checkedAt": "2026-11-18T04:56:14.965Z",
       "httpStatus": 200,
       "visibleText": 4016
     },
@@ -2036,9 +2036,9 @@
         "https://www.desmos.com/scientific",
         "https://tutorial.math.lamar.edu/Extras/CommonErrors/CommonMathErrors.aspx"
       ],
-      "checkedAt": "2026-11-16T20:42:44.072Z",
+      "checkedAt": "2026-11-18T04:56:15.018Z",
       "httpStatus": 200,
-      "visibleText": 17948
+      "visibleText": 17956
     },
     {
       "id": "calc1-practice-unit-01",
@@ -2112,6 +2112,11 @@
             "name": "a fraction typed without its parentheses gets the parentheses diagnosis",
             "ok": true,
             "detail": "no key on this page has a parenthesized top or bottom"
+          },
+          {
+            "name": "a function label typed before a guarded answer does not trip its form guard",
+            "ok": true,
+            "detail": "18 guarded rows"
           }
         ]
       },
@@ -2119,7 +2124,7 @@
         "https://tutorial.math.lamar.edu/Classes/CalcI/Functions.aspx",
         "https://openstax.org/books/calculus-volume-1/pages/1-1-review-of-functions"
       ],
-      "checkedAt": "2026-11-16T20:42:44.410Z",
+      "checkedAt": "2026-11-18T04:56:15.441Z",
       "httpStatus": 200,
       "visibleText": 6879
     },
@@ -2199,6 +2204,11 @@
             "name": "a fraction typed without its parentheses gets the parentheses diagnosis",
             "ok": true,
             "detail": "no key on this page has a parenthesized top or bottom"
+          },
+          {
+            "name": "a function label typed before a guarded answer does not trip its form guard",
+            "ok": true,
+            "detail": "1 guarded rows"
           }
         ]
       },
@@ -2208,7 +2218,7 @@
         "https://tutorial.math.lamar.edu/Classes/CalcI/OneSidedLimits.aspx",
         "https://www.desmos.com/scientific"
       ],
-      "checkedAt": "2026-11-16T20:42:44.518Z",
+      "checkedAt": "2026-11-18T04:56:15.611Z",
       "httpStatus": 200,
       "visibleText": 6960
     },
@@ -2284,6 +2294,11 @@
             "name": "a fraction typed without its parentheses gets the parentheses diagnosis",
             "ok": true,
             "detail": "10 slips on 6 rows"
+          },
+          {
+            "name": "a function label typed before a guarded answer does not trip its form guard",
+            "ok": true,
+            "detail": "10 guarded rows"
           }
         ]
       },
@@ -2293,7 +2308,7 @@
         "https://tutorial.math.lamar.edu/Classes/CalcI/InfiniteLimits.aspx",
         "https://tutorial.math.lamar.edu/Classes/CalcI/LimitsAtInfinityI.aspx"
       ],
-      "checkedAt": "2026-11-16T20:42:45.346Z",
+      "checkedAt": "2026-11-18T04:56:16.441Z",
       "httpStatus": 200,
       "visibleText": 6825
     },
@@ -2379,6 +2394,11 @@
             "name": "a fraction typed without its parentheses gets the parentheses diagnosis",
             "ok": true,
             "detail": "12 slips on 10 rows"
+          },
+          {
+            "name": "a function label typed before a guarded answer does not trip its form guard",
+            "ok": true,
+            "detail": "14 guarded rows"
           }
         ]
       },
@@ -2387,7 +2407,7 @@
         "https://tutorial.math.lamar.edu/Classes/CalcI/DefnOfDerivative.aspx",
         "https://tutorial.math.lamar.edu/Classes/CalcI/DerivativeInterp.aspx"
       ],
-      "checkedAt": "2026-11-16T20:42:45.384Z",
+      "checkedAt": "2026-11-18T04:56:16.679Z",
       "httpStatus": 200,
       "visibleText": 6339
     },
@@ -2473,6 +2493,11 @@
             "name": "a fractional exponent typed without its parentheses gets the exponent diagnosis",
             "ok": true,
             "detail": "3 cases"
+          },
+          {
+            "name": "a function label typed before a guarded answer does not trip its form guard",
+            "ok": true,
+            "detail": "2 guarded rows"
           }
         ]
       },
@@ -2482,9 +2507,9 @@
         "https://tutorial.math.lamar.edu/Classes/CalcI/DiffTrigFcns.aspx",
         "https://tutorial.math.lamar.edu/Classes/CalcI/HigherOrderDerivatives.aspx"
       ],
-      "checkedAt": "2026-11-16T20:42:45.541Z",
+      "checkedAt": "2026-11-18T04:56:16.815Z",
       "httpStatus": 200,
-      "visibleText": 5519
+      "visibleText": 5533
     },
     {
       "id": "calc1-practice-unit-06",
@@ -2567,6 +2592,11 @@
             "name": "an exponent typed without its parentheses gets the exponent diagnosis",
             "ok": true,
             "detail": "3 cases"
+          },
+          {
+            "name": "a function label typed before a guarded answer does not trip its form guard",
+            "ok": true,
+            "detail": "5 guarded rows"
           }
         ]
       },
@@ -2578,7 +2608,7 @@
         "https://tutorial.math.lamar.edu/Classes/CalcI/LinearApproximations.aspx",
         "https://tutorial.math.lamar.edu/Classes/CalcI/Differentials.aspx"
       ],
-      "checkedAt": "2026-11-16T20:42:45.576Z",
+      "checkedAt": "2026-11-18T04:56:17.213Z",
       "httpStatus": 200,
       "visibleText": 6161
     },
@@ -2664,6 +2694,11 @@
             "name": "an exponent typed without its parentheses gets the exponent diagnosis",
             "ok": true,
             "detail": "4 cases"
+          },
+          {
+            "name": "a function label typed before a guarded answer does not trip its form guard",
+            "ok": true,
+            "detail": "3 guarded rows"
           }
         ]
       },
@@ -2671,7 +2706,7 @@
         "https://tutorial.math.lamar.edu/Classes/CalcI/RelatedRates.aspx",
         "https://tutorial.math.lamar.edu/Classes/CalcI/LHospitalsRule.aspx"
       ],
-      "checkedAt": "2026-11-16T20:42:46.016Z",
+      "checkedAt": "2026-11-18T04:56:17.266Z",
       "httpStatus": 200,
       "visibleText": 6601
     },
@@ -2752,6 +2787,11 @@
             "name": "a fractional power typed without its parentheses gets the power diagnosis, from the key and from Check",
             "ok": true,
             "detail": "8 slips"
+          },
+          {
+            "name": "a function label typed before a guarded answer does not trip its form guard",
+            "ok": true,
+            "detail": "no guarded rows"
           }
         ]
       },
@@ -2762,7 +2802,7 @@
         "https://tutorial.math.lamar.edu/Classes/CalcI/ShapeofGraphPtII.aspx",
         "https://tutorial.math.lamar.edu/Classes/CalcI/MeanValueTheorem.aspx"
       ],
-      "checkedAt": "2026-11-16T20:42:46.232Z",
+      "checkedAt": "2026-11-18T04:56:17.509Z",
       "httpStatus": 200,
       "visibleText": 7452
     },
@@ -2838,6 +2878,11 @@
             "name": "a fraction typed without its parentheses gets the parentheses diagnosis",
             "ok": true,
             "detail": "16 slips on 12 rows"
+          },
+          {
+            "name": "a function label typed before a guarded answer does not trip its form guard",
+            "ok": true,
+            "detail": "3 guarded rows"
           }
         ]
       },
@@ -2845,7 +2890,7 @@
         "https://tutorial.math.lamar.edu/Classes/CalcI/Optimization.aspx",
         "https://tutorial.math.lamar.edu/Classes/CalcI/MoreOptimization.aspx"
       ],
-      "checkedAt": "2026-11-16T20:42:47.043Z",
+      "checkedAt": "2026-11-18T04:56:18.306Z",
       "httpStatus": 200,
       "visibleText": 9246
     },
@@ -2926,6 +2971,11 @@
             "name": "a row that needs + c rejects its answer typed without one, in the key’s own form and another",
             "ok": true,
             "detail": "4 rows"
+          },
+          {
+            "name": "a function label typed before a guarded answer does not trip its form guard",
+            "ok": true,
+            "detail": "2 guarded rows"
           }
         ]
       },
@@ -2935,7 +2985,7 @@
         "https://tutorial.math.lamar.edu/Classes/CalcI/DefnOfDefiniteIntegral.aspx",
         "https://tutorial.math.lamar.edu/Classes/CalcI/ComputingDefiniteIntegrals.aspx"
       ],
-      "checkedAt": "2026-11-16T20:42:47.071Z",
+      "checkedAt": "2026-11-18T04:56:18.583Z",
       "httpStatus": 200,
       "visibleText": 7023
     },
@@ -3017,6 +3067,11 @@
             "name": "a row that needs + c rejects its answer typed without one, in the key’s own form and another",
             "ok": true,
             "detail": "8 rows"
+          },
+          {
+            "name": "a function label typed before a guarded answer does not trip its form guard",
+            "ok": true,
+            "detail": "no guarded rows"
           }
         ]
       },
@@ -3027,7 +3082,7 @@
         "https://tutorial.math.lamar.edu/Classes/CalcI/AvgFcnValue.aspx",
         "https://openstax.org/books/calculus-volume-1/pages/6-8-exponential-growth-and-decay"
       ],
-      "checkedAt": "2026-11-16T20:42:47.285Z",
+      "checkedAt": "2026-11-18T04:56:18.700Z",
       "httpStatus": 200,
       "visibleText": 5698
     },
@@ -3122,7 +3177,7 @@
         "https://tutorial.math.lamar.edu/Classes/DE/DirectionFields.aspx",
         "https://tutorial.math.lamar.edu/Classes/DE/EulersMethod.aspx"
       ],
-      "checkedAt": "2026-11-16T20:42:47.304Z",
+      "checkedAt": "2026-11-18T04:56:19.118Z",
       "httpStatus": 200,
       "visibleText": 3788
     },
@@ -3170,7 +3225,7 @@
         ]
       },
       "links": [],
-      "checkedAt": "2026-11-16T20:42:47.692Z",
+      "checkedAt": "2026-11-18T04:56:19.204Z",
       "httpStatus": 200,
       "visibleText": 8139
     },
@@ -3218,7 +3273,7 @@
         ]
       },
       "links": [],
-      "checkedAt": "2026-11-16T20:42:47.828Z",
+      "checkedAt": "2026-11-18T04:56:19.402Z",
       "httpStatus": 200,
       "visibleText": 6802
     },
@@ -3266,7 +3321,7 @@
         ]
       },
       "links": [],
-      "checkedAt": "2026-11-16T20:42:48.677Z",
+      "checkedAt": "2026-11-18T04:56:20.339Z",
       "httpStatus": 200,
       "visibleText": 7015
     },
@@ -3366,7 +3421,7 @@
         ]
       },
       "links": [],
-      "checkedAt": "2026-11-16T20:42:48.742Z",
+      "checkedAt": "2026-11-18T04:56:20.493Z",
       "httpStatus": 200,
       "visibleText": 4503
     },
@@ -3474,7 +3529,7 @@
         ]
       },
       "links": [],
-      "checkedAt": "2026-11-16T20:42:48.874Z",
+      "checkedAt": "2026-11-18T04:56:20.564Z",
       "httpStatus": 200,
       "visibleText": 6471
     },
@@ -3577,7 +3632,7 @@
         "https://www.youtube.com/watch?v=ToIXSwZ1pJU",
         "https://www.jirka.org/diffyqs/html/heateq_section.html"
       ],
-      "checkedAt": "2026-11-16T20:42:48.983Z",
+      "checkedAt": "2026-11-18T04:56:20.920Z",
       "httpStatus": 200,
       "visibleText": 6658
     },
@@ -3669,7 +3724,7 @@
         ]
       },
       "links": [],
-      "checkedAt": "2026-11-16T20:42:49.293Z",
+      "checkedAt": "2026-11-18T04:56:21.018Z",
       "httpStatus": 200,
       "visibleText": 5282
     },
@@ -3769,7 +3824,7 @@
         ]
       },
       "links": [],
-      "checkedAt": "2026-11-16T20:42:49.335Z",
+      "checkedAt": "2026-11-18T04:56:21.109Z",
       "httpStatus": 200,
       "visibleText": 4828
     },
@@ -3878,7 +3933,7 @@
         "https://tutorial.math.lamar.edu/Classes/DE/Linear.aspx",
         "https://www.jirka.org/diffyqs/html/intfactor_section.html"
       ],
-      "checkedAt": "2026-11-16T20:42:50.262Z",
+      "checkedAt": "2026-11-18T04:56:22.194Z",
       "httpStatus": 200,
       "visibleText": 4168
     },
@@ -3987,7 +4042,7 @@
         "https://www.jirka.org/diffyqs/html/auteq_section.html",
         "https://www.jirka.org/diffyqs/html/slopefields_section.html"
       ],
-      "checkedAt": "2026-11-16T20:42:50.413Z",
+      "checkedAt": "2026-11-18T04:56:22.378Z",
       "httpStatus": 200,
       "visibleText": 4342
     },
@@ -4096,7 +4151,7 @@
         "https://tutorial.math.lamar.edu/Classes/DE/Separable.aspx",
         "https://tutorial.math.lamar.edu/Classes/DE/EulersMethod.aspx"
       ],
-      "checkedAt": "2026-11-16T20:42:50.938Z",
+      "checkedAt": "2026-11-18T04:56:22.549Z",
       "httpStatus": 200,
       "visibleText": 4864
     },
@@ -4207,7 +4262,7 @@
         "https://tutorial.math.lamar.edu/Classes/DE/ComplexRoots.aspx",
         "https://tutorial.math.lamar.edu/Classes/DE/RepeatedRoots.aspx"
       ],
-      "checkedAt": "2026-11-16T20:42:50.943Z",
+      "checkedAt": "2026-11-18T04:56:22.813Z",
       "httpStatus": 200,
       "visibleText": 4498
     },
@@ -4316,7 +4371,7 @@
         "https://tutorial.math.lamar.edu/Classes/DE/DirectionFields.aspx",
         "https://www.jirka.org/diffyqs/html/introde_section.html"
       ],
-      "checkedAt": "2026-11-16T20:42:51.005Z",
+      "checkedAt": "2026-11-18T04:56:22.894Z",
       "httpStatus": 200,
       "visibleText": 4245
     },
@@ -4425,7 +4480,7 @@
         "https://tutorial.math.lamar.edu/Classes/DE/Vibrations.aspx",
         "https://tutorial.math.lamar.edu/Classes/DE/UndeterminedCoefficients.aspx"
       ],
-      "checkedAt": "2026-11-16T20:42:51.133Z",
+      "checkedAt": "2026-11-18T04:56:23.091Z",
       "httpStatus": 200,
       "visibleText": 4137
     },
@@ -4545,7 +4600,7 @@
         "https://www.jirka.org/diffyqs/html/nlinstability_section.html",
         "https://www.jirka.org/diffyqs/html/nlinapps_section.html"
       ],
-      "checkedAt": "2026-11-16T20:42:51.810Z",
+      "checkedAt": "2026-11-18T04:56:24.115Z",
       "httpStatus": 200,
       "visibleText": 4733
     },
@@ -4668,7 +4723,7 @@
         "https://www.jirka.org/diffyqs/html/transformsofders_section.html",
         "https://tutorial.math.lamar.edu/Classes/DE/IVPWithStepFunction.aspx"
       ],
-      "checkedAt": "2026-11-16T20:42:51.984Z",
+      "checkedAt": "2026-11-18T04:56:24.308Z",
       "httpStatus": 200,
       "visibleText": 4538
     },
@@ -4778,7 +4833,7 @@
         "https://www.jirka.org/diffyqs/html/heateq_section.html",
         "https://tutorial.math.lamar.edu/Classes/DE/SolvingHeatEquation.aspx"
       ],
-      "checkedAt": "2026-11-16T20:42:52.585Z",
+      "checkedAt": "2026-11-18T04:56:24.426Z",
       "httpStatus": 200,
       "visibleText": 4880
     },
@@ -4915,7 +4970,7 @@
         "https://www.jirka.org/diffyqs/html/sec_twodimaut.html",
         "https://www.jirka.org/diffyqs/html/eigenmethod_section.html"
       ],
-      "checkedAt": "2026-11-16T20:42:52.639Z",
+      "checkedAt": "2026-11-18T04:56:24.661Z",
       "httpStatus": 200,
       "visibleText": 5232
     },
@@ -5027,7 +5082,7 @@
         "https://www.jirka.org/diffyqs/html/sec_nonhom.html#sec_nonhom-5",
         "https://tutorial.math.lamar.edu/Classes/DE/VariationofParameters.aspx"
       ],
-      "checkedAt": "2026-11-16T20:42:52.676Z",
+      "checkedAt": "2026-11-18T04:56:24.750Z",
       "httpStatus": 200,
       "visibleText": 4739
     },
@@ -5072,7 +5127,7 @@
       "links": [
         "https://www.desmos.com/scientific"
       ],
-      "checkedAt": "2026-11-16T20:42:52.745Z",
+      "checkedAt": "2026-11-18T04:56:25.174Z",
       "httpStatus": 200,
       "visibleText": 1247
     },
@@ -5117,7 +5172,7 @@
       "links": [
         "https://www.desmos.com/scientific"
       ],
-      "checkedAt": "2026-11-16T20:42:53.421Z",
+      "checkedAt": "2026-11-18T04:56:26.109Z",
       "httpStatus": 200,
       "visibleText": 1017
     },
@@ -5162,7 +5217,7 @@
       "links": [
         "https://www.desmos.com/scientific"
       ],
-      "checkedAt": "2026-11-16T20:42:53.512Z",
+      "checkedAt": "2026-11-18T04:56:26.244Z",
       "httpStatus": 200,
       "visibleText": 1182
     },
@@ -5207,7 +5262,7 @@
       "links": [
         "https://www.desmos.com/scientific"
       ],
-      "checkedAt": "2026-11-16T20:42:54.087Z",
+      "checkedAt": "2026-11-18T04:56:26.386Z",
       "httpStatus": 200,
       "visibleText": 1236
     },
@@ -5252,7 +5307,7 @@
       "links": [
         "https://www.desmos.com/scientific"
       ],
-      "checkedAt": "2026-11-16T20:42:54.253Z",
+      "checkedAt": "2026-11-18T04:56:26.582Z",
       "httpStatus": 200,
       "visibleText": 1246
     },
@@ -5297,7 +5352,7 @@
       "links": [
         "https://www.desmos.com/scientific"
       ],
-      "checkedAt": "2026-11-16T20:42:54.309Z",
+      "checkedAt": "2026-11-18T04:56:26.662Z",
       "httpStatus": 200,
       "visibleText": 1197
     },
@@ -5342,7 +5397,7 @@
       "links": [
         "https://www.desmos.com/scientific"
       ],
-      "checkedAt": "2026-11-16T20:42:54.551Z",
+      "checkedAt": "2026-11-18T04:56:26.824Z",
       "httpStatus": 200,
       "visibleText": 1150
     },
@@ -5387,7 +5442,7 @@
       "links": [
         "https://www.desmos.com/scientific"
       ],
-      "checkedAt": "2026-11-16T20:42:54.836Z",
+      "checkedAt": "2026-11-18T04:56:27.916Z",
       "httpStatus": 200,
       "visibleText": 1209
     },
@@ -5432,7 +5487,7 @@
       "links": [
         "https://www.desmos.com/scientific"
       ],
-      "checkedAt": "2026-11-16T20:42:55.021Z",
+      "checkedAt": "2026-11-18T04:56:28.006Z",
       "httpStatus": 200,
       "visibleText": 1157
     },
@@ -5477,7 +5532,7 @@
       "links": [
         "https://www.desmos.com/scientific"
       ],
-      "checkedAt": "2026-11-16T20:42:55.584Z",
+      "checkedAt": "2026-11-18T04:56:28.107Z",
       "httpStatus": 200,
       "visibleText": 1191
     },
@@ -5522,7 +5577,7 @@
       "links": [
         "https://www.desmos.com/scientific"
       ],
-      "checkedAt": "2026-11-16T20:42:55.669Z",
+      "checkedAt": "2026-11-18T04:56:28.224Z",
       "httpStatus": 200,
       "visibleText": 1154
     },
@@ -5626,9 +5681,177 @@
         "https://www.openintro.org/book/os/",
         "https://openstax.org/books/introductory-statistics-2e/pages/7-1-the-central-limit-theorem-for-sample-means-averages"
       ],
-      "checkedAt": "2026-11-16T20:42:55.784Z",
+      "checkedAt": "2026-11-18T04:56:28.360Z",
       "httpStatus": 200,
       "visibleText": 13789
+    },
+    {
+      "id": "finan3-bond-desk",
+      "url": "https://rizecomputerscience.github.io/finan3-bond-desk/",
+      "courses": [
+        "FINAN III"
+      ],
+      "title": "The Bond Desk",
+      "status": "OK",
+      "fails": [],
+      "warns": [],
+      "selfCheck": {
+        "ok": true,
+        "checks": [
+          {
+            "name": "tasks generate for a test email",
+            "ok": true
+          },
+          {
+            "name": "each task accepts its own answer and rejects a wrong one",
+            "ok": true
+          },
+          {
+            "name": "calculator evaluates a discount factor",
+            "ok": true
+          },
+          {
+            "name": "a page view rendered",
+            "ok": true
+          },
+          {
+            "name": "receipt PNG round-trips its payload",
+            "ok": true
+          }
+        ]
+      },
+      "links": [
+        "https://www.desmos.com/scientific"
+      ],
+      "checkedAt": "2026-11-18T04:56:28.469Z",
+      "httpStatus": 200,
+      "visibleText": 1154
+    },
+    {
+      "id": "finan3-florence-desk",
+      "url": "https://rizecomputerscience.github.io/finan3-florence-desk/",
+      "courses": [
+        "FINAN III"
+      ],
+      "title": "The Banker of Florence",
+      "status": "OK",
+      "fails": [],
+      "warns": [],
+      "selfCheck": {
+        "ok": true,
+        "checks": [
+          {
+            "name": "tasks generate for a test email",
+            "ok": true
+          },
+          {
+            "name": "each task accepts its own answer and rejects a wrong one",
+            "ok": true
+          },
+          {
+            "name": "calculator evaluates a discount factor",
+            "ok": true
+          },
+          {
+            "name": "a page view rendered",
+            "ok": true
+          },
+          {
+            "name": "receipt PNG round-trips its payload",
+            "ok": true
+          }
+        ]
+      },
+      "links": [
+        "https://www.desmos.com/scientific"
+      ],
+      "checkedAt": "2026-11-18T04:56:29.652Z",
+      "httpStatus": 200,
+      "visibleText": 813
+    },
+    {
+      "id": "finan3-mortgage-desk",
+      "url": "https://rizecomputerscience.github.io/finan3-mortgage-desk/",
+      "courses": [
+        "FINAN III"
+      ],
+      "title": "The Mortgage Desk",
+      "status": "OK",
+      "fails": [],
+      "warns": [],
+      "selfCheck": {
+        "ok": true,
+        "checks": [
+          {
+            "name": "tasks generate for a test email",
+            "ok": true
+          },
+          {
+            "name": "each task accepts its own answer and rejects a wrong one",
+            "ok": true
+          },
+          {
+            "name": "calculator evaluates a discount factor",
+            "ok": true
+          },
+          {
+            "name": "a page view rendered",
+            "ok": true
+          },
+          {
+            "name": "receipt PNG round-trips its payload",
+            "ok": true
+          }
+        ]
+      },
+      "links": [
+        "https://www.desmos.com/scientific"
+      ],
+      "checkedAt": "2026-11-18T04:56:29.737Z",
+      "httpStatus": 200,
+      "visibleText": 1270
+    },
+    {
+      "id": "finan3-currency-desk",
+      "url": "https://rizecomputerscience.github.io/finan3-currency-desk/",
+      "courses": [
+        "FINAN III"
+      ],
+      "title": "The Currency Desk",
+      "status": "OK",
+      "fails": [],
+      "warns": [],
+      "selfCheck": {
+        "ok": true,
+        "checks": [
+          {
+            "name": "tasks generate for a test email",
+            "ok": true
+          },
+          {
+            "name": "each task accepts its own answer and rejects a wrong one",
+            "ok": true
+          },
+          {
+            "name": "calculator evaluates a discount factor",
+            "ok": true
+          },
+          {
+            "name": "a page view rendered",
+            "ok": true
+          },
+          {
+            "name": "receipt PNG round-trips its payload",
+            "ok": true
+          }
+        ]
+      },
+      "links": [
+        "https://www.desmos.com/scientific"
+      ],
+      "checkedAt": "2026-11-18T04:56:29.980Z",
+      "httpStatus": 200,
+      "visibleText": 1221
     }
   ]
 }
