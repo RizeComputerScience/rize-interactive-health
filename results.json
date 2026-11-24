@@ -1,6 +1,6 @@
 {
   "summary": {
-    "generated": "2026-11-24T17:38:32.904Z",
+    "generated": "2026-11-24T17:42:35.701Z",
     "total": 221,
     "fail": 0,
     "warn": 25,
@@ -20,7 +20,7 @@
       "warns": [],
       "selfCheck": null,
       "links": [],
-      "checkedAt": "2026-11-24T17:36:25.189Z",
+      "checkedAt": "2026-11-24T17:40:38.099Z",
       "httpStatus": 200,
       "visibleText": 1327
     },
@@ -41,7 +41,7 @@
         "https://www.investopedia.com/terms/1/10-k.asp",
         "https://www.khanacademy.org/economics-finance-domain/core-finance/accounting-and-financial-stateme"
       ],
-      "checkedAt": "2026-11-24T17:36:25.189Z",
+      "checkedAt": "2026-11-24T17:40:38.100Z",
       "httpStatus": 200,
       "visibleText": 6664
     },
@@ -57,7 +57,7 @@
       "warns": [],
       "selfCheck": null,
       "links": [],
-      "checkedAt": "2026-11-24T17:36:25.189Z",
+      "checkedAt": "2026-11-24T17:40:38.100Z",
       "httpStatus": 200,
       "visibleText": 2603
     },
@@ -75,7 +75,7 @@
       ],
       "selfCheck": null,
       "links": [],
-      "checkedAt": "2026-11-24T17:36:25.189Z",
+      "checkedAt": "2026-11-24T17:40:38.100Z",
       "httpStatus": 200,
       "visibleText": 14866
     },
@@ -93,7 +93,7 @@
       ],
       "selfCheck": null,
       "links": [],
-      "checkedAt": "2026-11-24T17:36:25.189Z",
+      "checkedAt": "2026-11-24T17:40:38.100Z",
       "httpStatus": 200,
       "visibleText": 13697
     },
@@ -109,7 +109,7 @@
       "warns": [],
       "selfCheck": null,
       "links": [],
-      "checkedAt": "2026-11-24T17:36:25.189Z",
+      "checkedAt": "2026-11-24T17:40:38.100Z",
       "httpStatus": 200,
       "visibleText": 5716
     },
@@ -137,7 +137,7 @@
         "https://www.youtube.com/watch?v=9jLlOPqHxLs",
         "https://www.youtube.com/watch?v=GMNcJ0pXAY8"
       ],
-      "checkedAt": "2026-11-24T17:36:27.299Z",
+      "checkedAt": "2026-11-24T17:40:41.875Z",
       "httpStatus": 200,
       "visibleText": 14979
     },
@@ -153,7 +153,7 @@
       "warns": [],
       "selfCheck": null,
       "links": [],
-      "checkedAt": "2026-11-24T17:36:27.332Z",
+      "checkedAt": "2026-11-24T17:40:41.939Z",
       "httpStatus": 200,
       "visibleText": 1367
     },
@@ -169,7 +169,7 @@
       "warns": [],
       "selfCheck": null,
       "links": [],
-      "checkedAt": "2026-11-24T17:36:27.596Z",
+      "checkedAt": "2026-11-24T17:40:42.159Z",
       "httpStatus": 200,
       "visibleText": 2073
     },
@@ -185,7 +185,7 @@
       "warns": [],
       "selfCheck": null,
       "links": [],
-      "checkedAt": "2026-11-24T17:36:27.602Z",
+      "checkedAt": "2026-11-24T17:40:42.192Z",
       "httpStatus": 200,
       "visibleText": 2464
     },
@@ -201,7 +201,7 @@
       "warns": [],
       "selfCheck": null,
       "links": [],
-      "checkedAt": "2026-11-24T17:36:27.886Z",
+      "checkedAt": "2026-11-24T17:40:42.515Z",
       "httpStatus": 200,
       "visibleText": 1397
     },
@@ -217,7 +217,7 @@
       "warns": [],
       "selfCheck": null,
       "links": [],
-      "checkedAt": "2026-11-24T17:36:28.139Z",
+      "checkedAt": "2026-11-24T17:40:42.525Z",
       "httpStatus": 200,
       "visibleText": 2535
     },
@@ -240,7 +240,7 @@
         "https://www.conference-board.org/press/job-satisfaction-2024",
         "https://www.weforum.org/publications/the-future-of-jobs-report-2025/"
       ],
-      "checkedAt": "2026-11-24T17:36:29.229Z",
+      "checkedAt": "2026-11-24T17:40:43.983Z",
       "httpStatus": 200,
       "visibleText": 2851
     },
@@ -281,7 +281,7 @@
         "https://makerdao.com/en/whitepaper/",
         "https://daistats.com/"
       ],
-      "checkedAt": "2026-11-24T17:36:29.557Z",
+      "checkedAt": "2026-11-24T17:40:44.154Z",
       "httpStatus": 200,
       "visibleText": 6946
     },
@@ -297,7 +297,7 @@
       "warns": [],
       "selfCheck": null,
       "links": [],
-      "checkedAt": "2026-11-24T17:36:29.738Z",
+      "checkedAt": "2026-11-24T17:40:44.295Z",
       "httpStatus": 200,
       "visibleText": 4540
     },
@@ -317,7 +317,7 @@
         "https://corporatefinanceinstitute.com/resources/accounting/statement-of-cash-flows/",
         "https://www.investopedia.com/investing/what-is-a-cash-flow-statement/"
       ],
-      "checkedAt": "2026-11-24T17:36:29.893Z",
+      "checkedAt": "2026-11-24T17:40:44.376Z",
       "httpStatus": 200,
       "visibleText": 14897
     },
@@ -333,7 +333,7 @@
       "warns": [],
       "selfCheck": null,
       "links": [],
-      "checkedAt": "2026-11-24T17:36:29.975Z",
+      "checkedAt": "2026-11-24T17:40:44.556Z",
       "httpStatus": 200,
       "visibleText": 18199
     },
@@ -349,7 +349,7 @@
       "warns": [],
       "selfCheck": null,
       "links": [],
-      "checkedAt": "2026-11-24T17:37:54.244Z",
+      "checkedAt": "2026-11-24T17:40:44.676Z",
       "httpStatus": 200,
       "visibleText": 2688
     },
@@ -365,7 +365,7 @@
       "warns": [],
       "selfCheck": null,
       "links": [],
-      "checkedAt": "2026-11-24T17:36:30.628Z",
+      "checkedAt": "2026-11-24T17:40:45.580Z",
       "httpStatus": 200,
       "visibleText": 5251
     },
@@ -381,7 +381,7 @@
       "warns": [],
       "selfCheck": null,
       "links": [],
-      "checkedAt": "2026-11-24T17:36:30.892Z",
+      "checkedAt": "2026-11-24T17:40:45.683Z",
       "httpStatus": 200,
       "visibleText": 1350
     },
@@ -397,7 +397,7 @@
       "warns": [],
       "selfCheck": null,
       "links": [],
-      "checkedAt": "2026-11-24T17:36:31.417Z",
+      "checkedAt": "2026-11-24T17:40:45.955Z",
       "httpStatus": 200,
       "visibleText": 6493
     },
@@ -413,7 +413,7 @@
       "warns": [],
       "selfCheck": null,
       "links": [],
-      "checkedAt": "2026-11-24T17:36:31.539Z",
+      "checkedAt": "2026-11-24T17:40:46.139Z",
       "httpStatus": 200,
       "visibleText": 9222
     },
@@ -429,9 +429,9 @@
       "warns": [],
       "selfCheck": null,
       "links": [],
-      "checkedAt": "2026-11-24T17:36:31.774Z",
+      "checkedAt": "2026-11-24T17:40:46.349Z",
       "httpStatus": 200,
-      "visibleText": 1294
+      "visibleText": 1391
     },
     {
       "id": "cbdc-primer",
@@ -457,7 +457,7 @@
         "https://www.piie.com/blogs/realtime-economics/2026/china-gives-state-backed-digital-cash-us-and-europe-should-take-note",
         "https://www.bis.org/publ/bppdf/bispap159.htm"
       ],
-      "checkedAt": "2026-11-24T17:36:31.972Z",
+      "checkedAt": "2026-11-24T17:40:46.416Z",
       "httpStatus": 200,
       "visibleText": 14202
     },
@@ -473,7 +473,7 @@
       "warns": [],
       "selfCheck": null,
       "links": [],
-      "checkedAt": "2026-11-24T17:36:32.390Z",
+      "checkedAt": "2026-11-24T17:40:46.982Z",
       "httpStatus": 200,
       "visibleText": 1408
     },
@@ -493,7 +493,7 @@
         "https://actuary.org/article/unmasking-hidden-bias/",
         "https://fortune.com/2021/05/26/lemonade-insurance-ai-face-scanning-fraud/"
       ],
-      "checkedAt": "2026-11-24T17:36:33.197Z",
+      "checkedAt": "2026-11-24T17:40:47.282Z",
       "httpStatus": 200,
       "visibleText": 19366
     },
@@ -512,7 +512,7 @@
       ],
       "selfCheck": null,
       "links": [],
-      "checkedAt": "2026-11-24T17:36:33.442Z",
+      "checkedAt": "2026-11-24T17:40:47.826Z",
       "httpStatus": 200,
       "visibleText": 3420
     },
@@ -531,7 +531,7 @@
       ],
       "selfCheck": null,
       "links": [],
-      "checkedAt": "2026-11-24T17:36:33.615Z",
+      "checkedAt": "2026-11-24T17:40:47.954Z",
       "httpStatus": 200,
       "visibleText": 10800
     },
@@ -547,7 +547,7 @@
       "warns": [],
       "selfCheck": null,
       "links": [],
-      "checkedAt": "2026-11-24T17:36:33.948Z",
+      "checkedAt": "2026-11-24T17:40:48.145Z",
       "httpStatus": 200,
       "visibleText": 1445
     },
@@ -563,9 +563,9 @@
       "warns": [],
       "selfCheck": null,
       "links": [],
-      "checkedAt": "2026-11-24T17:36:34.166Z",
+      "checkedAt": "2026-11-24T17:40:48.324Z",
       "httpStatus": 200,
-      "visibleText": 1279
+      "visibleText": 1066
     },
     {
       "id": "macro-practice-exams_final",
@@ -594,7 +594,7 @@
         "https://www.youtube.com/watch?v=uPRQnQxsL3E",
         "https://www.youtube.com/watch?v=5X5v7vRYQjc"
       ],
-      "checkedAt": "2026-11-24T17:36:34.604Z",
+      "checkedAt": "2026-11-24T17:40:48.588Z",
       "httpStatus": 200,
       "visibleText": 16450
     },
@@ -614,7 +614,7 @@
         "https://www.investopedia.com/terms/y/year-over-year.asp",
         "https://support.microsoft.com/en-us/office/create-a-chart-from-start-to-finish-0baf399e-dd61-4e18-8a73-b3fd5d5680c2"
       ],
-      "checkedAt": "2026-11-24T17:36:35.375Z",
+      "checkedAt": "2026-11-24T17:40:48.801Z",
       "httpStatus": 200,
       "visibleText": 5744
     },
@@ -634,7 +634,7 @@
         "https://www.berkshirehathaway.com/reports.html",
         "https://www.sec.gov/cgi-bin/browse-edgar?company=berkshire+hathaway&CIK=&type=10-K&dateb=&owner=include&count=40&search_text=&action=getcompany"
       ],
-      "checkedAt": "2026-11-24T17:36:35.661Z",
+      "checkedAt": "2026-11-24T17:40:49.584Z",
       "httpStatus": 200,
       "visibleText": 3893
     },
@@ -650,7 +650,7 @@
       "warns": [],
       "selfCheck": null,
       "links": [],
-      "checkedAt": "2026-11-24T17:36:35.889Z",
+      "checkedAt": "2026-11-24T17:40:49.981Z",
       "httpStatus": 200,
       "visibleText": 1431
     },
@@ -666,7 +666,7 @@
       "warns": [],
       "selfCheck": null,
       "links": [],
-      "checkedAt": "2026-11-24T17:36:36.155Z",
+      "checkedAt": "2026-11-24T17:40:50.139Z",
       "httpStatus": 200,
       "visibleText": 4134
     },
@@ -682,7 +682,7 @@
       "warns": [],
       "selfCheck": null,
       "links": [],
-      "checkedAt": "2026-11-24T17:36:36.352Z",
+      "checkedAt": "2026-11-24T17:40:50.317Z",
       "httpStatus": 200,
       "visibleText": 1360
     },
@@ -714,7 +714,7 @@
         "https://ocw.mit.edu/courses/15-s12-blockchain-and-money-fall-2018/",
         "https://ethereum.org/developers/docs/standards/tokens/erc-20/"
       ],
-      "checkedAt": "2026-11-24T17:36:36.755Z",
+      "checkedAt": "2026-11-24T17:40:50.511Z",
       "httpStatus": 200,
       "visibleText": 12852
     },
@@ -734,7 +734,7 @@
         "https://www.investopedia.com/terms/b/balancesheet.asp",
         "https://corporatefinanceinstitute.com/resources/accounting/balance-sheet/"
       ],
-      "checkedAt": "2026-11-24T17:36:37.074Z",
+      "checkedAt": "2026-11-24T17:40:50.567Z",
       "httpStatus": 200,
       "visibleText": 7884
     },
@@ -753,7 +753,7 @@
       ],
       "selfCheck": null,
       "links": [],
-      "checkedAt": "2026-11-24T17:36:37.433Z",
+      "checkedAt": "2026-11-24T17:40:51.016Z",
       "httpStatus": 200,
       "visibleText": 17252
     },
@@ -769,7 +769,7 @@
       "warns": [],
       "selfCheck": null,
       "links": [],
-      "checkedAt": "2026-11-24T17:36:37.881Z",
+      "checkedAt": "2026-11-24T17:40:51.771Z",
       "httpStatus": 200,
       "visibleText": 1284
     },
@@ -785,7 +785,7 @@
       "warns": [],
       "selfCheck": null,
       "links": [],
-      "checkedAt": "2026-11-24T17:36:38.091Z",
+      "checkedAt": "2026-11-24T17:40:51.938Z",
       "httpStatus": 200,
       "visibleText": 1431
     },
@@ -801,7 +801,7 @@
       "warns": [],
       "selfCheck": null,
       "links": [],
-      "checkedAt": "2026-11-24T17:36:38.441Z",
+      "checkedAt": "2026-11-24T17:40:52.172Z",
       "httpStatus": 200,
       "visibleText": 6612
     },
@@ -819,7 +819,7 @@
       "links": [
         "https://support.microsoft.com/en-us/office/create-a-chart-from-start-to-finish-0baf399e-dd61-4e18-8a73-b3fd5d5680c2"
       ],
-      "checkedAt": "2026-11-24T17:36:38.632Z",
+      "checkedAt": "2026-11-24T17:40:52.179Z",
       "httpStatus": 200,
       "visibleText": 11265
     },
@@ -835,7 +835,7 @@
       "warns": [],
       "selfCheck": null,
       "links": [],
-      "checkedAt": "2026-11-24T17:36:39.473Z",
+      "checkedAt": "2026-11-24T17:40:52.519Z",
       "httpStatus": 200,
       "visibleText": 1367
     },
@@ -854,7 +854,7 @@
       ],
       "selfCheck": null,
       "links": [],
-      "checkedAt": "2026-11-24T17:36:39.667Z",
+      "checkedAt": "2026-11-24T17:40:52.917Z",
       "httpStatus": 200,
       "visibleText": 7125
     },
@@ -870,7 +870,7 @@
       "warns": [],
       "selfCheck": null,
       "links": [],
-      "checkedAt": "2026-11-24T17:36:39.831Z",
+      "checkedAt": "2026-11-24T17:40:53.474Z",
       "httpStatus": 200,
       "visibleText": 1358
     },
@@ -890,7 +890,7 @@
       ],
       "selfCheck": null,
       "links": [],
-      "checkedAt": "2026-11-24T17:36:40.053Z",
+      "checkedAt": "2026-11-24T17:40:53.659Z",
       "httpStatus": 200,
       "visibleText": 864
     },
@@ -938,7 +938,7 @@
         ]
       },
       "links": [],
-      "checkedAt": "2026-11-24T17:36:40.269Z",
+      "checkedAt": "2026-11-24T17:40:53.816Z",
       "httpStatus": 200,
       "visibleText": 6802
     },
@@ -986,7 +986,7 @@
         ]
       },
       "links": [],
-      "checkedAt": "2026-11-24T17:36:41.050Z",
+      "checkedAt": "2026-11-24T17:40:54.012Z",
       "httpStatus": 200,
       "visibleText": 7015
     },
@@ -1002,7 +1002,7 @@
       "warns": [],
       "selfCheck": null,
       "links": [],
-      "checkedAt": "2026-11-24T17:36:41.512Z",
+      "checkedAt": "2026-11-24T17:40:54.190Z",
       "httpStatus": 200,
       "visibleText": 3260
     },
@@ -1018,7 +1018,7 @@
       "warns": [],
       "selfCheck": null,
       "links": [],
-      "checkedAt": "2026-11-24T17:36:41.968Z",
+      "checkedAt": "2026-11-24T17:40:55.079Z",
       "httpStatus": 200,
       "visibleText": 6188
     },
@@ -1045,7 +1045,7 @@
         "https://etherscan.io/",
         "https://etherscan.io/gastracker"
       ],
-      "checkedAt": "2026-11-24T17:36:42.103Z",
+      "checkedAt": "2026-11-24T17:40:55.163Z",
       "httpStatus": 200,
       "visibleText": 14191
     },
@@ -1066,7 +1066,7 @@
       "links": [
         "https://agilealliance.org/resources/experience-reports/scrum-kanban-teams-journey/"
       ],
-      "checkedAt": "2026-11-24T17:36:42.342Z",
+      "checkedAt": "2026-11-24T17:40:55.617Z",
       "httpStatus": 200,
       "visibleText": 1533
     },
@@ -1082,9 +1082,9 @@
       "warns": [],
       "selfCheck": null,
       "links": [],
-      "checkedAt": "2026-11-24T17:36:42.926Z",
+      "checkedAt": "2026-11-24T17:40:55.855Z",
       "httpStatus": 200,
-      "visibleText": 758
+      "visibleText": 856
     },
     {
       "id": "phmi-unit12-covid-model",
@@ -1098,7 +1098,7 @@
       "warns": [],
       "selfCheck": null,
       "links": [],
-      "checkedAt": "2026-11-24T17:36:43.094Z",
+      "checkedAt": "2026-11-24T17:40:55.987Z",
       "httpStatus": 200,
       "visibleText": 942
     },
@@ -1114,7 +1114,7 @@
       "warns": [],
       "selfCheck": null,
       "links": [],
-      "checkedAt": "2026-11-24T17:36:43.322Z",
+      "checkedAt": "2026-11-24T17:40:56.119Z",
       "httpStatus": 200,
       "visibleText": 1618
     },
@@ -1139,7 +1139,7 @@
         "https://www.bis.org/about/bisih/topics/cbdc/mcbdc_bridge.htm",
         "https://www.atlanticcouncil.org/programs/geoeconomics-center/dollar-dominance-monitor/"
       ],
-      "checkedAt": "2026-11-24T17:36:43.755Z",
+      "checkedAt": "2026-11-24T17:40:56.470Z",
       "httpStatus": 200,
       "visibleText": 11768
     },
@@ -1155,7 +1155,7 @@
       "warns": [],
       "selfCheck": null,
       "links": [],
-      "checkedAt": "2026-11-24T17:36:44.118Z",
+      "checkedAt": "2026-11-24T17:40:56.920Z",
       "httpStatus": 200,
       "visibleText": 1331
     },
@@ -1171,7 +1171,7 @@
       "warns": [],
       "selfCheck": null,
       "links": [],
-      "checkedAt": "2026-11-24T17:36:44.576Z",
+      "checkedAt": "2026-11-24T17:40:57.408Z",
       "httpStatus": 200,
       "visibleText": 2278
     },
@@ -1190,7 +1190,7 @@
       ],
       "selfCheck": null,
       "links": [],
-      "checkedAt": "2026-11-24T17:36:44.800Z",
+      "checkedAt": "2026-11-24T17:40:57.616Z",
       "httpStatus": 200,
       "visibleText": 12063
     },
@@ -1210,7 +1210,7 @@
         "https://www.congress.gov/event/117th-congress/house-event/LC66883/text",
         "https://www.npr.org/2021/02/18/968829355/gamestop-hearing-today-roaring-kitty-along-with-ceos-to-appear-before-congress"
       ],
-      "checkedAt": "2026-11-24T17:36:44.935Z",
+      "checkedAt": "2026-11-24T17:40:57.772Z",
       "httpStatus": 200,
       "visibleText": 3515
     },
@@ -1234,7 +1234,7 @@
         "https://www.youtube.com/watch?v=-4yCXpv-drg",
         "https://www.youtube.com/watch?v=iotrTlRT3q0"
       ],
-      "checkedAt": "2026-11-24T17:36:45.459Z",
+      "checkedAt": "2026-11-24T17:40:57.948Z",
       "httpStatus": 200,
       "visibleText": 5795
     },
@@ -1256,7 +1256,7 @@
         "https://www.brookings.edu/articles/an-ai-fair-lending-policy-agenda-for-the-federal-financial-regulators/",
         "https://www.federalreserve.gov/econres/feds/files/2017056pap.pdf"
       ],
-      "checkedAt": "2026-11-24T17:36:45.606Z",
+      "checkedAt": "2026-11-24T17:40:58.186Z",
       "httpStatus": 200,
       "visibleText": 4390
     },
@@ -1272,7 +1272,7 @@
       "warns": [],
       "selfCheck": null,
       "links": [],
-      "checkedAt": "2026-11-24T17:36:45.877Z",
+      "checkedAt": "2026-11-24T17:40:58.432Z",
       "httpStatus": 200,
       "visibleText": 1356
     },
@@ -1324,7 +1324,7 @@
         "https://investors.toasttab.com/",
         "https://pos.toasttab.com/about"
       ],
-      "checkedAt": "2026-11-24T17:36:46.544Z",
+      "checkedAt": "2026-11-24T17:40:58.823Z",
       "httpStatus": 200,
       "visibleText": 2643
     },
@@ -1345,7 +1345,7 @@
         "https://www.britannica.com/money/profit-margin-types",
         "https://corporatefinanceinstitute.com/resources/accounting/profit-margin/"
       ],
-      "checkedAt": "2026-11-24T17:36:46.675Z",
+      "checkedAt": "2026-11-24T17:40:59.413Z",
       "httpStatus": 200,
       "visibleText": 8164
     },
@@ -1393,7 +1393,7 @@
         ]
       },
       "links": [],
-      "checkedAt": "2026-11-24T17:36:46.874Z",
+      "checkedAt": "2026-11-24T17:40:59.545Z",
       "httpStatus": 200,
       "visibleText": 8139
     },
@@ -1490,7 +1490,7 @@
         "https://tutorial.math.lamar.edu/Classes/CalcI/AvgFcnValue.aspx",
         "https://openstax.org/books/calculus-volume-1/pages/6-8-exponential-growth-and-decay"
       ],
-      "checkedAt": "2026-11-24T17:36:47.328Z",
+      "checkedAt": "2026-11-24T17:40:59.786Z",
       "httpStatus": 200,
       "visibleText": 5698
     },
@@ -1585,7 +1585,7 @@
         "https://tutorial.math.lamar.edu/Classes/DE/DirectionFields.aspx",
         "https://tutorial.math.lamar.edu/Classes/DE/EulersMethod.aspx"
       ],
-      "checkedAt": "2026-11-24T17:36:47.476Z",
+      "checkedAt": "2026-11-24T17:40:59.970Z",
       "httpStatus": 200,
       "visibleText": 3788
     },
@@ -1677,7 +1677,7 @@
         ]
       },
       "links": [],
-      "checkedAt": "2026-11-24T17:36:48.033Z",
+      "checkedAt": "2026-11-24T17:41:00.074Z",
       "httpStatus": 200,
       "visibleText": 5282
     },
@@ -1777,7 +1777,7 @@
         ]
       },
       "links": [],
-      "checkedAt": "2026-11-24T17:36:48.227Z",
+      "checkedAt": "2026-11-24T17:41:00.403Z",
       "httpStatus": 200,
       "visibleText": 4828
     },
@@ -1880,7 +1880,7 @@
         "https://www.youtube.com/watch?v=ToIXSwZ1pJU",
         "https://www.jirka.org/diffyqs/html/heateq_section.html"
       ],
-      "checkedAt": "2026-11-24T17:36:48.895Z",
+      "checkedAt": "2026-11-24T17:41:00.857Z",
       "httpStatus": 200,
       "visibleText": 6658
     },
@@ -2017,7 +2017,7 @@
         "https://www.jirka.org/diffyqs/html/sec_twodimaut.html",
         "https://www.jirka.org/diffyqs/html/eigenmethod_section.html"
       ],
-      "checkedAt": "2026-11-24T17:36:49.368Z",
+      "checkedAt": "2026-11-24T17:41:01.578Z",
       "httpStatus": 200,
       "visibleText": 5232
     },
@@ -2055,7 +2055,7 @@
         "https://tutorial.math.lamar.edu/Classes/CalcI/ChainRule.aspx",
         "https://tutorial.math.lamar.edu/Classes/CalcI/DiffExpLogFcns.aspx"
       ],
-      "checkedAt": "2026-11-24T17:36:49.547Z",
+      "checkedAt": "2026-11-24T17:41:01.918Z",
       "httpStatus": 200,
       "visibleText": 5380
     },
@@ -2151,7 +2151,7 @@
         "https://tutorial.math.lamar.edu/Classes/CalcI/ShapeofGraphPtII.aspx",
         "https://tutorial.math.lamar.edu/Classes/CalcI/MeanValueTheorem.aspx"
       ],
-      "checkedAt": "2026-11-24T17:36:49.916Z",
+      "checkedAt": "2026-11-24T17:41:02.285Z",
       "httpStatus": 200,
       "visibleText": 7452
     },
@@ -2238,7 +2238,7 @@
         "https://tutorial.math.lamar.edu/Classes/CalcI/DefnOfDefiniteIntegral.aspx",
         "https://tutorial.math.lamar.edu/Classes/CalcI/AvgFcnValue.aspx"
       ],
-      "checkedAt": "2026-11-24T17:36:50.452Z",
+      "checkedAt": "2026-11-24T17:41:02.334Z",
       "httpStatus": 200,
       "visibleText": 4016
     },
@@ -2320,7 +2320,7 @@
       "links": [
         "https://tutorial.math.lamar.edu/Classes/CalcI/Continuity.aspx"
       ],
-      "checkedAt": "2026-11-24T17:36:51.029Z",
+      "checkedAt": "2026-11-24T17:41:02.899Z",
       "httpStatus": 200,
       "visibleText": 3057
     },
@@ -2351,7 +2351,7 @@
         ]
       },
       "links": [],
-      "checkedAt": "2026-11-24T17:36:51.362Z",
+      "checkedAt": "2026-11-24T17:41:03.164Z",
       "httpStatus": 200,
       "visibleText": 13014
     },
@@ -2452,7 +2452,7 @@
         "https://tutorial.math.lamar.edu/Classes/CalcI/LinearApproximations.aspx",
         "https://tutorial.math.lamar.edu/Classes/CalcI/Differentials.aspx"
       ],
-      "checkedAt": "2026-11-24T17:36:51.721Z",
+      "checkedAt": "2026-11-24T17:41:03.694Z",
       "httpStatus": 200,
       "visibleText": 6161
     },
@@ -2552,7 +2552,7 @@
         ]
       },
       "links": [],
-      "checkedAt": "2026-11-24T17:36:52.055Z",
+      "checkedAt": "2026-11-24T17:41:04.073Z",
       "httpStatus": 200,
       "visibleText": 4503
     },
@@ -2660,7 +2660,7 @@
         ]
       },
       "links": [],
-      "checkedAt": "2026-11-24T17:36:52.429Z",
+      "checkedAt": "2026-11-24T17:41:04.450Z",
       "httpStatus": 200,
       "visibleText": 6471
     },
@@ -2676,7 +2676,7 @@
       "warns": [],
       "selfCheck": null,
       "links": [],
-      "checkedAt": "2026-11-24T17:36:52.893Z",
+      "checkedAt": "2026-11-24T17:41:04.594Z",
       "httpStatus": 200,
       "visibleText": 405
     },
@@ -2767,7 +2767,7 @@
         "https://tutorial.math.lamar.edu/Classes/CalcI/DerivativeInterp.aspx",
         "https://tutorial.math.lamar.edu/Classes/CalcI/DefnOfDerivative.aspx"
       ],
-      "checkedAt": "2026-11-24T17:36:53.750Z",
+      "checkedAt": "2026-11-24T17:41:04.922Z",
       "httpStatus": 200,
       "visibleText": 4318
     },
@@ -2876,7 +2876,7 @@
         "https://tutorial.math.lamar.edu/Classes/DE/Separable.aspx",
         "https://tutorial.math.lamar.edu/Classes/DE/EulersMethod.aspx"
       ],
-      "checkedAt": "2026-11-24T17:36:54.088Z",
+      "checkedAt": "2026-11-24T17:41:05.709Z",
       "httpStatus": 200,
       "visibleText": 4864
     },
@@ -2952,7 +2952,7 @@
         ]
       },
       "links": [],
-      "checkedAt": "2026-11-24T17:36:54.506Z",
+      "checkedAt": "2026-11-24T17:41:06.033Z",
       "httpStatus": 200,
       "visibleText": 2991
     },
@@ -3051,7 +3051,7 @@
         "https://tutorial.math.lamar.edu/Classes/CalcI/Tangents_Rates.aspx",
         "https://tutorial.math.lamar.edu/Classes/CalcI/DefnOfDerivative.aspx"
       ],
-      "checkedAt": "2026-11-24T17:36:54.816Z",
+      "checkedAt": "2026-11-24T17:41:06.313Z",
       "httpStatus": 200,
       "visibleText": 3525
     },
@@ -3151,7 +3151,7 @@
         "https://tutorial.math.lamar.edu/Classes/CalcI/DiffTrigFcns.aspx",
         "https://tutorial.math.lamar.edu/Classes/CalcI/HigherOrderDerivatives.aspx"
       ],
-      "checkedAt": "2026-11-24T17:36:55.328Z",
+      "checkedAt": "2026-11-24T17:41:06.567Z",
       "httpStatus": 200,
       "visibleText": 5533
     },
@@ -3167,7 +3167,7 @@
       "warns": [],
       "selfCheck": null,
       "links": [],
-      "checkedAt": "2026-11-24T17:36:55.909Z",
+      "checkedAt": "2026-11-24T17:41:06.895Z",
       "httpStatus": 200,
       "visibleText": 1555
     },
@@ -3247,7 +3247,7 @@
         "https://tutorial.math.lamar.edu/Classes/CalcI/DefnOfDefiniteIntegral.aspx",
         "https://www.desmos.com/scientific"
       ],
-      "checkedAt": "2026-11-24T17:36:56.203Z",
+      "checkedAt": "2026-11-24T17:41:07.303Z",
       "httpStatus": 200,
       "visibleText": 3664
     },
@@ -3357,7 +3357,7 @@
         "https://www.jirka.org/diffyqs/html/heateq_section.html",
         "https://tutorial.math.lamar.edu/Classes/DE/SolvingHeatEquation.aspx"
       ],
-      "checkedAt": "2026-11-24T17:36:56.518Z",
+      "checkedAt": "2026-11-24T17:41:07.754Z",
       "httpStatus": 200,
       "visibleText": 4880
     },
@@ -3444,7 +3444,7 @@
         "https://tutorial.math.lamar.edu/Classes/CalcI/LinearApproximations.aspx",
         "https://tutorial.math.lamar.edu/Classes/CalcI/Differentials.aspx"
       ],
-      "checkedAt": "2026-11-24T17:36:56.898Z",
+      "checkedAt": "2026-11-24T17:41:08.186Z",
       "httpStatus": 200,
       "visibleText": 3271
     },
@@ -3460,9 +3460,9 @@
       "warns": [],
       "selfCheck": null,
       "links": [],
-      "checkedAt": "2026-11-24T17:36:57.289Z",
+      "checkedAt": "2026-11-24T17:41:08.314Z",
       "httpStatus": 200,
-      "visibleText": 792
+      "visibleText": 889
     },
     {
       "id": "calc1-practice-unit-03",
@@ -3550,7 +3550,7 @@
         "https://tutorial.math.lamar.edu/Classes/CalcI/InfiniteLimits.aspx",
         "https://tutorial.math.lamar.edu/Classes/CalcI/LimitsAtInfinityI.aspx"
       ],
-      "checkedAt": "2026-11-24T17:36:57.893Z",
+      "checkedAt": "2026-11-24T17:41:08.699Z",
       "httpStatus": 200,
       "visibleText": 6825
     },
@@ -3645,7 +3645,7 @@
         "https://tutorial.math.lamar.edu/Classes/CalcI/DefnOfDefiniteIntegral.aspx",
         "https://tutorial.math.lamar.edu/Classes/CalcI/ComputingDefiniteIntegrals.aspx"
       ],
-      "checkedAt": "2026-11-24T17:36:58.337Z",
+      "checkedAt": "2026-11-24T17:41:08.925Z",
       "httpStatus": 200,
       "visibleText": 7023
     },
@@ -3744,7 +3744,7 @@
         "https://tutorial.math.lamar.edu/Classes/CalcI/DefnOfDerivative.aspx",
         "https://tutorial.math.lamar.edu/Classes/CalcI/DerivativeInterp.aspx"
       ],
-      "checkedAt": "2026-11-24T17:36:58.601Z",
+      "checkedAt": "2026-11-24T17:41:09.267Z",
       "httpStatus": 200,
       "visibleText": 6339
     },
@@ -3867,7 +3867,7 @@
         "https://www.jirka.org/diffyqs/html/transformsofders_section.html",
         "https://tutorial.math.lamar.edu/Classes/DE/IVPWithStepFunction.aspx"
       ],
-      "checkedAt": "2026-11-24T17:36:58.899Z",
+      "checkedAt": "2026-11-24T17:41:09.638Z",
       "httpStatus": 200,
       "visibleText": 4538
     },
@@ -3957,7 +3957,7 @@
       "links": [
         "https://tutorial.math.lamar.edu/Classes/CalcI/RelatedRates.aspx"
       ],
-      "checkedAt": "2026-11-24T17:36:59.283Z",
+      "checkedAt": "2026-11-24T17:41:10.231Z",
       "httpStatus": 200,
       "visibleText": 3966
     },
@@ -4056,7 +4056,7 @@
         "https://www.desmos.com/scientific",
         "https://tutorial.math.lamar.edu/Extras/CommonErrors/CommonMathErrors.aspx"
       ],
-      "checkedAt": "2026-11-24T17:36:59.848Z",
+      "checkedAt": "2026-11-24T17:41:10.352Z",
       "httpStatus": 200,
       "visibleText": 17956
     },
@@ -4150,7 +4150,7 @@
         "https://tutorial.math.lamar.edu/Classes/CalcI/OneSidedLimits.aspx",
         "https://www.desmos.com/scientific"
       ],
-      "checkedAt": "2026-11-24T17:37:00.350Z",
+      "checkedAt": "2026-11-24T17:41:10.793Z",
       "httpStatus": 200,
       "visibleText": 6960
     },
@@ -4259,7 +4259,7 @@
         "https://www.jirka.org/diffyqs/html/auteq_section.html",
         "https://www.jirka.org/diffyqs/html/slopefields_section.html"
       ],
-      "checkedAt": "2026-11-24T17:37:00.730Z",
+      "checkedAt": "2026-11-24T17:41:10.960Z",
       "httpStatus": 200,
       "visibleText": 4342
     },
@@ -4275,7 +4275,7 @@
       "warns": [],
       "selfCheck": null,
       "links": [],
-      "checkedAt": "2026-11-24T17:37:00.971Z",
+      "checkedAt": "2026-11-24T17:41:11.348Z",
       "httpStatus": 200,
       "visibleText": 206
     },
@@ -4291,7 +4291,7 @@
       "warns": [],
       "selfCheck": null,
       "links": [],
-      "checkedAt": "2026-11-24T17:37:01.362Z",
+      "checkedAt": "2026-11-24T17:41:11.543Z",
       "httpStatus": 200,
       "visibleText": 175
     },
@@ -4335,7 +4335,7 @@
         ]
       },
       "links": [],
-      "checkedAt": "2026-11-24T17:37:01.643Z",
+      "checkedAt": "2026-11-24T17:41:12.294Z",
       "httpStatus": 200,
       "visibleText": 637
     },
@@ -4367,7 +4367,7 @@
         ]
       },
       "links": [],
-      "checkedAt": "2026-11-24T17:37:02.601Z",
+      "checkedAt": "2026-11-24T17:41:12.407Z",
       "httpStatus": 200,
       "visibleText": 745
     },
@@ -4487,7 +4487,7 @@
         "https://www.jirka.org/diffyqs/html/nlinstability_section.html",
         "https://www.jirka.org/diffyqs/html/nlinapps_section.html"
       ],
-      "checkedAt": "2026-11-24T17:37:02.747Z",
+      "checkedAt": "2026-11-24T17:41:12.976Z",
       "httpStatus": 200,
       "visibleText": 4733
     },
@@ -4596,7 +4596,7 @@
         "https://tutorial.math.lamar.edu/Classes/DE/DirectionFields.aspx",
         "https://www.jirka.org/diffyqs/html/introde_section.html"
       ],
-      "checkedAt": "2026-11-24T17:37:02.944Z",
+      "checkedAt": "2026-11-24T17:41:13.075Z",
       "httpStatus": 200,
       "visibleText": 4245
     },
@@ -4708,7 +4708,7 @@
         "https://www.jirka.org/diffyqs/html/sec_nonhom.html#sec_nonhom-5",
         "https://tutorial.math.lamar.edu/Classes/DE/VariationofParameters.aspx"
       ],
-      "checkedAt": "2026-11-24T17:37:03.206Z",
+      "checkedAt": "2026-11-24T17:41:13.219Z",
       "httpStatus": 200,
       "visibleText": 4739
     },
@@ -4796,7 +4796,7 @@
         "https://tutorial.math.lamar.edu/Classes/CalcI/Optimization.aspx",
         "https://tutorial.math.lamar.edu/Classes/CalcI/MoreOptimization.aspx"
       ],
-      "checkedAt": "2026-11-24T17:37:03.479Z",
+      "checkedAt": "2026-11-24T17:41:13.410Z",
       "httpStatus": 200,
       "visibleText": 9246
     },
@@ -4886,7 +4886,7 @@
       "links": [
         "https://tutorial.math.lamar.edu/Classes/CalcI/Optimization.aspx"
       ],
-      "checkedAt": "2026-11-24T17:37:04.375Z",
+      "checkedAt": "2026-11-24T17:41:13.965Z",
       "httpStatus": 200,
       "visibleText": 3697
     },
@@ -4904,7 +4904,7 @@
       "links": [
         "https://openstax.org/details/books/chemistry-2e"
       ],
-      "checkedAt": "2026-11-24T17:37:04.912Z",
+      "checkedAt": "2026-11-24T17:41:14.140Z",
       "httpStatus": 200,
       "visibleText": 1434
     },
@@ -4928,7 +4928,7 @@
         "https://openstax.org/details/books/chemistry-2e",
         "https://creativecommons.org/licenses/by/4.0/"
       ],
-      "checkedAt": "2026-11-24T17:37:05.118Z",
+      "checkedAt": "2026-11-24T17:41:15.146Z",
       "httpStatus": 200,
       "visibleText": 647
     },
@@ -4954,7 +4954,7 @@
         "https://openstax.org/details/books/chemistry-2e",
         "https://creativecommons.org/licenses/by/4.0/"
       ],
-      "checkedAt": "2026-11-24T17:37:05.257Z",
+      "checkedAt": "2026-11-24T17:41:15.280Z",
       "httpStatus": 200,
       "visibleText": 655
     },
@@ -4977,7 +4977,7 @@
         "https://openstax.org/details/books/chemistry-2e",
         "https://creativecommons.org/licenses/by/4.0/"
       ],
-      "checkedAt": "2026-11-24T17:37:05.434Z",
+      "checkedAt": "2026-11-24T17:41:15.395Z",
       "httpStatus": 200,
       "visibleText": 649
     },
@@ -5065,7 +5065,7 @@
         "https://tutorial.math.lamar.edu/Classes/CalcI/Functions.aspx",
         "https://openstax.org/books/calculus-volume-1/pages/1-1-review-of-functions"
       ],
-      "checkedAt": "2026-11-24T17:37:05.778Z",
+      "checkedAt": "2026-11-24T17:41:15.777Z",
       "httpStatus": 200,
       "visibleText": 6879
     },
@@ -5174,7 +5174,7 @@
         "https://tutorial.math.lamar.edu/Classes/DE/Vibrations.aspx",
         "https://tutorial.math.lamar.edu/Classes/DE/UndeterminedCoefficients.aspx"
       ],
-      "checkedAt": "2026-11-24T17:37:06.309Z",
+      "checkedAt": "2026-11-24T17:41:16.017Z",
       "httpStatus": 200,
       "visibleText": 4137
     },
@@ -5283,7 +5283,7 @@
         "https://tutorial.math.lamar.edu/Classes/DE/Linear.aspx",
         "https://www.jirka.org/diffyqs/html/intfactor_section.html"
       ],
-      "checkedAt": "2026-11-24T17:37:06.933Z",
+      "checkedAt": "2026-11-24T17:41:16.314Z",
       "httpStatus": 200,
       "visibleText": 4168
     },
@@ -5394,7 +5394,7 @@
         "https://tutorial.math.lamar.edu/Classes/DE/ComplexRoots.aspx",
         "https://tutorial.math.lamar.edu/Classes/DE/RepeatedRoots.aspx"
       ],
-      "checkedAt": "2026-11-24T17:37:07.175Z",
+      "checkedAt": "2026-11-24T17:41:17.247Z",
       "httpStatus": 200,
       "visibleText": 4498
     },
@@ -5492,7 +5492,7 @@
         "https://tutorial.math.lamar.edu/Classes/CalcI/RelatedRates.aspx",
         "https://tutorial.math.lamar.edu/Classes/CalcI/LHospitalsRule.aspx"
       ],
-      "checkedAt": "2026-11-24T17:37:07.392Z",
+      "checkedAt": "2026-11-24T17:41:17.346Z",
       "httpStatus": 200,
       "visibleText": 6601
     },
@@ -5508,7 +5508,7 @@
       "warns": [],
       "selfCheck": null,
       "links": [],
-      "checkedAt": "2026-11-24T17:37:07.642Z",
+      "checkedAt": "2026-11-24T17:41:17.506Z",
       "httpStatus": 200,
       "visibleText": 2010
     },
@@ -5524,7 +5524,7 @@
       "warns": [],
       "selfCheck": null,
       "links": [],
-      "checkedAt": "2026-11-24T17:37:07.984Z",
+      "checkedAt": "2026-11-24T17:41:18.034Z",
       "httpStatus": 200,
       "visibleText": 2801
     },
@@ -5540,7 +5540,7 @@
       "warns": [],
       "selfCheck": null,
       "links": [],
-      "checkedAt": "2026-11-24T17:37:08.288Z",
+      "checkedAt": "2026-11-24T17:41:18.190Z",
       "httpStatus": 200,
       "visibleText": 1373
     },
@@ -5556,7 +5556,7 @@
       "warns": [],
       "selfCheck": null,
       "links": [],
-      "checkedAt": "2026-11-24T17:37:08.897Z",
+      "checkedAt": "2026-11-24T17:41:18.547Z",
       "httpStatus": 200,
       "visibleText": 1090
     },
@@ -5572,7 +5572,7 @@
       "warns": [],
       "selfCheck": null,
       "links": [],
-      "checkedAt": "2026-11-24T17:37:09.211Z",
+      "checkedAt": "2026-11-24T17:41:19.286Z",
       "httpStatus": 200,
       "visibleText": 1633
     },
@@ -5588,7 +5588,7 @@
       "warns": [],
       "selfCheck": null,
       "links": [],
-      "checkedAt": "2026-11-24T17:37:09.534Z",
+      "checkedAt": "2026-11-24T17:41:19.644Z",
       "httpStatus": 200,
       "visibleText": 1948
     },
@@ -5604,7 +5604,7 @@
       "warns": [],
       "selfCheck": null,
       "links": [],
-      "checkedAt": "2026-11-24T17:37:09.814Z",
+      "checkedAt": "2026-11-24T17:41:19.720Z",
       "httpStatus": 200,
       "visibleText": 1970
     },
@@ -5620,7 +5620,7 @@
       "warns": [],
       "selfCheck": null,
       "links": [],
-      "checkedAt": "2026-11-24T17:37:09.994Z",
+      "checkedAt": "2026-11-24T17:41:20.177Z",
       "httpStatus": 200,
       "visibleText": 2029
     },
@@ -5636,7 +5636,7 @@
       "warns": [],
       "selfCheck": null,
       "links": [],
-      "checkedAt": "2026-11-24T17:37:10.217Z",
+      "checkedAt": "2026-11-24T17:41:20.369Z",
       "httpStatus": 200,
       "visibleText": 2321
     },
@@ -5652,7 +5652,7 @@
       "warns": [],
       "selfCheck": null,
       "links": [],
-      "checkedAt": "2026-11-24T17:37:10.684Z",
+      "checkedAt": "2026-11-24T17:41:20.625Z",
       "httpStatus": 200,
       "visibleText": 1783
     },
@@ -5694,7 +5694,7 @@
       "links": [
         "https://www.bls.gov/ooh/"
       ],
-      "checkedAt": "2026-11-24T17:37:11.271Z",
+      "checkedAt": "2026-11-24T17:41:21.278Z",
       "httpStatus": 200,
       "visibleText": 5453
     },
@@ -5710,7 +5710,7 @@
       "warns": [],
       "selfCheck": null,
       "links": [],
-      "checkedAt": "2026-11-24T17:37:11.609Z",
+      "checkedAt": "2026-11-24T17:41:21.683Z",
       "httpStatus": 200,
       "visibleText": 12778
     },
@@ -5764,7 +5764,7 @@
         ]
       },
       "links": [],
-      "checkedAt": "2026-11-24T17:37:55.742Z",
+      "checkedAt": "2026-11-24T17:41:21.973Z",
       "httpStatus": 200,
       "visibleText": 2031
     },
@@ -5780,7 +5780,7 @@
       "warns": [],
       "selfCheck": null,
       "links": [],
-      "checkedAt": "2026-11-24T17:37:12.263Z",
+      "checkedAt": "2026-11-24T17:41:22.209Z",
       "httpStatus": 200,
       "visibleText": 1157
     },
@@ -5796,7 +5796,7 @@
       "warns": [],
       "selfCheck": null,
       "links": [],
-      "checkedAt": "2026-11-24T17:37:12.398Z",
+      "checkedAt": "2026-11-24T17:41:22.363Z",
       "httpStatus": 200,
       "visibleText": 881
     },
@@ -5843,7 +5843,7 @@
       "links": [
         "https://news.harvard.edu/gazette/story/2025/03/harvard-expands-financial-aid/"
       ],
-      "checkedAt": "2026-11-24T17:37:12.874Z",
+      "checkedAt": "2026-11-24T17:41:22.599Z",
       "httpStatus": 200,
       "visibleText": 655
     },
@@ -5890,7 +5890,7 @@
       "links": [
         "https://www.npr.org/sections/shots-health-news/2025/02/04/nx-s1-5285413/cereal-sugar-kids-advertising-health"
       ],
-      "checkedAt": "2026-11-24T17:37:13.107Z",
+      "checkedAt": "2026-11-24T17:41:23.037Z",
       "httpStatus": 200,
       "visibleText": 624
     },
@@ -5950,7 +5950,7 @@
         ]
       },
       "links": [],
-      "checkedAt": "2026-11-24T17:37:13.235Z",
+      "checkedAt": "2026-11-24T17:41:23.373Z",
       "httpStatus": 200,
       "visibleText": 512
     },
@@ -6025,7 +6025,7 @@
         ]
       },
       "links": [],
-      "checkedAt": "2026-11-24T17:37:14.027Z",
+      "checkedAt": "2026-11-24T17:41:23.926Z",
       "httpStatus": 200,
       "visibleText": 1016
     },
@@ -6070,7 +6070,7 @@
         ]
       },
       "links": [],
-      "checkedAt": "2026-11-24T17:37:14.208Z",
+      "checkedAt": "2026-11-24T17:41:24.098Z",
       "httpStatus": 200,
       "visibleText": 669
     },
@@ -6115,7 +6115,7 @@
         ]
       },
       "links": [],
-      "checkedAt": "2026-11-24T17:37:15.060Z",
+      "checkedAt": "2026-11-24T17:41:24.259Z",
       "httpStatus": 200,
       "visibleText": 532
     },
@@ -6175,7 +6175,7 @@
         ]
       },
       "links": [],
-      "checkedAt": "2026-11-24T17:37:15.082Z",
+      "checkedAt": "2026-11-24T17:41:24.694Z",
       "httpStatus": 200,
       "visibleText": 510
     },
@@ -6220,7 +6220,7 @@
         ]
       },
       "links": [],
-      "checkedAt": "2026-11-24T17:37:16.178Z",
+      "checkedAt": "2026-11-24T17:41:24.989Z",
       "httpStatus": 200,
       "visibleText": 613
     },
@@ -6290,7 +6290,7 @@
         ]
       },
       "links": [],
-      "checkedAt": "2026-11-24T17:37:17.422Z",
+      "checkedAt": "2026-11-24T17:41:26.096Z",
       "httpStatus": 200,
       "visibleText": 572
     },
@@ -6334,7 +6334,7 @@
         ]
       },
       "links": [],
-      "checkedAt": "2026-11-24T17:37:18.143Z",
+      "checkedAt": "2026-11-24T17:41:26.300Z",
       "httpStatus": 200,
       "visibleText": 565
     },
@@ -6350,7 +6350,7 @@
       "warns": [],
       "selfCheck": null,
       "links": [],
-      "checkedAt": "2026-11-24T17:37:19.714Z",
+      "checkedAt": "2026-11-24T17:41:26.989Z",
       "httpStatus": 200,
       "visibleText": 13
     },
@@ -6366,7 +6366,7 @@
       "warns": [],
       "selfCheck": null,
       "links": [],
-      "checkedAt": "2026-11-24T17:37:20.244Z",
+      "checkedAt": "2026-11-24T17:41:28.192Z",
       "httpStatus": 200,
       "visibleText": 13
     },
@@ -6424,7 +6424,7 @@
       "links": [
         "https://www.desmos.com/scientific"
       ],
-      "checkedAt": "2026-11-24T17:37:21.955Z",
+      "checkedAt": "2026-11-24T17:41:28.717Z",
       "httpStatus": 200,
       "visibleText": 1458
     },
@@ -6440,7 +6440,7 @@
       "warns": [],
       "selfCheck": null,
       "links": [],
-      "checkedAt": "2026-11-24T17:37:22.231Z",
+      "checkedAt": "2026-11-24T17:41:29.384Z",
       "httpStatus": 200,
       "visibleText": 13
     },
@@ -6502,7 +6502,7 @@
       "links": [
         "https://www.desmos.com/scientific"
       ],
-      "checkedAt": "2026-11-24T17:37:23.362Z",
+      "checkedAt": "2026-11-24T17:41:29.975Z",
       "httpStatus": 200,
       "visibleText": 945
     },
@@ -6518,7 +6518,7 @@
       "warns": [],
       "selfCheck": null,
       "links": [],
-      "checkedAt": "2026-11-24T17:37:24.081Z",
+      "checkedAt": "2026-11-24T17:41:30.434Z",
       "httpStatus": 200,
       "visibleText": 13
     },
@@ -6534,7 +6534,7 @@
       "warns": [],
       "selfCheck": null,
       "links": [],
-      "checkedAt": "2026-11-24T17:37:24.195Z",
+      "checkedAt": "2026-11-24T17:41:31.062Z",
       "httpStatus": 200,
       "visibleText": 13
     },
@@ -6550,7 +6550,7 @@
       "warns": [],
       "selfCheck": null,
       "links": [],
-      "checkedAt": "2026-11-24T17:37:25.871Z",
+      "checkedAt": "2026-11-24T17:41:32.241Z",
       "httpStatus": 200,
       "visibleText": 13
     },
@@ -6566,7 +6566,7 @@
       "warns": [],
       "selfCheck": null,
       "links": [],
-      "checkedAt": "2026-11-24T17:37:26.425Z",
+      "checkedAt": "2026-11-24T17:41:33.295Z",
       "httpStatus": 200,
       "visibleText": 13
     },
@@ -6582,7 +6582,7 @@
       "warns": [],
       "selfCheck": null,
       "links": [],
-      "checkedAt": "2026-11-24T17:37:27.189Z",
+      "checkedAt": "2026-11-24T17:41:34.067Z",
       "httpStatus": 200,
       "visibleText": 13
     },
@@ -6598,7 +6598,7 @@
       "warns": [],
       "selfCheck": null,
       "links": [],
-      "checkedAt": "2026-11-24T17:37:28.243Z",
+      "checkedAt": "2026-11-24T17:41:34.204Z",
       "httpStatus": 200,
       "visibleText": 13
     },
@@ -6614,7 +6614,7 @@
       "warns": [],
       "selfCheck": null,
       "links": [],
-      "checkedAt": "2026-11-24T17:37:28.603Z",
+      "checkedAt": "2026-11-24T17:41:35.317Z",
       "httpStatus": 200,
       "visibleText": 13
     },
@@ -6670,9 +6670,9 @@
         ]
       },
       "links": [],
-      "checkedAt": "2026-11-24T17:37:29.798Z",
+      "checkedAt": "2026-11-24T17:41:36.098Z",
       "httpStatus": 200,
-      "visibleText": 1186
+      "visibleText": 1194
     },
     {
       "id": "finan4-cash-desk",
@@ -6712,7 +6712,7 @@
       "links": [
         "https://www.desmos.com/scientific"
       ],
-      "checkedAt": "2026-11-24T17:37:29.993Z",
+      "checkedAt": "2026-11-24T17:41:36.286Z",
       "httpStatus": 200,
       "visibleText": 1208
     },
@@ -6754,7 +6754,7 @@
       "links": [
         "https://www.desmos.com/scientific"
       ],
-      "checkedAt": "2026-11-24T17:37:30.394Z",
+      "checkedAt": "2026-11-24T17:41:37.565Z",
       "httpStatus": 200,
       "visibleText": 1233
     },
@@ -6770,7 +6770,7 @@
       "warns": [],
       "selfCheck": null,
       "links": [],
-      "checkedAt": "2026-11-24T17:37:30.686Z",
+      "checkedAt": "2026-11-24T17:41:37.801Z",
       "httpStatus": 200,
       "visibleText": 13
     },
@@ -6812,7 +6812,7 @@
       "links": [
         "https://www.desmos.com/scientific"
       ],
-      "checkedAt": "2026-11-24T17:37:31.651Z",
+      "checkedAt": "2026-11-24T17:41:38.115Z",
       "httpStatus": 200,
       "visibleText": 1017
     },
@@ -6854,7 +6854,7 @@
       "links": [
         "https://www.desmos.com/scientific"
       ],
-      "checkedAt": "2026-11-24T17:37:31.905Z",
+      "checkedAt": "2026-11-24T17:41:38.255Z",
       "httpStatus": 200,
       "visibleText": 1250
     },
@@ -6896,7 +6896,7 @@
       "links": [
         "https://www.desmos.com/scientific"
       ],
-      "checkedAt": "2026-11-24T17:37:32.305Z",
+      "checkedAt": "2026-11-24T17:41:39.480Z",
       "httpStatus": 200,
       "visibleText": 1281
     },
@@ -6938,7 +6938,7 @@
       "links": [
         "https://www.desmos.com/scientific"
       ],
-      "checkedAt": "2026-11-24T17:37:32.548Z",
+      "checkedAt": "2026-11-24T17:41:39.903Z",
       "httpStatus": 200,
       "visibleText": 1197
     },
@@ -6954,7 +6954,7 @@
       "warns": [],
       "selfCheck": null,
       "links": [],
-      "checkedAt": "2026-11-24T17:37:33.697Z",
+      "checkedAt": "2026-11-24T17:41:40.116Z",
       "httpStatus": 200,
       "visibleText": 13
     },
@@ -6996,7 +6996,7 @@
       "links": [
         "https://www.desmos.com/scientific"
       ],
-      "checkedAt": "2026-11-24T17:37:33.900Z",
+      "checkedAt": "2026-11-24T17:41:40.595Z",
       "httpStatus": 200,
       "visibleText": 1154
     },
@@ -7038,7 +7038,7 @@
       "links": [
         "https://www.desmos.com/scientific"
       ],
-      "checkedAt": "2026-11-24T17:37:33.945Z",
+      "checkedAt": "2026-11-24T17:41:41.044Z",
       "httpStatus": 200,
       "visibleText": 1209
     },
@@ -7080,7 +7080,7 @@
       "links": [
         "https://www.desmos.com/scientific"
       ],
-      "checkedAt": "2026-11-24T17:37:34.504Z",
+      "checkedAt": "2026-11-24T17:41:41.265Z",
       "httpStatus": 200,
       "visibleText": 1176
     },
@@ -7096,7 +7096,7 @@
       "warns": [],
       "selfCheck": null,
       "links": [],
-      "checkedAt": "2026-11-24T17:37:34.696Z",
+      "checkedAt": "2026-11-24T17:41:41.562Z",
       "httpStatus": 200,
       "visibleText": 13
     },
@@ -7138,7 +7138,7 @@
       "links": [
         "https://www.desmos.com/scientific"
       ],
-      "checkedAt": "2026-11-24T17:37:35.813Z",
+      "checkedAt": "2026-11-24T17:41:41.862Z",
       "httpStatus": 200,
       "visibleText": 1186
     },
@@ -7154,7 +7154,7 @@
       "warns": [],
       "selfCheck": null,
       "links": [],
-      "checkedAt": "2026-11-24T17:37:36.058Z",
+      "checkedAt": "2026-11-24T17:41:42.081Z",
       "httpStatus": 200,
       "visibleText": 13
     },
@@ -7196,7 +7196,7 @@
       "links": [
         "https://www.desmos.com/scientific"
       ],
-      "checkedAt": "2026-11-24T17:37:36.219Z",
+      "checkedAt": "2026-11-24T17:41:42.413Z",
       "httpStatus": 200,
       "visibleText": 1166
     },
@@ -7216,7 +7216,7 @@
         "https://www.glassdoor.com/",
         "https://www.bls.gov/oes/current/oes_nat.htm"
       ],
-      "checkedAt": "2026-11-24T17:37:36.438Z",
+      "checkedAt": "2026-11-24T17:41:42.948Z",
       "httpStatus": 200,
       "visibleText": 1220
     },
@@ -7234,7 +7234,7 @@
       ],
       "selfCheck": null,
       "links": [],
-      "checkedAt": "2026-11-24T17:37:36.592Z",
+      "checkedAt": "2026-11-24T17:41:43.274Z",
       "httpStatus": 200,
       "visibleText": 2261
     },
@@ -7250,7 +7250,7 @@
       "warns": [],
       "selfCheck": null,
       "links": [],
-      "checkedAt": "2026-11-24T17:37:37.617Z",
+      "checkedAt": "2026-11-24T17:41:43.609Z",
       "httpStatus": 200,
       "visibleText": 666
     },
@@ -7266,7 +7266,7 @@
       "warns": [],
       "selfCheck": null,
       "links": [],
-      "checkedAt": "2026-11-24T17:37:37.974Z",
+      "checkedAt": "2026-11-24T17:41:43.806Z",
       "httpStatus": 200,
       "visibleText": 742
     },
@@ -7282,7 +7282,7 @@
       "warns": [],
       "selfCheck": null,
       "links": [],
-      "checkedAt": "2026-11-24T17:37:38.111Z",
+      "checkedAt": "2026-11-24T17:41:43.987Z",
       "httpStatus": 200,
       "visibleText": 1096
     },
@@ -7298,7 +7298,7 @@
       "warns": [],
       "selfCheck": null,
       "links": [],
-      "checkedAt": "2026-11-24T17:37:38.335Z",
+      "checkedAt": "2026-11-24T17:41:44.244Z",
       "httpStatus": 200,
       "visibleText": 7926
     },
@@ -7314,7 +7314,7 @@
       "warns": [],
       "selfCheck": null,
       "links": [],
-      "checkedAt": "2026-11-24T17:37:38.673Z",
+      "checkedAt": "2026-11-24T17:41:44.701Z",
       "httpStatus": 200,
       "visibleText": 2232
     },
@@ -7330,7 +7330,7 @@
       "warns": [],
       "selfCheck": null,
       "links": [],
-      "checkedAt": "2026-11-24T17:37:39.515Z",
+      "checkedAt": "2026-11-24T17:41:45.313Z",
       "httpStatus": 200,
       "visibleText": 1478
     },
@@ -7346,7 +7346,7 @@
       "warns": [],
       "selfCheck": null,
       "links": [],
-      "checkedAt": "2026-11-24T17:37:39.637Z",
+      "checkedAt": "2026-11-24T17:41:45.524Z",
       "httpStatus": 200,
       "visibleText": 3556
     },
@@ -7362,7 +7362,7 @@
       "warns": [],
       "selfCheck": null,
       "links": [],
-      "checkedAt": "2026-11-24T17:37:39.913Z",
+      "checkedAt": "2026-11-24T17:41:45.652Z",
       "httpStatus": 200,
       "visibleText": 1121
     },
@@ -7378,7 +7378,7 @@
       "warns": [],
       "selfCheck": null,
       "links": [],
-      "checkedAt": "2026-11-24T17:37:40.048Z",
+      "checkedAt": "2026-11-24T17:41:45.769Z",
       "httpStatus": 200,
       "visibleText": 1151
     },
@@ -7394,7 +7394,7 @@
       "warns": [],
       "selfCheck": null,
       "links": [],
-      "checkedAt": "2026-11-24T17:37:40.481Z",
+      "checkedAt": "2026-11-24T17:41:46.155Z",
       "httpStatus": 200,
       "visibleText": 1100
     },
@@ -7410,7 +7410,7 @@
       "warns": [],
       "selfCheck": null,
       "links": [],
-      "checkedAt": "2026-11-24T17:37:41.507Z",
+      "checkedAt": "2026-11-24T17:41:46.510Z",
       "httpStatus": 200,
       "visibleText": 1138
     },
@@ -7426,7 +7426,7 @@
       "warns": [],
       "selfCheck": null,
       "links": [],
-      "checkedAt": "2026-11-24T17:37:41.628Z",
+      "checkedAt": "2026-11-24T17:41:47.245Z",
       "httpStatus": 200,
       "visibleText": 1263
     },
@@ -7442,7 +7442,7 @@
       "warns": [],
       "selfCheck": null,
       "links": [],
-      "checkedAt": "2026-11-24T17:37:41.756Z",
+      "checkedAt": "2026-11-24T17:41:47.476Z",
       "httpStatus": 200,
       "visibleText": 1179
     },
@@ -7458,7 +7458,7 @@
       "warns": [],
       "selfCheck": null,
       "links": [],
-      "checkedAt": "2026-11-24T17:37:41.919Z",
+      "checkedAt": "2026-11-24T17:41:47.482Z",
       "httpStatus": 200,
       "visibleText": 1337
     },
@@ -7562,7 +7562,7 @@
         "https://www.openintro.org/book/os/",
         "https://openstax.org/books/introductory-statistics-2e/pages/7-1-the-central-limit-theorem-for-sample-means-averages"
       ],
-      "checkedAt": "2026-11-24T17:37:42.170Z",
+      "checkedAt": "2026-11-24T17:41:47.706Z",
       "httpStatus": 200,
       "visibleText": 13789
     },
@@ -7576,7 +7576,7 @@
       "status": "WARN",
       "fails": [],
       "warns": [
-        "Page rendered only 172 characters of visible text (floor 300), but its own self-check passed."
+        "Page rendered only 163 characters of visible text (floor 300), but its own self-check passed."
       ],
       "selfCheck": {
         "ok": true,
@@ -7612,9 +7612,9 @@
         ]
       },
       "links": [],
-      "checkedAt": "2026-11-24T17:37:43.241Z",
+      "checkedAt": "2026-11-24T17:41:48.002Z",
       "httpStatus": 200,
-      "visibleText": 172
+      "visibleText": 163
     },
     {
       "id": "spanish-ii_spnsh2-tareas_index.html-unit2",
@@ -7660,7 +7660,7 @@
         ]
       },
       "links": [],
-      "checkedAt": "2026-11-24T17:37:43.438Z",
+      "checkedAt": "2026-11-24T17:41:48.214Z",
       "httpStatus": 200,
       "visibleText": 832
     },
@@ -7674,7 +7674,7 @@
       "status": "WARN",
       "fails": [],
       "warns": [
-        "Page rendered only 129 characters of visible text (floor 300), but its own self-check passed."
+        "Page rendered only 136 characters of visible text (floor 300), but its own self-check passed."
       ],
       "selfCheck": {
         "ok": true,
@@ -7710,9 +7710,9 @@
         ]
       },
       "links": [],
-      "checkedAt": "2026-11-24T17:37:43.597Z",
+      "checkedAt": "2026-11-24T17:41:49.073Z",
       "httpStatus": 200,
-      "visibleText": 129
+      "visibleText": 136
     },
     {
       "id": "spanish-ii_spnsh2-tareas_index.html-unit3",
@@ -7758,7 +7758,7 @@
         ]
       },
       "links": [],
-      "checkedAt": "2026-11-24T17:37:43.695Z",
+      "checkedAt": "2026-11-24T17:41:49.297Z",
       "httpStatus": 200,
       "visibleText": 837
     },
@@ -7772,7 +7772,7 @@
       "status": "WARN",
       "fails": [],
       "warns": [
-        "Page rendered only 123 characters of visible text (floor 300), but its own self-check passed."
+        "Page rendered only 126 characters of visible text (floor 300), but its own self-check passed."
       ],
       "selfCheck": {
         "ok": true,
@@ -7808,9 +7808,9 @@
         ]
       },
       "links": [],
-      "checkedAt": "2026-11-24T17:37:44.286Z",
+      "checkedAt": "2026-11-24T17:41:49.467Z",
       "httpStatus": 200,
-      "visibleText": 123
+      "visibleText": 126
     },
     {
       "id": "spanish-ii_spnsh2-tareas_index.html-unit4",
@@ -7856,7 +7856,7 @@
         ]
       },
       "links": [],
-      "checkedAt": "2026-11-24T17:37:44.882Z",
+      "checkedAt": "2026-11-24T17:41:49.791Z",
       "httpStatus": 200,
       "visibleText": 742
     },
@@ -7870,7 +7870,7 @@
       "status": "WARN",
       "fails": [],
       "warns": [
-        "Page rendered only 156 characters of visible text (floor 300), but its own self-check passed."
+        "Page rendered only 135 characters of visible text (floor 300), but its own self-check passed."
       ],
       "selfCheck": {
         "ok": true,
@@ -7906,9 +7906,9 @@
         ]
       },
       "links": [],
-      "checkedAt": "2026-11-24T17:37:45.212Z",
+      "checkedAt": "2026-11-24T17:41:50.267Z",
       "httpStatus": 200,
-      "visibleText": 156
+      "visibleText": 135
     },
     {
       "id": "spanish-ii_spnsh2-tareas_index.html-unit5",
@@ -7954,7 +7954,7 @@
         ]
       },
       "links": [],
-      "checkedAt": "2026-11-24T17:37:45.349Z",
+      "checkedAt": "2026-11-24T17:41:50.465Z",
       "httpStatus": 200,
       "visibleText": 720
     },
@@ -7968,7 +7968,7 @@
       "status": "WARN",
       "fails": [],
       "warns": [
-        "Page rendered only 171 characters of visible text (floor 300), but its own self-check passed."
+        "Page rendered only 146 characters of visible text (floor 300), but its own self-check passed."
       ],
       "selfCheck": {
         "ok": true,
@@ -8004,9 +8004,9 @@
         ]
       },
       "links": [],
-      "checkedAt": "2026-11-24T17:37:45.539Z",
+      "checkedAt": "2026-11-24T17:41:51.103Z",
       "httpStatus": 200,
-      "visibleText": 171
+      "visibleText": 146
     },
     {
       "id": "spanish-ii_spnsh2-tareas_index.html-unit6",
@@ -8052,7 +8052,7 @@
         ]
       },
       "links": [],
-      "checkedAt": "2026-11-24T17:37:45.774Z",
+      "checkedAt": "2026-11-24T17:41:51.247Z",
       "httpStatus": 200,
       "visibleText": 705
     },
@@ -8066,7 +8066,7 @@
       "status": "WARN",
       "fails": [],
       "warns": [
-        "Page rendered only 147 characters of visible text (floor 300), but its own self-check passed."
+        "Page rendered only 140 characters of visible text (floor 300), but its own self-check passed."
       ],
       "selfCheck": {
         "ok": true,
@@ -8102,9 +8102,9 @@
         ]
       },
       "links": [],
-      "checkedAt": "2026-11-24T17:37:46.421Z",
+      "checkedAt": "2026-11-24T17:41:51.371Z",
       "httpStatus": 200,
-      "visibleText": 147
+      "visibleText": 140
     },
     {
       "id": "spanish-ii_spnsh2-tareas_index.html-unit7",
@@ -8150,7 +8150,7 @@
         ]
       },
       "links": [],
-      "checkedAt": "2026-11-24T17:37:46.810Z",
+      "checkedAt": "2026-11-24T17:41:51.754Z",
       "httpStatus": 200,
       "visibleText": 885
     },
@@ -8164,7 +8164,7 @@
       "status": "WARN",
       "fails": [],
       "warns": [
-        "Page rendered only 122 characters of visible text (floor 300), but its own self-check passed."
+        "Page rendered only 129 characters of visible text (floor 300), but its own self-check passed."
       ],
       "selfCheck": {
         "ok": true,
@@ -8200,9 +8200,9 @@
         ]
       },
       "links": [],
-      "checkedAt": "2026-11-24T17:37:47.005Z",
+      "checkedAt": "2026-11-24T17:41:52.031Z",
       "httpStatus": 200,
-      "visibleText": 122
+      "visibleText": 129
     },
     {
       "id": "spanish-ii_spnsh2-tareas_index.html-unit8",
@@ -8248,7 +8248,7 @@
         ]
       },
       "links": [],
-      "checkedAt": "2026-11-24T17:37:47.182Z",
+      "checkedAt": "2026-11-24T17:41:52.345Z",
       "httpStatus": 200,
       "visibleText": 1079
     },
@@ -8262,7 +8262,7 @@
       "status": "WARN",
       "fails": [],
       "warns": [
-        "Page rendered only 155 characters of visible text (floor 300), but its own self-check passed."
+        "Page rendered only 157 characters of visible text (floor 300), but its own self-check passed."
       ],
       "selfCheck": {
         "ok": true,
@@ -8298,9 +8298,9 @@
         ]
       },
       "links": [],
-      "checkedAt": "2026-11-24T17:37:47.308Z",
+      "checkedAt": "2026-11-24T17:41:52.996Z",
       "httpStatus": 200,
-      "visibleText": 155
+      "visibleText": 157
     },
     {
       "id": "spanish-ii_spnsh2-tareas_index.html-unit9",
@@ -8346,7 +8346,7 @@
         ]
       },
       "links": [],
-      "checkedAt": "2026-11-24T17:37:47.637Z",
+      "checkedAt": "2026-11-24T17:41:53.243Z",
       "httpStatus": 200,
       "visibleText": 881
     },
@@ -8360,7 +8360,7 @@
       "status": "WARN",
       "fails": [],
       "warns": [
-        "Page rendered only 147 characters of visible text (floor 300), but its own self-check passed."
+        "Page rendered only 163 characters of visible text (floor 300), but its own self-check passed."
       ],
       "selfCheck": {
         "ok": true,
@@ -8396,9 +8396,9 @@
         ]
       },
       "links": [],
-      "checkedAt": "2026-11-24T17:37:47.916Z",
+      "checkedAt": "2026-11-24T17:41:53.446Z",
       "httpStatus": 200,
-      "visibleText": 147
+      "visibleText": 163
     },
     {
       "id": "spanish-ii_spnsh2-tareas_index.html-unit10",
@@ -8444,7 +8444,7 @@
         ]
       },
       "links": [],
-      "checkedAt": "2026-11-24T17:37:48.517Z",
+      "checkedAt": "2026-11-24T17:41:53.754Z",
       "httpStatus": 200,
       "visibleText": 657
     },
@@ -8494,7 +8494,7 @@
         ]
       },
       "links": [],
-      "checkedAt": "2026-11-24T17:37:48.723Z",
+      "checkedAt": "2026-11-24T17:41:53.939Z",
       "httpStatus": 200,
       "visibleText": 150
     },
@@ -8542,7 +8542,7 @@
         ]
       },
       "links": [],
-      "checkedAt": "2026-11-24T17:37:49.076Z",
+      "checkedAt": "2026-11-24T17:41:54.205Z",
       "httpStatus": 200,
       "visibleText": 782
     },
@@ -8556,7 +8556,7 @@
       "status": "WARN",
       "fails": [],
       "warns": [
-        "Page rendered only 148 characters of visible text (floor 300), but its own self-check passed."
+        "Page rendered only 149 characters of visible text (floor 300), but its own self-check passed."
       ],
       "selfCheck": {
         "ok": true,
@@ -8592,9 +8592,9 @@
         ]
       },
       "links": [],
-      "checkedAt": "2026-11-24T17:37:49.209Z",
+      "checkedAt": "2026-11-24T17:41:54.759Z",
       "httpStatus": 200,
-      "visibleText": 148
+      "visibleText": 149
     },
     {
       "id": "spanish-ii_spnsh2-tareas_index.html-unit12",
@@ -8640,7 +8640,7 @@
         ]
       },
       "links": [],
-      "checkedAt": "2026-11-24T17:37:49.436Z",
+      "checkedAt": "2026-11-24T17:41:55.157Z",
       "httpStatus": 200,
       "visibleText": 886
     },
@@ -8654,7 +8654,7 @@
       "status": "WARN",
       "fails": [],
       "warns": [
-        "Page rendered only 132 characters of visible text (floor 300), but its own self-check passed."
+        "Page rendered only 135 characters of visible text (floor 300), but its own self-check passed."
       ],
       "selfCheck": {
         "ok": true,
@@ -8690,9 +8690,9 @@
         ]
       },
       "links": [],
-      "checkedAt": "2026-11-24T17:37:49.639Z",
+      "checkedAt": "2026-11-24T17:41:55.398Z",
       "httpStatus": 200,
-      "visibleText": 132
+      "visibleText": 135
     },
     {
       "id": "spanish-ii_spnsh2-tareas_index.html-unit13",
@@ -8738,7 +8738,7 @@
         ]
       },
       "links": [],
-      "checkedAt": "2026-11-24T17:37:50.220Z",
+      "checkedAt": "2026-11-24T17:41:55.670Z",
       "httpStatus": 200,
       "visibleText": 893
     },
@@ -8786,7 +8786,7 @@
         ]
       },
       "links": [],
-      "checkedAt": "2026-11-24T17:37:50.467Z",
+      "checkedAt": "2026-11-24T17:41:55.802Z",
       "httpStatus": 200,
       "visibleText": 926
     },
@@ -8802,7 +8802,7 @@
       "warns": [],
       "selfCheck": null,
       "links": [],
-      "checkedAt": "2026-11-24T17:37:50.915Z",
+      "checkedAt": "2026-11-24T17:41:56.153Z",
       "httpStatus": 200,
       "visibleText": 1084
     },
@@ -8818,7 +8818,7 @@
       "warns": [],
       "selfCheck": null,
       "links": [],
-      "checkedAt": "2026-11-24T17:37:51.079Z",
+      "checkedAt": "2026-11-24T17:41:56.565Z",
       "httpStatus": 200,
       "visibleText": 1624
     },
@@ -8834,7 +8834,7 @@
       "warns": [],
       "selfCheck": null,
       "links": [],
-      "checkedAt": "2026-11-24T17:37:51.271Z",
+      "checkedAt": "2026-11-24T17:41:57.008Z",
       "httpStatus": 200,
       "visibleText": 4989
     },
@@ -8911,7 +8911,7 @@
         "https://tutorial.math.lamar.edu/Classes/CalcI/Tangents_Rates.aspx",
         "https://openstax.org/books/calculus-volume-1/pages/2-1-a-preview-of-calculus"
       ],
-      "checkedAt": "2026-11-24T17:37:51.300Z",
+      "checkedAt": "2026-11-24T17:41:57.246Z",
       "httpStatus": 200,
       "visibleText": 9235
     },
@@ -8953,7 +8953,7 @@
       "links": [
         "https://www.desmos.com/scientific"
       ],
-      "checkedAt": "2026-11-24T17:37:51.801Z",
+      "checkedAt": "2026-11-24T17:41:57.614Z",
       "httpStatus": 200,
       "visibleText": 1154
     },
@@ -8995,7 +8995,7 @@
       "links": [
         "https://www.desmos.com/scientific"
       ],
-      "checkedAt": "2026-11-24T17:37:52.006Z",
+      "checkedAt": "2026-11-24T17:41:57.752Z",
       "httpStatus": 200,
       "visibleText": 813
     },
@@ -9037,7 +9037,7 @@
       "links": [
         "https://www.desmos.com/scientific"
       ],
-      "checkedAt": "2026-11-24T17:37:52.387Z",
+      "checkedAt": "2026-11-24T17:41:57.954Z",
       "httpStatus": 200,
       "visibleText": 1270
     },
@@ -9079,7 +9079,7 @@
       "links": [
         "https://www.desmos.com/scientific"
       ],
-      "checkedAt": "2026-11-24T17:37:52.661Z",
+      "checkedAt": "2026-11-24T17:41:58.136Z",
       "httpStatus": 200,
       "visibleText": 1221
     }
