@@ -13,7 +13,7 @@ it may retire Psyque pages that are no longer linked.
 
     PSYQUE_TOKEN=... python3 scripts/psyque_rows.py >> rows.txt
 """
-import json, os, re, sys, urllib.request
+import json, os, re, sys, urllib.error, urllib.request
 
 from sanity_rows import normalize, rize_host
 
@@ -45,9 +45,15 @@ class Psyque:
         if self.sid:
             h['Mcp-Session-Id'] = self.sid
         body = json.dumps({'jsonrpc': '2.0', 'id': self.n, 'method': method, 'params': params or {}})
-        with urllib.request.urlopen(urllib.request.Request(URL, body.encode(), h), timeout=180) as r:
-            self.sid = r.headers.get('Mcp-Session-Id') or self.sid
-            raw = r.read().decode()
+        try:
+            with urllib.request.urlopen(urllib.request.Request(URL, body.encode(), h), timeout=180) as r:
+                self.sid = r.headers.get('Mcp-Session-Id') or self.sid
+                raw = r.read().decode()
+        except urllib.error.HTTPError as e:
+            # Psyque's reason (never the token) so a refused token is diagnosable from the log.
+            print(f'psyque: {method} -> HTTP {e.code}: {e.read()[:300].decode(errors="replace")}',
+                  file=sys.stderr)
+            raise
         data = [l[5:] for l in raw.splitlines() if l.startswith('data:')]
         raw = data[-1] if data else raw
         return json.loads(raw) if raw.strip() else {}
