@@ -1,10 +1,10 @@
 {
   "summary": {
-    "generated": "2026-11-24T17:29:06.233Z",
+    "generated": "2026-11-24T17:38:32.904Z",
     "total": 221,
-    "fail": 27,
-    "warn": 13,
-    "ok": 181,
+    "fail": 0,
+    "warn": 25,
+    "ok": 196,
     "deadLinks": 5
   },
   "results": [
@@ -20,7 +20,7 @@
       "warns": [],
       "selfCheck": null,
       "links": [],
-      "checkedAt": "2026-11-24T17:27:14.474Z",
+      "checkedAt": "2026-11-24T17:36:25.189Z",
       "httpStatus": 200,
       "visibleText": 1327
     },
@@ -41,7 +41,7 @@
         "https://www.investopedia.com/terms/1/10-k.asp",
         "https://www.khanacademy.org/economics-finance-domain/core-finance/accounting-and-financial-stateme"
       ],
-      "checkedAt": "2026-11-24T17:27:14.474Z",
+      "checkedAt": "2026-11-24T17:36:25.189Z",
       "httpStatus": 200,
       "visibleText": 6664
     },
@@ -57,7 +57,7 @@
       "warns": [],
       "selfCheck": null,
       "links": [],
-      "checkedAt": "2026-11-24T17:27:14.474Z",
+      "checkedAt": "2026-11-24T17:36:25.189Z",
       "httpStatus": 200,
       "visibleText": 2603
     },
@@ -75,7 +75,7 @@
       ],
       "selfCheck": null,
       "links": [],
-      "checkedAt": "2026-11-24T17:27:14.474Z",
+      "checkedAt": "2026-11-24T17:36:25.189Z",
       "httpStatus": 200,
       "visibleText": 14866
     },
@@ -93,7 +93,7 @@
       ],
       "selfCheck": null,
       "links": [],
-      "checkedAt": "2026-11-24T17:27:14.474Z",
+      "checkedAt": "2026-11-24T17:36:25.189Z",
       "httpStatus": 200,
       "visibleText": 13697
     },
@@ -109,7 +109,7 @@
       "warns": [],
       "selfCheck": null,
       "links": [],
-      "checkedAt": "2026-11-24T17:27:14.474Z",
+      "checkedAt": "2026-11-24T17:36:25.189Z",
       "httpStatus": 200,
       "visibleText": 5716
     },
@@ -137,7 +137,7 @@
         "https://www.youtube.com/watch?v=9jLlOPqHxLs",
         "https://www.youtube.com/watch?v=GMNcJ0pXAY8"
       ],
-      "checkedAt": "2026-11-24T17:27:15.965Z",
+      "checkedAt": "2026-11-24T17:36:27.299Z",
       "httpStatus": 200,
       "visibleText": 14979
     },
@@ -153,7 +153,7 @@
       "warns": [],
       "selfCheck": null,
       "links": [],
-      "checkedAt": "2026-11-24T17:27:16.035Z",
+      "checkedAt": "2026-11-24T17:36:27.332Z",
       "httpStatus": 200,
       "visibleText": 1367
     },
@@ -169,7 +169,7 @@
       "warns": [],
       "selfCheck": null,
       "links": [],
-      "checkedAt": "2026-11-24T17:27:16.096Z",
+      "checkedAt": "2026-11-24T17:36:27.596Z",
       "httpStatus": 200,
       "visibleText": 2073
     },
@@ -185,7 +185,7 @@
       "warns": [],
       "selfCheck": null,
       "links": [],
-      "checkedAt": "2026-11-24T17:27:16.129Z",
+      "checkedAt": "2026-11-24T17:36:27.602Z",
       "httpStatus": 200,
       "visibleText": 2464
     },
@@ -201,7 +201,7 @@
       "warns": [],
       "selfCheck": null,
       "links": [],
-      "checkedAt": "2026-11-24T17:27:16.271Z",
+      "checkedAt": "2026-11-24T17:36:27.886Z",
       "httpStatus": 200,
       "visibleText": 1397
     },
@@ -217,7 +217,7 @@
       "warns": [],
       "selfCheck": null,
       "links": [],
-      "checkedAt": "2026-11-24T17:27:16.362Z",
+      "checkedAt": "2026-11-24T17:36:28.139Z",
       "httpStatus": 200,
       "visibleText": 2535
     },
@@ -240,7 +240,7 @@
         "https://www.conference-board.org/press/job-satisfaction-2024",
         "https://www.weforum.org/publications/the-future-of-jobs-report-2025/"
       ],
-      "checkedAt": "2026-11-24T17:27:17.683Z",
+      "checkedAt": "2026-11-24T17:36:29.229Z",
       "httpStatus": 200,
       "visibleText": 2851
     },
@@ -281,7 +281,7 @@
         "https://makerdao.com/en/whitepaper/",
         "https://daistats.com/"
       ],
-      "checkedAt": "2026-11-24T17:27:17.714Z",
+      "checkedAt": "2026-11-24T17:36:29.557Z",
       "httpStatus": 200,
       "visibleText": 6946
     },
@@ -297,7 +297,7 @@
       "warns": [],
       "selfCheck": null,
       "links": [],
-      "checkedAt": "2026-11-24T17:27:17.819Z",
+      "checkedAt": "2026-11-24T17:36:29.738Z",
       "httpStatus": 200,
       "visibleText": 4540
     },
@@ -317,7 +317,7 @@
         "https://corporatefinanceinstitute.com/resources/accounting/statement-of-cash-flows/",
         "https://www.investopedia.com/investing/what-is-a-cash-flow-statement/"
       ],
-      "checkedAt": "2026-11-24T17:27:17.871Z",
+      "checkedAt": "2026-11-24T17:36:29.893Z",
       "httpStatus": 200,
       "visibleText": 14897
     },
@@ -333,7 +333,7 @@
       "warns": [],
       "selfCheck": null,
       "links": [],
-      "checkedAt": "2026-11-24T17:27:17.882Z",
+      "checkedAt": "2026-11-24T17:36:29.975Z",
       "httpStatus": 200,
       "visibleText": 18199
     },
@@ -349,7 +349,7 @@
       "warns": [],
       "selfCheck": null,
       "links": [],
-      "checkedAt": "2026-11-24T17:27:18.030Z",
+      "checkedAt": "2026-11-24T17:37:54.244Z",
       "httpStatus": 200,
       "visibleText": 2688
     },
@@ -365,7 +365,7 @@
       "warns": [],
       "selfCheck": null,
       "links": [],
-      "checkedAt": "2026-11-24T17:27:19.034Z",
+      "checkedAt": "2026-11-24T17:36:30.628Z",
       "httpStatus": 200,
       "visibleText": 5251
     },
@@ -381,7 +381,7 @@
       "warns": [],
       "selfCheck": null,
       "links": [],
-      "checkedAt": "2026-11-24T17:27:19.199Z",
+      "checkedAt": "2026-11-24T17:36:30.892Z",
       "httpStatus": 200,
       "visibleText": 1350
     },
@@ -397,7 +397,7 @@
       "warns": [],
       "selfCheck": null,
       "links": [],
-      "checkedAt": "2026-11-24T17:27:19.232Z",
+      "checkedAt": "2026-11-24T17:36:31.417Z",
       "httpStatus": 200,
       "visibleText": 6493
     },
@@ -413,7 +413,7 @@
       "warns": [],
       "selfCheck": null,
       "links": [],
-      "checkedAt": "2026-11-24T17:27:19.264Z",
+      "checkedAt": "2026-11-24T17:36:31.539Z",
       "httpStatus": 200,
       "visibleText": 9222
     },
@@ -429,9 +429,9 @@
       "warns": [],
       "selfCheck": null,
       "links": [],
-      "checkedAt": "2026-11-24T17:27:19.638Z",
+      "checkedAt": "2026-11-24T17:36:31.774Z",
       "httpStatus": 200,
-      "visibleText": 1265
+      "visibleText": 1294
     },
     {
       "id": "cbdc-primer",
@@ -457,7 +457,7 @@
         "https://www.piie.com/blogs/realtime-economics/2026/china-gives-state-backed-digital-cash-us-and-europe-should-take-note",
         "https://www.bis.org/publ/bppdf/bispap159.htm"
       ],
-      "checkedAt": "2026-11-24T17:27:19.698Z",
+      "checkedAt": "2026-11-24T17:36:31.972Z",
       "httpStatus": 200,
       "visibleText": 14202
     },
@@ -473,7 +473,7 @@
       "warns": [],
       "selfCheck": null,
       "links": [],
-      "checkedAt": "2026-11-24T17:27:20.333Z",
+      "checkedAt": "2026-11-24T17:36:32.390Z",
       "httpStatus": 200,
       "visibleText": 1408
     },
@@ -493,7 +493,7 @@
         "https://actuary.org/article/unmasking-hidden-bias/",
         "https://fortune.com/2021/05/26/lemonade-insurance-ai-face-scanning-fraud/"
       ],
-      "checkedAt": "2026-11-24T17:27:20.618Z",
+      "checkedAt": "2026-11-24T17:36:33.197Z",
       "httpStatus": 200,
       "visibleText": 19366
     },
@@ -512,7 +512,7 @@
       ],
       "selfCheck": null,
       "links": [],
-      "checkedAt": "2026-11-24T17:27:20.779Z",
+      "checkedAt": "2026-11-24T17:36:33.442Z",
       "httpStatus": 200,
       "visibleText": 3420
     },
@@ -531,7 +531,7 @@
       ],
       "selfCheck": null,
       "links": [],
-      "checkedAt": "2026-11-24T17:27:20.984Z",
+      "checkedAt": "2026-11-24T17:36:33.615Z",
       "httpStatus": 200,
       "visibleText": 10800
     },
@@ -547,7 +547,7 @@
       "warns": [],
       "selfCheck": null,
       "links": [],
-      "checkedAt": "2026-11-24T17:27:21.180Z",
+      "checkedAt": "2026-11-24T17:36:33.948Z",
       "httpStatus": 200,
       "visibleText": 1445
     },
@@ -563,9 +563,9 @@
       "warns": [],
       "selfCheck": null,
       "links": [],
-      "checkedAt": "2026-11-24T17:27:21.272Z",
+      "checkedAt": "2026-11-24T17:36:34.166Z",
       "httpStatus": 200,
-      "visibleText": 1076
+      "visibleText": 1279
     },
     {
       "id": "macro-practice-exams_final",
@@ -594,7 +594,7 @@
         "https://www.youtube.com/watch?v=uPRQnQxsL3E",
         "https://www.youtube.com/watch?v=5X5v7vRYQjc"
       ],
-      "checkedAt": "2026-11-24T17:27:21.826Z",
+      "checkedAt": "2026-11-24T17:36:34.604Z",
       "httpStatus": 200,
       "visibleText": 16450
     },
@@ -614,7 +614,7 @@
         "https://www.investopedia.com/terms/y/year-over-year.asp",
         "https://support.microsoft.com/en-us/office/create-a-chart-from-start-to-finish-0baf399e-dd61-4e18-8a73-b3fd5d5680c2"
       ],
-      "checkedAt": "2026-11-24T17:27:21.918Z",
+      "checkedAt": "2026-11-24T17:36:35.375Z",
       "httpStatus": 200,
       "visibleText": 5744
     },
@@ -634,7 +634,7 @@
         "https://www.berkshirehathaway.com/reports.html",
         "https://www.sec.gov/cgi-bin/browse-edgar?company=berkshire+hathaway&CIK=&type=10-K&dateb=&owner=include&count=40&search_text=&action=getcompany"
       ],
-      "checkedAt": "2026-11-24T17:27:22.470Z",
+      "checkedAt": "2026-11-24T17:36:35.661Z",
       "httpStatus": 200,
       "visibleText": 3893
     },
@@ -650,7 +650,7 @@
       "warns": [],
       "selfCheck": null,
       "links": [],
-      "checkedAt": "2026-11-24T17:27:22.686Z",
+      "checkedAt": "2026-11-24T17:36:35.889Z",
       "httpStatus": 200,
       "visibleText": 1431
     },
@@ -666,7 +666,7 @@
       "warns": [],
       "selfCheck": null,
       "links": [],
-      "checkedAt": "2026-11-24T17:27:22.821Z",
+      "checkedAt": "2026-11-24T17:36:36.155Z",
       "httpStatus": 200,
       "visibleText": 4134
     },
@@ -682,7 +682,7 @@
       "warns": [],
       "selfCheck": null,
       "links": [],
-      "checkedAt": "2026-11-24T17:27:23.230Z",
+      "checkedAt": "2026-11-24T17:36:36.352Z",
       "httpStatus": 200,
       "visibleText": 1360
     },
@@ -714,7 +714,7 @@
         "https://ocw.mit.edu/courses/15-s12-blockchain-and-money-fall-2018/",
         "https://ethereum.org/developers/docs/standards/tokens/erc-20/"
       ],
-      "checkedAt": "2026-11-24T17:27:23.241Z",
+      "checkedAt": "2026-11-24T17:36:36.755Z",
       "httpStatus": 200,
       "visibleText": 12852
     },
@@ -734,7 +734,7 @@
         "https://www.investopedia.com/terms/b/balancesheet.asp",
         "https://corporatefinanceinstitute.com/resources/accounting/balance-sheet/"
       ],
-      "checkedAt": "2026-11-24T17:27:23.450Z",
+      "checkedAt": "2026-11-24T17:36:37.074Z",
       "httpStatus": 200,
       "visibleText": 7884
     },
@@ -753,7 +753,7 @@
       ],
       "selfCheck": null,
       "links": [],
-      "checkedAt": "2026-11-24T17:27:23.766Z",
+      "checkedAt": "2026-11-24T17:36:37.433Z",
       "httpStatus": 200,
       "visibleText": 17252
     },
@@ -769,7 +769,7 @@
       "warns": [],
       "selfCheck": null,
       "links": [],
-      "checkedAt": "2026-11-24T17:27:24.077Z",
+      "checkedAt": "2026-11-24T17:36:37.881Z",
       "httpStatus": 200,
       "visibleText": 1284
     },
@@ -785,7 +785,7 @@
       "warns": [],
       "selfCheck": null,
       "links": [],
-      "checkedAt": "2026-11-24T17:27:24.427Z",
+      "checkedAt": "2026-11-24T17:36:38.091Z",
       "httpStatus": 200,
       "visibleText": 1431
     },
@@ -801,7 +801,7 @@
       "warns": [],
       "selfCheck": null,
       "links": [],
-      "checkedAt": "2026-11-24T17:27:24.652Z",
+      "checkedAt": "2026-11-24T17:36:38.441Z",
       "httpStatus": 200,
       "visibleText": 6612
     },
@@ -819,7 +819,7 @@
       "links": [
         "https://support.microsoft.com/en-us/office/create-a-chart-from-start-to-finish-0baf399e-dd61-4e18-8a73-b3fd5d5680c2"
       ],
-      "checkedAt": "2026-11-24T17:27:24.749Z",
+      "checkedAt": "2026-11-24T17:36:38.632Z",
       "httpStatus": 200,
       "visibleText": 11265
     },
@@ -835,7 +835,7 @@
       "warns": [],
       "selfCheck": null,
       "links": [],
-      "checkedAt": "2026-11-24T17:27:24.925Z",
+      "checkedAt": "2026-11-24T17:36:39.473Z",
       "httpStatus": 200,
       "visibleText": 1367
     },
@@ -854,7 +854,7 @@
       ],
       "selfCheck": null,
       "links": [],
-      "checkedAt": "2026-11-24T17:27:25.515Z",
+      "checkedAt": "2026-11-24T17:36:39.667Z",
       "httpStatus": 200,
       "visibleText": 7125
     },
@@ -870,7 +870,7 @@
       "warns": [],
       "selfCheck": null,
       "links": [],
-      "checkedAt": "2026-11-24T17:27:25.568Z",
+      "checkedAt": "2026-11-24T17:36:39.831Z",
       "httpStatus": 200,
       "visibleText": 1358
     },
@@ -890,7 +890,7 @@
       ],
       "selfCheck": null,
       "links": [],
-      "checkedAt": "2026-11-24T17:27:25.835Z",
+      "checkedAt": "2026-11-24T17:36:40.053Z",
       "httpStatus": 200,
       "visibleText": 864
     },
@@ -938,7 +938,7 @@
         ]
       },
       "links": [],
-      "checkedAt": "2026-11-24T17:27:26.053Z",
+      "checkedAt": "2026-11-24T17:36:40.269Z",
       "httpStatus": 200,
       "visibleText": 6802
     },
@@ -986,7 +986,7 @@
         ]
       },
       "links": [],
-      "checkedAt": "2026-11-24T17:27:26.254Z",
+      "checkedAt": "2026-11-24T17:36:41.050Z",
       "httpStatus": 200,
       "visibleText": 7015
     },
@@ -1002,7 +1002,7 @@
       "warns": [],
       "selfCheck": null,
       "links": [],
-      "checkedAt": "2026-11-24T17:27:26.336Z",
+      "checkedAt": "2026-11-24T17:36:41.512Z",
       "httpStatus": 200,
       "visibleText": 3260
     },
@@ -1018,7 +1018,7 @@
       "warns": [],
       "selfCheck": null,
       "links": [],
-      "checkedAt": "2026-11-24T17:27:26.997Z",
+      "checkedAt": "2026-11-24T17:36:41.968Z",
       "httpStatus": 200,
       "visibleText": 6188
     },
@@ -1045,7 +1045,7 @@
         "https://etherscan.io/",
         "https://etherscan.io/gastracker"
       ],
-      "checkedAt": "2026-11-24T17:27:27.631Z",
+      "checkedAt": "2026-11-24T17:36:42.103Z",
       "httpStatus": 200,
       "visibleText": 14191
     },
@@ -1066,7 +1066,7 @@
       "links": [
         "https://agilealliance.org/resources/experience-reports/scrum-kanban-teams-journey/"
       ],
-      "checkedAt": "2026-11-24T17:27:27.708Z",
+      "checkedAt": "2026-11-24T17:36:42.342Z",
       "httpStatus": 200,
       "visibleText": 1533
     },
@@ -1082,9 +1082,9 @@
       "warns": [],
       "selfCheck": null,
       "links": [],
-      "checkedAt": "2026-11-24T17:27:27.942Z",
+      "checkedAt": "2026-11-24T17:36:42.926Z",
       "httpStatus": 200,
-      "visibleText": 824
+      "visibleText": 758
     },
     {
       "id": "phmi-unit12-covid-model",
@@ -1098,7 +1098,7 @@
       "warns": [],
       "selfCheck": null,
       "links": [],
-      "checkedAt": "2026-11-24T17:27:28.112Z",
+      "checkedAt": "2026-11-24T17:36:43.094Z",
       "httpStatus": 200,
       "visibleText": 942
     },
@@ -1114,7 +1114,7 @@
       "warns": [],
       "selfCheck": null,
       "links": [],
-      "checkedAt": "2026-11-24T17:27:28.330Z",
+      "checkedAt": "2026-11-24T17:36:43.322Z",
       "httpStatus": 200,
       "visibleText": 1618
     },
@@ -1139,7 +1139,7 @@
         "https://www.bis.org/about/bisih/topics/cbdc/mcbdc_bridge.htm",
         "https://www.atlanticcouncil.org/programs/geoeconomics-center/dollar-dominance-monitor/"
       ],
-      "checkedAt": "2026-11-24T17:27:28.418Z",
+      "checkedAt": "2026-11-24T17:36:43.755Z",
       "httpStatus": 200,
       "visibleText": 11768
     },
@@ -1155,7 +1155,7 @@
       "warns": [],
       "selfCheck": null,
       "links": [],
-      "checkedAt": "2026-11-24T17:27:29.255Z",
+      "checkedAt": "2026-11-24T17:36:44.118Z",
       "httpStatus": 200,
       "visibleText": 1331
     },
@@ -1171,7 +1171,7 @@
       "warns": [],
       "selfCheck": null,
       "links": [],
-      "checkedAt": "2026-11-24T17:27:29.372Z",
+      "checkedAt": "2026-11-24T17:36:44.576Z",
       "httpStatus": 200,
       "visibleText": 2278
     },
@@ -1190,7 +1190,7 @@
       ],
       "selfCheck": null,
       "links": [],
-      "checkedAt": "2026-11-24T17:27:29.498Z",
+      "checkedAt": "2026-11-24T17:36:44.800Z",
       "httpStatus": 200,
       "visibleText": 12063
     },
@@ -1210,7 +1210,7 @@
         "https://www.congress.gov/event/117th-congress/house-event/LC66883/text",
         "https://www.npr.org/2021/02/18/968829355/gamestop-hearing-today-roaring-kitty-along-with-ceos-to-appear-before-congress"
       ],
-      "checkedAt": "2026-11-24T17:27:29.736Z",
+      "checkedAt": "2026-11-24T17:36:44.935Z",
       "httpStatus": 200,
       "visibleText": 3515
     },
@@ -1234,7 +1234,7 @@
         "https://www.youtube.com/watch?v=-4yCXpv-drg",
         "https://www.youtube.com/watch?v=iotrTlRT3q0"
       ],
-      "checkedAt": "2026-11-24T17:27:29.809Z",
+      "checkedAt": "2026-11-24T17:36:45.459Z",
       "httpStatus": 200,
       "visibleText": 5795
     },
@@ -1256,7 +1256,7 @@
         "https://www.brookings.edu/articles/an-ai-fair-lending-policy-agenda-for-the-federal-financial-regulators/",
         "https://www.federalreserve.gov/econres/feds/files/2017056pap.pdf"
       ],
-      "checkedAt": "2026-11-24T17:27:29.908Z",
+      "checkedAt": "2026-11-24T17:36:45.606Z",
       "httpStatus": 200,
       "visibleText": 4390
     },
@@ -1272,7 +1272,7 @@
       "warns": [],
       "selfCheck": null,
       "links": [],
-      "checkedAt": "2026-11-24T17:27:30.663Z",
+      "checkedAt": "2026-11-24T17:36:45.877Z",
       "httpStatus": 200,
       "visibleText": 1356
     },
@@ -1324,7 +1324,7 @@
         "https://investors.toasttab.com/",
         "https://pos.toasttab.com/about"
       ],
-      "checkedAt": "2026-11-24T17:27:30.707Z",
+      "checkedAt": "2026-11-24T17:36:46.544Z",
       "httpStatus": 200,
       "visibleText": 2643
     },
@@ -1345,7 +1345,7 @@
         "https://www.britannica.com/money/profit-margin-types",
         "https://corporatefinanceinstitute.com/resources/accounting/profit-margin/"
       ],
-      "checkedAt": "2026-11-24T17:27:31.115Z",
+      "checkedAt": "2026-11-24T17:36:46.675Z",
       "httpStatus": 200,
       "visibleText": 8164
     },
@@ -1393,7 +1393,7 @@
         ]
       },
       "links": [],
-      "checkedAt": "2026-11-24T17:27:31.253Z",
+      "checkedAt": "2026-11-24T17:36:46.874Z",
       "httpStatus": 200,
       "visibleText": 8139
     },
@@ -1490,7 +1490,7 @@
         "https://tutorial.math.lamar.edu/Classes/CalcI/AvgFcnValue.aspx",
         "https://openstax.org/books/calculus-volume-1/pages/6-8-exponential-growth-and-decay"
       ],
-      "checkedAt": "2026-11-24T17:27:31.361Z",
+      "checkedAt": "2026-11-24T17:36:47.328Z",
       "httpStatus": 200,
       "visibleText": 5698
     },
@@ -1585,7 +1585,7 @@
         "https://tutorial.math.lamar.edu/Classes/DE/DirectionFields.aspx",
         "https://tutorial.math.lamar.edu/Classes/DE/EulersMethod.aspx"
       ],
-      "checkedAt": "2026-11-24T17:27:31.385Z",
+      "checkedAt": "2026-11-24T17:36:47.476Z",
       "httpStatus": 200,
       "visibleText": 3788
     },
@@ -1677,7 +1677,7 @@
         ]
       },
       "links": [],
-      "checkedAt": "2026-11-24T17:27:32.044Z",
+      "checkedAt": "2026-11-24T17:36:48.033Z",
       "httpStatus": 200,
       "visibleText": 5282
     },
@@ -1777,7 +1777,7 @@
         ]
       },
       "links": [],
-      "checkedAt": "2026-11-24T17:27:32.230Z",
+      "checkedAt": "2026-11-24T17:36:48.227Z",
       "httpStatus": 200,
       "visibleText": 4828
     },
@@ -1880,7 +1880,7 @@
         "https://www.youtube.com/watch?v=ToIXSwZ1pJU",
         "https://www.jirka.org/diffyqs/html/heateq_section.html"
       ],
-      "checkedAt": "2026-11-24T17:27:32.420Z",
+      "checkedAt": "2026-11-24T17:36:48.895Z",
       "httpStatus": 200,
       "visibleText": 6658
     },
@@ -2017,7 +2017,7 @@
         "https://www.jirka.org/diffyqs/html/sec_twodimaut.html",
         "https://www.jirka.org/diffyqs/html/eigenmethod_section.html"
       ],
-      "checkedAt": "2026-11-24T17:27:33.158Z",
+      "checkedAt": "2026-11-24T17:36:49.368Z",
       "httpStatus": 200,
       "visibleText": 5232
     },
@@ -2055,7 +2055,7 @@
         "https://tutorial.math.lamar.edu/Classes/CalcI/ChainRule.aspx",
         "https://tutorial.math.lamar.edu/Classes/CalcI/DiffExpLogFcns.aspx"
       ],
-      "checkedAt": "2026-11-24T17:27:33.185Z",
+      "checkedAt": "2026-11-24T17:36:49.547Z",
       "httpStatus": 200,
       "visibleText": 5380
     },
@@ -2151,7 +2151,7 @@
         "https://tutorial.math.lamar.edu/Classes/CalcI/ShapeofGraphPtII.aspx",
         "https://tutorial.math.lamar.edu/Classes/CalcI/MeanValueTheorem.aspx"
       ],
-      "checkedAt": "2026-11-24T17:27:33.249Z",
+      "checkedAt": "2026-11-24T17:36:49.916Z",
       "httpStatus": 200,
       "visibleText": 7452
     },
@@ -2238,7 +2238,7 @@
         "https://tutorial.math.lamar.edu/Classes/CalcI/DefnOfDefiniteIntegral.aspx",
         "https://tutorial.math.lamar.edu/Classes/CalcI/AvgFcnValue.aspx"
       ],
-      "checkedAt": "2026-11-24T17:27:33.821Z",
+      "checkedAt": "2026-11-24T17:36:50.452Z",
       "httpStatus": 200,
       "visibleText": 4016
     },
@@ -2320,7 +2320,7 @@
       "links": [
         "https://tutorial.math.lamar.edu/Classes/CalcI/Continuity.aspx"
       ],
-      "checkedAt": "2026-11-24T17:27:34.177Z",
+      "checkedAt": "2026-11-24T17:36:51.029Z",
       "httpStatus": 200,
       "visibleText": 3057
     },
@@ -2351,7 +2351,7 @@
         ]
       },
       "links": [],
-      "checkedAt": "2026-11-24T17:27:34.786Z",
+      "checkedAt": "2026-11-24T17:36:51.362Z",
       "httpStatus": 200,
       "visibleText": 13014
     },
@@ -2452,7 +2452,7 @@
         "https://tutorial.math.lamar.edu/Classes/CalcI/LinearApproximations.aspx",
         "https://tutorial.math.lamar.edu/Classes/CalcI/Differentials.aspx"
       ],
-      "checkedAt": "2026-11-24T17:27:34.958Z",
+      "checkedAt": "2026-11-24T17:36:51.721Z",
       "httpStatus": 200,
       "visibleText": 6161
     },
@@ -2552,7 +2552,7 @@
         ]
       },
       "links": [],
-      "checkedAt": "2026-11-24T17:27:35.054Z",
+      "checkedAt": "2026-11-24T17:36:52.055Z",
       "httpStatus": 200,
       "visibleText": 4503
     },
@@ -2660,7 +2660,7 @@
         ]
       },
       "links": [],
-      "checkedAt": "2026-11-24T17:27:35.389Z",
+      "checkedAt": "2026-11-24T17:36:52.429Z",
       "httpStatus": 200,
       "visibleText": 6471
     },
@@ -2676,7 +2676,7 @@
       "warns": [],
       "selfCheck": null,
       "links": [],
-      "checkedAt": "2026-11-24T17:27:35.697Z",
+      "checkedAt": "2026-11-24T17:36:52.893Z",
       "httpStatus": 200,
       "visibleText": 405
     },
@@ -2767,7 +2767,7 @@
         "https://tutorial.math.lamar.edu/Classes/CalcI/DerivativeInterp.aspx",
         "https://tutorial.math.lamar.edu/Classes/CalcI/DefnOfDerivative.aspx"
       ],
-      "checkedAt": "2026-11-24T17:27:35.828Z",
+      "checkedAt": "2026-11-24T17:36:53.750Z",
       "httpStatus": 200,
       "visibleText": 4318
     },
@@ -2876,7 +2876,7 @@
         "https://tutorial.math.lamar.edu/Classes/DE/Separable.aspx",
         "https://tutorial.math.lamar.edu/Classes/DE/EulersMethod.aspx"
       ],
-      "checkedAt": "2026-11-24T17:27:36.896Z",
+      "checkedAt": "2026-11-24T17:36:54.088Z",
       "httpStatus": 200,
       "visibleText": 4864
     },
@@ -2952,7 +2952,7 @@
         ]
       },
       "links": [],
-      "checkedAt": "2026-11-24T17:27:36.980Z",
+      "checkedAt": "2026-11-24T17:36:54.506Z",
       "httpStatus": 200,
       "visibleText": 2991
     },
@@ -3051,7 +3051,7 @@
         "https://tutorial.math.lamar.edu/Classes/CalcI/Tangents_Rates.aspx",
         "https://tutorial.math.lamar.edu/Classes/CalcI/DefnOfDerivative.aspx"
       ],
-      "checkedAt": "2026-11-24T17:27:37.142Z",
+      "checkedAt": "2026-11-24T17:36:54.816Z",
       "httpStatus": 200,
       "visibleText": 3525
     },
@@ -3151,7 +3151,7 @@
         "https://tutorial.math.lamar.edu/Classes/CalcI/DiffTrigFcns.aspx",
         "https://tutorial.math.lamar.edu/Classes/CalcI/HigherOrderDerivatives.aspx"
       ],
-      "checkedAt": "2026-11-24T17:27:37.526Z",
+      "checkedAt": "2026-11-24T17:36:55.328Z",
       "httpStatus": 200,
       "visibleText": 5533
     },
@@ -3167,7 +3167,7 @@
       "warns": [],
       "selfCheck": null,
       "links": [],
-      "checkedAt": "2026-11-24T17:27:37.692Z",
+      "checkedAt": "2026-11-24T17:36:55.909Z",
       "httpStatus": 200,
       "visibleText": 1555
     },
@@ -3247,7 +3247,7 @@
         "https://tutorial.math.lamar.edu/Classes/CalcI/DefnOfDefiniteIntegral.aspx",
         "https://www.desmos.com/scientific"
       ],
-      "checkedAt": "2026-11-24T17:27:37.853Z",
+      "checkedAt": "2026-11-24T17:36:56.203Z",
       "httpStatus": 200,
       "visibleText": 3664
     },
@@ -3357,7 +3357,7 @@
         "https://www.jirka.org/diffyqs/html/heateq_section.html",
         "https://tutorial.math.lamar.edu/Classes/DE/SolvingHeatEquation.aspx"
       ],
-      "checkedAt": "2026-11-24T17:27:38.684Z",
+      "checkedAt": "2026-11-24T17:36:56.518Z",
       "httpStatus": 200,
       "visibleText": 4880
     },
@@ -3444,7 +3444,7 @@
         "https://tutorial.math.lamar.edu/Classes/CalcI/LinearApproximations.aspx",
         "https://tutorial.math.lamar.edu/Classes/CalcI/Differentials.aspx"
       ],
-      "checkedAt": "2026-11-24T17:27:38.728Z",
+      "checkedAt": "2026-11-24T17:36:56.898Z",
       "httpStatus": 200,
       "visibleText": 3271
     },
@@ -3460,9 +3460,9 @@
       "warns": [],
       "selfCheck": null,
       "links": [],
-      "checkedAt": "2026-11-24T17:27:38.956Z",
+      "checkedAt": "2026-11-24T17:36:57.289Z",
       "httpStatus": 200,
-      "visibleText": 850
+      "visibleText": 792
     },
     {
       "id": "calc1-practice-unit-03",
@@ -3550,7 +3550,7 @@
         "https://tutorial.math.lamar.edu/Classes/CalcI/InfiniteLimits.aspx",
         "https://tutorial.math.lamar.edu/Classes/CalcI/LimitsAtInfinityI.aspx"
       ],
-      "checkedAt": "2026-11-24T17:27:39.335Z",
+      "checkedAt": "2026-11-24T17:36:57.893Z",
       "httpStatus": 200,
       "visibleText": 6825
     },
@@ -3645,7 +3645,7 @@
         "https://tutorial.math.lamar.edu/Classes/CalcI/DefnOfDefiniteIntegral.aspx",
         "https://tutorial.math.lamar.edu/Classes/CalcI/ComputingDefiniteIntegrals.aspx"
       ],
-      "checkedAt": "2026-11-24T17:27:39.564Z",
+      "checkedAt": "2026-11-24T17:36:58.337Z",
       "httpStatus": 200,
       "visibleText": 7023
     },
@@ -3744,7 +3744,7 @@
         "https://tutorial.math.lamar.edu/Classes/CalcI/DefnOfDerivative.aspx",
         "https://tutorial.math.lamar.edu/Classes/CalcI/DerivativeInterp.aspx"
       ],
-      "checkedAt": "2026-11-24T17:27:39.652Z",
+      "checkedAt": "2026-11-24T17:36:58.601Z",
       "httpStatus": 200,
       "visibleText": 6339
     },
@@ -3867,7 +3867,7 @@
         "https://www.jirka.org/diffyqs/html/transformsofders_section.html",
         "https://tutorial.math.lamar.edu/Classes/DE/IVPWithStepFunction.aspx"
       ],
-      "checkedAt": "2026-11-24T17:27:40.357Z",
+      "checkedAt": "2026-11-24T17:36:58.899Z",
       "httpStatus": 200,
       "visibleText": 4538
     },
@@ -3957,7 +3957,7 @@
       "links": [
         "https://tutorial.math.lamar.edu/Classes/CalcI/RelatedRates.aspx"
       ],
-      "checkedAt": "2026-11-24T17:27:40.630Z",
+      "checkedAt": "2026-11-24T17:36:59.283Z",
       "httpStatus": 200,
       "visibleText": 3966
     },
@@ -4056,7 +4056,7 @@
         "https://www.desmos.com/scientific",
         "https://tutorial.math.lamar.edu/Extras/CommonErrors/CommonMathErrors.aspx"
       ],
-      "checkedAt": "2026-11-24T17:27:40.698Z",
+      "checkedAt": "2026-11-24T17:36:59.848Z",
       "httpStatus": 200,
       "visibleText": 17956
     },
@@ -4150,7 +4150,7 @@
         "https://tutorial.math.lamar.edu/Classes/CalcI/OneSidedLimits.aspx",
         "https://www.desmos.com/scientific"
       ],
-      "checkedAt": "2026-11-24T17:27:41.135Z",
+      "checkedAt": "2026-11-24T17:37:00.350Z",
       "httpStatus": 200,
       "visibleText": 6960
     },
@@ -4259,7 +4259,7 @@
         "https://www.jirka.org/diffyqs/html/auteq_section.html",
         "https://www.jirka.org/diffyqs/html/slopefields_section.html"
       ],
-      "checkedAt": "2026-11-24T17:27:41.315Z",
+      "checkedAt": "2026-11-24T17:37:00.730Z",
       "httpStatus": 200,
       "visibleText": 4342
     },
@@ -4275,7 +4275,7 @@
       "warns": [],
       "selfCheck": null,
       "links": [],
-      "checkedAt": "2026-11-24T17:27:41.508Z",
+      "checkedAt": "2026-11-24T17:37:00.971Z",
       "httpStatus": 200,
       "visibleText": 206
     },
@@ -4291,7 +4291,7 @@
       "warns": [],
       "selfCheck": null,
       "links": [],
-      "checkedAt": "2026-11-24T17:27:42.092Z",
+      "checkedAt": "2026-11-24T17:37:01.362Z",
       "httpStatus": 200,
       "visibleText": 175
     },
@@ -4335,7 +4335,7 @@
         ]
       },
       "links": [],
-      "checkedAt": "2026-11-24T17:27:42.370Z",
+      "checkedAt": "2026-11-24T17:37:01.643Z",
       "httpStatus": 200,
       "visibleText": 637
     },
@@ -4367,7 +4367,7 @@
         ]
       },
       "links": [],
-      "checkedAt": "2026-11-24T17:27:42.517Z",
+      "checkedAt": "2026-11-24T17:37:02.601Z",
       "httpStatus": 200,
       "visibleText": 745
     },
@@ -4487,7 +4487,7 @@
         "https://www.jirka.org/diffyqs/html/nlinstability_section.html",
         "https://www.jirka.org/diffyqs/html/nlinapps_section.html"
       ],
-      "checkedAt": "2026-11-24T17:27:43.056Z",
+      "checkedAt": "2026-11-24T17:37:02.747Z",
       "httpStatus": 200,
       "visibleText": 4733
     },
@@ -4596,7 +4596,7 @@
         "https://tutorial.math.lamar.edu/Classes/DE/DirectionFields.aspx",
         "https://www.jirka.org/diffyqs/html/introde_section.html"
       ],
-      "checkedAt": "2026-11-24T17:27:43.079Z",
+      "checkedAt": "2026-11-24T17:37:02.944Z",
       "httpStatus": 200,
       "visibleText": 4245
     },
@@ -4708,7 +4708,7 @@
         "https://www.jirka.org/diffyqs/html/sec_nonhom.html#sec_nonhom-5",
         "https://tutorial.math.lamar.edu/Classes/DE/VariationofParameters.aspx"
       ],
-      "checkedAt": "2026-11-24T17:27:43.184Z",
+      "checkedAt": "2026-11-24T17:37:03.206Z",
       "httpStatus": 200,
       "visibleText": 4739
     },
@@ -4796,7 +4796,7 @@
         "https://tutorial.math.lamar.edu/Classes/CalcI/Optimization.aspx",
         "https://tutorial.math.lamar.edu/Classes/CalcI/MoreOptimization.aspx"
       ],
-      "checkedAt": "2026-11-24T17:27:43.755Z",
+      "checkedAt": "2026-11-24T17:37:03.479Z",
       "httpStatus": 200,
       "visibleText": 9246
     },
@@ -4886,7 +4886,7 @@
       "links": [
         "https://tutorial.math.lamar.edu/Classes/CalcI/Optimization.aspx"
       ],
-      "checkedAt": "2026-11-24T17:27:43.892Z",
+      "checkedAt": "2026-11-24T17:37:04.375Z",
       "httpStatus": 200,
       "visibleText": 3697
     },
@@ -4904,7 +4904,7 @@
       "links": [
         "https://openstax.org/details/books/chemistry-2e"
       ],
-      "checkedAt": "2026-11-24T17:27:44.014Z",
+      "checkedAt": "2026-11-24T17:37:04.912Z",
       "httpStatus": 200,
       "visibleText": 1434
     },
@@ -4928,7 +4928,7 @@
         "https://openstax.org/details/books/chemistry-2e",
         "https://creativecommons.org/licenses/by/4.0/"
       ],
-      "checkedAt": "2026-11-24T17:27:44.776Z",
+      "checkedAt": "2026-11-24T17:37:05.118Z",
       "httpStatus": 200,
       "visibleText": 647
     },
@@ -4954,7 +4954,7 @@
         "https://openstax.org/details/books/chemistry-2e",
         "https://creativecommons.org/licenses/by/4.0/"
       ],
-      "checkedAt": "2026-11-24T17:27:45.034Z",
+      "checkedAt": "2026-11-24T17:37:05.257Z",
       "httpStatus": 200,
       "visibleText": 655
     },
@@ -4977,7 +4977,7 @@
         "https://openstax.org/details/books/chemistry-2e",
         "https://creativecommons.org/licenses/by/4.0/"
       ],
-      "checkedAt": "2026-11-24T17:27:45.088Z",
+      "checkedAt": "2026-11-24T17:37:05.434Z",
       "httpStatus": 200,
       "visibleText": 649
     },
@@ -5065,7 +5065,7 @@
         "https://tutorial.math.lamar.edu/Classes/CalcI/Functions.aspx",
         "https://openstax.org/books/calculus-volume-1/pages/1-1-review-of-functions"
       ],
-      "checkedAt": "2026-11-24T17:27:45.541Z",
+      "checkedAt": "2026-11-24T17:37:05.778Z",
       "httpStatus": 200,
       "visibleText": 6879
     },
@@ -5174,7 +5174,7 @@
         "https://tutorial.math.lamar.edu/Classes/DE/Vibrations.aspx",
         "https://tutorial.math.lamar.edu/Classes/DE/UndeterminedCoefficients.aspx"
       ],
-      "checkedAt": "2026-11-24T17:27:45.611Z",
+      "checkedAt": "2026-11-24T17:37:06.309Z",
       "httpStatus": 200,
       "visibleText": 4137
     },
@@ -5283,7 +5283,7 @@
         "https://tutorial.math.lamar.edu/Classes/DE/Linear.aspx",
         "https://www.jirka.org/diffyqs/html/intfactor_section.html"
       ],
-      "checkedAt": "2026-11-24T17:27:45.801Z",
+      "checkedAt": "2026-11-24T17:37:06.933Z",
       "httpStatus": 200,
       "visibleText": 4168
     },
@@ -5394,7 +5394,7 @@
         "https://tutorial.math.lamar.edu/Classes/DE/ComplexRoots.aspx",
         "https://tutorial.math.lamar.edu/Classes/DE/RepeatedRoots.aspx"
       ],
-      "checkedAt": "2026-11-24T17:27:46.524Z",
+      "checkedAt": "2026-11-24T17:37:07.175Z",
       "httpStatus": 200,
       "visibleText": 4498
     },
@@ -5492,7 +5492,7 @@
         "https://tutorial.math.lamar.edu/Classes/CalcI/RelatedRates.aspx",
         "https://tutorial.math.lamar.edu/Classes/CalcI/LHospitalsRule.aspx"
       ],
-      "checkedAt": "2026-11-24T17:27:46.822Z",
+      "checkedAt": "2026-11-24T17:37:07.392Z",
       "httpStatus": 200,
       "visibleText": 6601
     },
@@ -5508,7 +5508,7 @@
       "warns": [],
       "selfCheck": null,
       "links": [],
-      "checkedAt": "2026-11-24T17:27:47.015Z",
+      "checkedAt": "2026-11-24T17:37:07.642Z",
       "httpStatus": 200,
       "visibleText": 2010
     },
@@ -5524,7 +5524,7 @@
       "warns": [],
       "selfCheck": null,
       "links": [],
-      "checkedAt": "2026-11-24T17:27:47.285Z",
+      "checkedAt": "2026-11-24T17:37:07.984Z",
       "httpStatus": 200,
       "visibleText": 2801
     },
@@ -5540,7 +5540,7 @@
       "warns": [],
       "selfCheck": null,
       "links": [],
-      "checkedAt": "2026-11-24T17:27:47.437Z",
+      "checkedAt": "2026-11-24T17:37:08.288Z",
       "httpStatus": 200,
       "visibleText": 1373
     },
@@ -5556,7 +5556,7 @@
       "warns": [],
       "selfCheck": null,
       "links": [],
-      "checkedAt": "2026-11-24T17:27:47.699Z",
+      "checkedAt": "2026-11-24T17:37:08.897Z",
       "httpStatus": 200,
       "visibleText": 1090
     },
@@ -5572,7 +5572,7 @@
       "warns": [],
       "selfCheck": null,
       "links": [],
-      "checkedAt": "2026-11-24T17:27:48.474Z",
+      "checkedAt": "2026-11-24T17:37:09.211Z",
       "httpStatus": 200,
       "visibleText": 1633
     },
@@ -5588,7 +5588,7 @@
       "warns": [],
       "selfCheck": null,
       "links": [],
-      "checkedAt": "2026-11-24T17:27:48.644Z",
+      "checkedAt": "2026-11-24T17:37:09.534Z",
       "httpStatus": 200,
       "visibleText": 1948
     },
@@ -5604,7 +5604,7 @@
       "warns": [],
       "selfCheck": null,
       "links": [],
-      "checkedAt": "2026-11-24T17:27:49.085Z",
+      "checkedAt": "2026-11-24T17:37:09.814Z",
       "httpStatus": 200,
       "visibleText": 1970
     },
@@ -5620,7 +5620,7 @@
       "warns": [],
       "selfCheck": null,
       "links": [],
-      "checkedAt": "2026-11-24T17:27:49.208Z",
+      "checkedAt": "2026-11-24T17:37:09.994Z",
       "httpStatus": 200,
       "visibleText": 2029
     },
@@ -5636,7 +5636,7 @@
       "warns": [],
       "selfCheck": null,
       "links": [],
-      "checkedAt": "2026-11-24T17:27:49.292Z",
+      "checkedAt": "2026-11-24T17:37:10.217Z",
       "httpStatus": 200,
       "visibleText": 2321
     },
@@ -5652,7 +5652,7 @@
       "warns": [],
       "selfCheck": null,
       "links": [],
-      "checkedAt": "2026-11-24T17:27:49.556Z",
+      "checkedAt": "2026-11-24T17:37:10.684Z",
       "httpStatus": 200,
       "visibleText": 1783
     },
@@ -5694,7 +5694,7 @@
       "links": [
         "https://www.bls.gov/ooh/"
       ],
-      "checkedAt": "2026-11-24T17:27:50.264Z",
+      "checkedAt": "2026-11-24T17:37:11.271Z",
       "httpStatus": 200,
       "visibleText": 5453
     },
@@ -5710,7 +5710,7 @@
       "warns": [],
       "selfCheck": null,
       "links": [],
-      "checkedAt": "2026-11-24T17:27:50.523Z",
+      "checkedAt": "2026-11-24T17:37:11.609Z",
       "httpStatus": 200,
       "visibleText": 12778
     },
@@ -5721,15 +5721,11 @@
         "AIL III"
       ],
       "title": "Grist Mill Night Market: Launch Audit Case",
-      "status": "FAIL",
-      "fails": [
-        "Self-check \"promo video present\" failed: promo.mp4 missing or failed to load."
-      ],
-      "warns": [
-        "media failed to load (net::ERR_ABORTED): https://ail-iii.netlify.app/night-market/promo.mp4"
-      ],
+      "status": "OK",
+      "fails": [],
+      "warns": [],
       "selfCheck": {
-        "ok": false,
+        "ok": true,
         "checks": [
           {
             "name": "two tabs switch",
@@ -5748,7 +5744,7 @@
           },
           {
             "name": "promo video present",
-            "ok": false,
+            "ok": true,
             "detail": "promo.mp4 missing or failed to load"
           },
           {
@@ -5768,7 +5764,7 @@
         ]
       },
       "links": [],
-      "checkedAt": "2026-11-24T17:27:50.911Z",
+      "checkedAt": "2026-11-24T17:37:55.742Z",
       "httpStatus": 200,
       "visibleText": 2031
     },
@@ -5784,7 +5780,7 @@
       "warns": [],
       "selfCheck": null,
       "links": [],
-      "checkedAt": "2026-11-24T17:27:51.113Z",
+      "checkedAt": "2026-11-24T17:37:12.263Z",
       "httpStatus": 200,
       "visibleText": 1157
     },
@@ -5800,7 +5796,7 @@
       "warns": [],
       "selfCheck": null,
       "links": [],
-      "checkedAt": "2026-11-24T17:27:51.156Z",
+      "checkedAt": "2026-11-24T17:37:12.398Z",
       "httpStatus": 200,
       "visibleText": 881
     },
@@ -5847,7 +5843,7 @@
       "links": [
         "https://news.harvard.edu/gazette/story/2025/03/harvard-expands-financial-aid/"
       ],
-      "checkedAt": "2026-11-24T17:27:51.394Z",
+      "checkedAt": "2026-11-24T17:37:12.874Z",
       "httpStatus": 200,
       "visibleText": 655
     },
@@ -5894,7 +5890,7 @@
       "links": [
         "https://www.npr.org/sections/shots-health-news/2025/02/04/nx-s1-5285413/cereal-sugar-kids-advertising-health"
       ],
-      "checkedAt": "2026-11-24T17:27:51.874Z",
+      "checkedAt": "2026-11-24T17:37:13.107Z",
       "httpStatus": 200,
       "visibleText": 624
     },
@@ -5954,7 +5950,7 @@
         ]
       },
       "links": [],
-      "checkedAt": "2026-11-24T17:27:52.108Z",
+      "checkedAt": "2026-11-24T17:37:13.235Z",
       "httpStatus": 200,
       "visibleText": 512
     },
@@ -6029,7 +6025,7 @@
         ]
       },
       "links": [],
-      "checkedAt": "2026-11-24T17:27:52.713Z",
+      "checkedAt": "2026-11-24T17:37:14.027Z",
       "httpStatus": 200,
       "visibleText": 1016
     },
@@ -6074,7 +6070,7 @@
         ]
       },
       "links": [],
-      "checkedAt": "2026-11-24T17:27:52.764Z",
+      "checkedAt": "2026-11-24T17:37:14.208Z",
       "httpStatus": 200,
       "visibleText": 669
     },
@@ -6119,7 +6115,7 @@
         ]
       },
       "links": [],
-      "checkedAt": "2026-11-24T17:27:52.861Z",
+      "checkedAt": "2026-11-24T17:37:15.060Z",
       "httpStatus": 200,
       "visibleText": 532
     },
@@ -6179,7 +6175,7 @@
         ]
       },
       "links": [],
-      "checkedAt": "2026-11-24T17:27:53.553Z",
+      "checkedAt": "2026-11-24T17:37:15.082Z",
       "httpStatus": 200,
       "visibleText": 510
     },
@@ -6224,7 +6220,7 @@
         ]
       },
       "links": [],
-      "checkedAt": "2026-11-24T17:27:53.900Z",
+      "checkedAt": "2026-11-24T17:37:16.178Z",
       "httpStatus": 200,
       "visibleText": 613
     },
@@ -6294,7 +6290,7 @@
         ]
       },
       "links": [],
-      "checkedAt": "2026-11-24T17:27:54.841Z",
+      "checkedAt": "2026-11-24T17:37:17.422Z",
       "httpStatus": 200,
       "visibleText": 572
     },
@@ -6338,7 +6334,7 @@
         ]
       },
       "links": [],
-      "checkedAt": "2026-11-24T17:27:54.908Z",
+      "checkedAt": "2026-11-24T17:37:18.143Z",
       "httpStatus": 200,
       "visibleText": 565
     },
@@ -6349,16 +6345,12 @@
         "FINAN III"
       ],
       "title": "Is Charging Interest Evil?",
-      "status": "FAIL",
-      "fails": [
-        "Page rendered only 13 characters of visible text (expected at least 300). Usually means the page loaded but its content never mounted."
-      ],
-      "warns": [
-        "media failed to load (net::ERR_ABORTED): https://rizecomputerscience.github.io/finan3-videos/charging-interest.mp4"
-      ],
+      "status": "OK",
+      "fails": [],
+      "warns": [],
       "selfCheck": null,
       "links": [],
-      "checkedAt": "2026-11-24T17:27:56.552Z",
+      "checkedAt": "2026-11-24T17:37:19.714Z",
       "httpStatus": 200,
       "visibleText": 13
     },
@@ -6369,16 +6361,12 @@
         "FINAN III"
       ],
       "title": "Finding the Fed's Latest Decision on Its Meeting Calendar",
-      "status": "FAIL",
-      "fails": [
-        "Page rendered only 13 characters of visible text (expected at least 300). Usually means the page loaded but its content never mounted."
-      ],
-      "warns": [
-        "media failed to load (net::ERR_ABORTED): https://rizecomputerscience.github.io/finan3-videos/fed-statement.mp4"
-      ],
+      "status": "OK",
+      "fails": [],
+      "warns": [],
       "selfCheck": null,
       "links": [],
-      "checkedAt": "2026-11-24T17:27:58.125Z",
+      "checkedAt": "2026-11-24T17:37:20.244Z",
       "httpStatus": 200,
       "visibleText": 13
     },
@@ -6436,7 +6424,7 @@
       "links": [
         "https://www.desmos.com/scientific"
       ],
-      "checkedAt": "2026-11-24T17:27:59.286Z",
+      "checkedAt": "2026-11-24T17:37:21.955Z",
       "httpStatus": 200,
       "visibleText": 1458
     },
@@ -6447,16 +6435,12 @@
         "FINAN III"
       ],
       "title": "Finding a Bank's Numbers in FDIC BankFind",
-      "status": "FAIL",
-      "fails": [
-        "Page rendered only 13 characters of visible text (expected at least 300). Usually means the page loaded but its content never mounted."
-      ],
-      "warns": [
-        "media failed to load (net::ERR_ABORTED): https://rizecomputerscience.github.io/finan3-videos/bankfind-tearsheet.mp4"
-      ],
+      "status": "OK",
+      "fails": [],
+      "warns": [],
       "selfCheck": null,
       "links": [],
-      "checkedAt": "2026-11-24T17:28:00.075Z",
+      "checkedAt": "2026-11-24T17:37:22.231Z",
       "httpStatus": 200,
       "visibleText": 13
     },
@@ -6518,7 +6502,7 @@
       "links": [
         "https://www.desmos.com/scientific"
       ],
-      "checkedAt": "2026-11-24T17:28:01.147Z",
+      "checkedAt": "2026-11-24T17:37:23.362Z",
       "httpStatus": 200,
       "visibleText": 945
     },
@@ -6529,16 +6513,12 @@
         "FINAN III"
       ],
       "title": "Where a Mortgage Goes",
-      "status": "FAIL",
-      "fails": [
-        "Page rendered only 13 characters of visible text (expected at least 300). Usually means the page loaded but its content never mounted."
-      ],
-      "warns": [
-        "media failed to load (net::ERR_ABORTED): https://rizecomputerscience.github.io/finan3-videos/where-a-mortgage-goes.mp4"
-      ],
+      "status": "OK",
+      "fails": [],
+      "warns": [],
       "selfCheck": null,
       "links": [],
-      "checkedAt": "2026-11-24T17:28:01.306Z",
+      "checkedAt": "2026-11-24T17:37:24.081Z",
       "httpStatus": 200,
       "visibleText": 13
     },
@@ -6549,16 +6529,12 @@
         "FINAN III"
       ],
       "title": "Finding the Closes Around an Earnings Report on Yahoo Finance",
-      "status": "FAIL",
-      "fails": [
-        "Page rendered only 13 characters of visible text (expected at least 300). Usually means the page loaded but its content never mounted."
-      ],
-      "warns": [
-        "media failed to load (net::ERR_ABORTED): https://rizecomputerscience.github.io/finan3-videos/yahoo-earnings-closes.mp4"
-      ],
+      "status": "OK",
+      "fails": [],
+      "warns": [],
       "selfCheck": null,
       "links": [],
-      "checkedAt": "2026-11-24T17:28:01.759Z",
+      "checkedAt": "2026-11-24T17:37:24.195Z",
       "httpStatus": 200,
       "visibleText": 13
     },
@@ -6569,16 +6545,12 @@
         "FINAN III"
       ],
       "title": "Finding an Earnings Story on Yahoo Finance",
-      "status": "FAIL",
-      "fails": [
-        "Page rendered only 13 characters of visible text (expected at least 300). Usually means the page loaded but its content never mounted."
-      ],
-      "warns": [
-        "media failed to load (net::ERR_ABORTED): https://rizecomputerscience.github.io/finan3-videos/yahoo-earnings-story.mp4"
-      ],
+      "status": "OK",
+      "fails": [],
+      "warns": [],
       "selfCheck": null,
       "links": [],
-      "checkedAt": "2026-11-24T17:28:04.836Z",
+      "checkedAt": "2026-11-24T17:37:25.871Z",
       "httpStatus": 200,
       "visibleText": 13
     },
@@ -6589,16 +6561,12 @@
         "FINAN III"
       ],
       "title": "What Is a Stock, Really?",
-      "status": "FAIL",
-      "fails": [
-        "Page rendered only 13 characters of visible text (expected at least 300). Usually means the page loaded but its content never mounted."
-      ],
-      "warns": [
-        "media failed to load (net::ERR_ABORTED): https://rizecomputerscience.github.io/finan3-videos/what-is-a-stock.mp4"
-      ],
+      "status": "OK",
+      "fails": [],
+      "warns": [],
       "selfCheck": null,
       "links": [],
-      "checkedAt": "2026-11-24T17:28:04.936Z",
+      "checkedAt": "2026-11-24T17:37:26.425Z",
       "httpStatus": 200,
       "visibleText": 13
     },
@@ -6609,16 +6577,12 @@
         "FINAN III"
       ],
       "title": "Finding a Company's Three Documents on Its Investor Relations Page",
-      "status": "FAIL",
-      "fails": [
-        "Page rendered only 13 characters of visible text (expected at least 300). Usually means the page loaded but its content never mounted."
-      ],
-      "warns": [
-        "media failed to load (net::ERR_ABORTED): https://rizecomputerscience.github.io/finan3-videos/ir-three-documents.mp4"
-      ],
+      "status": "OK",
+      "fails": [],
+      "warns": [],
       "selfCheck": null,
       "links": [],
-      "checkedAt": "2026-11-24T17:28:05.225Z",
+      "checkedAt": "2026-11-24T17:37:27.189Z",
       "httpStatus": 200,
       "visibleText": 13
     },
@@ -6629,16 +6593,12 @@
         "FINAN III"
       ],
       "title": "Making Chart 2: Your Stock Against the S&P 500 in Google Finance",
-      "status": "FAIL",
-      "fails": [
-        "Page rendered only 13 characters of visible text (expected at least 300). Usually means the page loaded but its content never mounted."
-      ],
-      "warns": [
-        "media failed to load (net::ERR_ABORTED): https://rizecomputerscience.github.io/finan3-videos/gf-compare.mp4"
-      ],
+      "status": "OK",
+      "fails": [],
+      "warns": [],
       "selfCheck": null,
       "links": [],
-      "checkedAt": "2026-11-24T17:28:06.494Z",
+      "checkedAt": "2026-11-24T17:37:28.243Z",
       "httpStatus": 200,
       "visibleText": 13
     },
@@ -6649,16 +6609,12 @@
         "FINAN III"
       ],
       "title": "Finding the Closing Prices Around Your Stock's Biggest Move on Yahoo Finance",
-      "status": "FAIL",
-      "fails": [
-        "Page rendered only 13 characters of visible text (expected at least 300). Usually means the page loaded but its content never mounted."
-      ],
-      "warns": [
-        "media failed to load (net::ERR_ABORTED): https://rizecomputerscience.github.io/finan3-videos/yahoo-closes.mp4"
-      ],
+      "status": "OK",
+      "fails": [],
+      "warns": [],
       "selfCheck": null,
       "links": [],
-      "checkedAt": "2026-11-24T17:28:06.878Z",
+      "checkedAt": "2026-11-24T17:37:28.603Z",
       "httpStatus": 200,
       "visibleText": 13
     },
@@ -6714,9 +6670,9 @@
         ]
       },
       "links": [],
-      "checkedAt": "2026-11-24T17:28:07.583Z",
+      "checkedAt": "2026-11-24T17:37:29.798Z",
       "httpStatus": 200,
-      "visibleText": 1190
+      "visibleText": 1186
     },
     {
       "id": "finan4-cash-desk",
@@ -6756,7 +6712,7 @@
       "links": [
         "https://www.desmos.com/scientific"
       ],
-      "checkedAt": "2026-11-24T17:28:07.756Z",
+      "checkedAt": "2026-11-24T17:37:29.993Z",
       "httpStatus": 200,
       "visibleText": 1208
     },
@@ -6798,7 +6754,7 @@
       "links": [
         "https://www.desmos.com/scientific"
       ],
-      "checkedAt": "2026-11-24T17:28:09.096Z",
+      "checkedAt": "2026-11-24T17:37:30.394Z",
       "httpStatus": 200,
       "visibleText": 1233
     },
@@ -6809,16 +6765,12 @@
         "FINAN IV"
       ],
       "title": "Bringing Money Back to Today",
-      "status": "FAIL",
-      "fails": [
-        "Page rendered only 13 characters of visible text (expected at least 300). Usually means the page loaded but its content never mounted."
-      ],
-      "warns": [
-        "media failed to load (net::ERR_ABORTED): https://rizecomputerscience.github.io/finan4-videos/u04-money-back-to-today.mp4"
-      ],
+      "status": "OK",
+      "fails": [],
+      "warns": [],
       "selfCheck": null,
       "links": [],
-      "checkedAt": "2026-11-24T17:28:10.395Z",
+      "checkedAt": "2026-11-24T17:37:30.686Z",
       "httpStatus": 200,
       "visibleText": 13
     },
@@ -6860,7 +6812,7 @@
       "links": [
         "https://www.desmos.com/scientific"
       ],
-      "checkedAt": "2026-11-24T17:28:10.498Z",
+      "checkedAt": "2026-11-24T17:37:31.651Z",
       "httpStatus": 200,
       "visibleText": 1017
     },
@@ -6902,7 +6854,7 @@
       "links": [
         "https://www.desmos.com/scientific"
       ],
-      "checkedAt": "2026-11-24T17:28:10.761Z",
+      "checkedAt": "2026-11-24T17:37:31.905Z",
       "httpStatus": 200,
       "visibleText": 1250
     },
@@ -6944,7 +6896,7 @@
       "links": [
         "https://www.desmos.com/scientific"
       ],
-      "checkedAt": "2026-11-24T17:28:11.456Z",
+      "checkedAt": "2026-11-24T17:37:32.305Z",
       "httpStatus": 200,
       "visibleText": 1281
     },
@@ -6986,7 +6938,7 @@
       "links": [
         "https://www.desmos.com/scientific"
       ],
-      "checkedAt": "2026-11-24T17:28:12.950Z",
+      "checkedAt": "2026-11-24T17:37:32.548Z",
       "httpStatus": 200,
       "visibleText": 1197
     },
@@ -6997,16 +6949,12 @@
         "FINAN IV"
       ],
       "title": "Why Bond Prices Fall When Interest Rates Rise",
-      "status": "FAIL",
-      "fails": [
-        "Page rendered only 13 characters of visible text (expected at least 300). Usually means the page loaded but its content never mounted."
-      ],
-      "warns": [
-        "media failed to load (net::ERR_ABORTED): https://rizecomputerscience.github.io/finan4-videos/u08-bond-prices.mp4"
-      ],
+      "status": "OK",
+      "fails": [],
+      "warns": [],
       "selfCheck": null,
       "links": [],
-      "checkedAt": "2026-11-24T17:28:13.031Z",
+      "checkedAt": "2026-11-24T17:37:33.697Z",
       "httpStatus": 200,
       "visibleText": 13
     },
@@ -7048,7 +6996,7 @@
       "links": [
         "https://www.desmos.com/scientific"
       ],
-      "checkedAt": "2026-11-24T17:28:13.223Z",
+      "checkedAt": "2026-11-24T17:37:33.900Z",
       "httpStatus": 200,
       "visibleText": 1154
     },
@@ -7090,7 +7038,7 @@
       "links": [
         "https://www.desmos.com/scientific"
       ],
-      "checkedAt": "2026-11-24T17:28:13.417Z",
+      "checkedAt": "2026-11-24T17:37:33.945Z",
       "httpStatus": 200,
       "visibleText": 1209
     },
@@ -7132,7 +7080,7 @@
       "links": [
         "https://www.desmos.com/scientific"
       ],
-      "checkedAt": "2026-11-24T17:28:13.507Z",
+      "checkedAt": "2026-11-24T17:37:34.504Z",
       "httpStatus": 200,
       "visibleText": 1176
     },
@@ -7143,18 +7091,12 @@
         "FINAN IV"
       ],
       "title": "Filling In Your Project Kit: The Draft Steps",
-      "status": "FAIL",
-      "fails": [
-        "Page rendered only 13 characters of visible text (expected at least 300). Usually means the page loaded but its content never mounted."
-      ],
-      "warns": [
-        "media failed to load (net::ERR_ABORTED): https://rizecomputerscience.github.io/finan4-videos/project-kit-walkthrough.mp4",
-        "media failed to load (net::ERR_ABORTED): https://rizecomputerscience.github.io/finan4-videos/project-kit-walkthrough.mp4",
-        "media failed to load (net::ERR_ABORTED): https://rizecomputerscience.github.io/finan4-videos/project-kit-walkthrough.mp4"
-      ],
+      "status": "OK",
+      "fails": [],
+      "warns": [],
       "selfCheck": null,
       "links": [],
-      "checkedAt": "2026-11-24T17:28:13.729Z",
+      "checkedAt": "2026-11-24T17:37:34.696Z",
       "httpStatus": 200,
       "visibleText": 13
     },
@@ -7196,7 +7138,7 @@
       "links": [
         "https://www.desmos.com/scientific"
       ],
-      "checkedAt": "2026-11-24T17:28:14.809Z",
+      "checkedAt": "2026-11-24T17:37:35.813Z",
       "httpStatus": 200,
       "visibleText": 1186
     },
@@ -7207,16 +7149,12 @@
         "FINAN IV"
       ],
       "title": "Debt Makes Good Years Better and Bad Years Worse",
-      "status": "FAIL",
-      "fails": [
-        "Page rendered only 13 characters of visible text (expected at least 300). Usually means the page loaded but its content never mounted."
-      ],
-      "warns": [
-        "media failed to load (net::ERR_ABORTED): https://rizecomputerscience.github.io/finan4-videos/u12-debt-good-years-bad-years.mp4"
-      ],
+      "status": "OK",
+      "fails": [],
+      "warns": [],
       "selfCheck": null,
       "links": [],
-      "checkedAt": "2026-11-24T17:28:15.258Z",
+      "checkedAt": "2026-11-24T17:37:36.058Z",
       "httpStatus": 200,
       "visibleText": 13
     },
@@ -7258,7 +7196,7 @@
       "links": [
         "https://www.desmos.com/scientific"
       ],
-      "checkedAt": "2026-11-24T17:28:15.335Z",
+      "checkedAt": "2026-11-24T17:37:36.219Z",
       "httpStatus": 200,
       "visibleText": 1166
     },
@@ -7278,7 +7216,7 @@
         "https://www.glassdoor.com/",
         "https://www.bls.gov/oes/current/oes_nat.htm"
       ],
-      "checkedAt": "2026-11-24T17:28:15.486Z",
+      "checkedAt": "2026-11-24T17:37:36.438Z",
       "httpStatus": 200,
       "visibleText": 1220
     },
@@ -7296,7 +7234,7 @@
       ],
       "selfCheck": null,
       "links": [],
-      "checkedAt": "2026-11-24T17:28:15.531Z",
+      "checkedAt": "2026-11-24T17:37:36.592Z",
       "httpStatus": 200,
       "visibleText": 2261
     },
@@ -7312,7 +7250,7 @@
       "warns": [],
       "selfCheck": null,
       "links": [],
-      "checkedAt": "2026-11-24T17:28:15.600Z",
+      "checkedAt": "2026-11-24T17:37:37.617Z",
       "httpStatus": 200,
       "visibleText": 666
     },
@@ -7328,7 +7266,7 @@
       "warns": [],
       "selfCheck": null,
       "links": [],
-      "checkedAt": "2026-11-24T17:28:16.393Z",
+      "checkedAt": "2026-11-24T17:37:37.974Z",
       "httpStatus": 200,
       "visibleText": 742
     },
@@ -7344,7 +7282,7 @@
       "warns": [],
       "selfCheck": null,
       "links": [],
-      "checkedAt": "2026-11-24T17:28:16.913Z",
+      "checkedAt": "2026-11-24T17:37:38.111Z",
       "httpStatus": 200,
       "visibleText": 1096
     },
@@ -7360,7 +7298,7 @@
       "warns": [],
       "selfCheck": null,
       "links": [],
-      "checkedAt": "2026-11-24T17:28:17.037Z",
+      "checkedAt": "2026-11-24T17:37:38.335Z",
       "httpStatus": 200,
       "visibleText": 7926
     },
@@ -7376,7 +7314,7 @@
       "warns": [],
       "selfCheck": null,
       "links": [],
-      "checkedAt": "2026-11-24T17:28:17.401Z",
+      "checkedAt": "2026-11-24T17:37:38.673Z",
       "httpStatus": 200,
       "visibleText": 2232
     },
@@ -7392,7 +7330,7 @@
       "warns": [],
       "selfCheck": null,
       "links": [],
-      "checkedAt": "2026-11-24T17:28:17.465Z",
+      "checkedAt": "2026-11-24T17:37:39.515Z",
       "httpStatus": 200,
       "visibleText": 1478
     },
@@ -7408,7 +7346,7 @@
       "warns": [],
       "selfCheck": null,
       "links": [],
-      "checkedAt": "2026-11-24T17:28:17.648Z",
+      "checkedAt": "2026-11-24T17:37:39.637Z",
       "httpStatus": 200,
       "visibleText": 3556
     },
@@ -7424,7 +7362,7 @@
       "warns": [],
       "selfCheck": null,
       "links": [],
-      "checkedAt": "2026-11-24T17:28:18.355Z",
+      "checkedAt": "2026-11-24T17:37:39.913Z",
       "httpStatus": 200,
       "visibleText": 1121
     },
@@ -7440,7 +7378,7 @@
       "warns": [],
       "selfCheck": null,
       "links": [],
-      "checkedAt": "2026-11-24T17:28:18.523Z",
+      "checkedAt": "2026-11-24T17:37:40.048Z",
       "httpStatus": 200,
       "visibleText": 1151
     },
@@ -7456,7 +7394,7 @@
       "warns": [],
       "selfCheck": null,
       "links": [],
-      "checkedAt": "2026-11-24T17:28:18.874Z",
+      "checkedAt": "2026-11-24T17:37:40.481Z",
       "httpStatus": 200,
       "visibleText": 1100
     },
@@ -7472,7 +7410,7 @@
       "warns": [],
       "selfCheck": null,
       "links": [],
-      "checkedAt": "2026-11-24T17:28:19.236Z",
+      "checkedAt": "2026-11-24T17:37:41.507Z",
       "httpStatus": 200,
       "visibleText": 1138
     },
@@ -7488,7 +7426,7 @@
       "warns": [],
       "selfCheck": null,
       "links": [],
-      "checkedAt": "2026-11-24T17:28:19.314Z",
+      "checkedAt": "2026-11-24T17:37:41.628Z",
       "httpStatus": 200,
       "visibleText": 1263
     },
@@ -7504,7 +7442,7 @@
       "warns": [],
       "selfCheck": null,
       "links": [],
-      "checkedAt": "2026-11-24T17:28:19.435Z",
+      "checkedAt": "2026-11-24T17:37:41.756Z",
       "httpStatus": 200,
       "visibleText": 1179
     },
@@ -7520,7 +7458,7 @@
       "warns": [],
       "selfCheck": null,
       "links": [],
-      "checkedAt": "2026-11-24T17:28:19.846Z",
+      "checkedAt": "2026-11-24T17:37:41.919Z",
       "httpStatus": 200,
       "visibleText": 1337
     },
@@ -7624,7 +7562,7 @@
         "https://www.openintro.org/book/os/",
         "https://openstax.org/books/introductory-statistics-2e/pages/7-1-the-central-limit-theorem-for-sample-means-averages"
       ],
-      "checkedAt": "2026-11-24T17:28:19.965Z",
+      "checkedAt": "2026-11-24T17:37:42.170Z",
       "httpStatus": 200,
       "visibleText": 13789
     },
@@ -7635,11 +7573,11 @@
         "SPNSH II"
       ],
       "title": "Spanish II Practice",
-      "status": "FAIL",
-      "fails": [
-        "Page rendered only 169 characters of visible text (expected at least 300). Usually means the page loaded but its content never mounted."
+      "status": "WARN",
+      "fails": [],
+      "warns": [
+        "Page rendered only 172 characters of visible text (floor 300), but its own self-check passed."
       ],
-      "warns": [],
       "selfCheck": {
         "ok": true,
         "checks": [
@@ -7674,9 +7612,9 @@
         ]
       },
       "links": [],
-      "checkedAt": "2026-11-24T17:28:20.325Z",
+      "checkedAt": "2026-11-24T17:37:43.241Z",
       "httpStatus": 200,
-      "visibleText": 169
+      "visibleText": 172
     },
     {
       "id": "spanish-ii_spnsh2-tareas_index.html-unit2",
@@ -7722,7 +7660,7 @@
         ]
       },
       "links": [],
-      "checkedAt": "2026-11-24T17:28:20.678Z",
+      "checkedAt": "2026-11-24T17:37:43.438Z",
       "httpStatus": 200,
       "visibleText": 832
     },
@@ -7733,11 +7671,11 @@
         "SPNSH II"
       ],
       "title": "Spanish II Practice",
-      "status": "FAIL",
-      "fails": [
-        "Page rendered only 138 characters of visible text (expected at least 300). Usually means the page loaded but its content never mounted."
+      "status": "WARN",
+      "fails": [],
+      "warns": [
+        "Page rendered only 129 characters of visible text (floor 300), but its own self-check passed."
       ],
-      "warns": [],
       "selfCheck": {
         "ok": true,
         "checks": [
@@ -7772,9 +7710,9 @@
         ]
       },
       "links": [],
-      "checkedAt": "2026-11-24T17:28:20.767Z",
+      "checkedAt": "2026-11-24T17:37:43.597Z",
       "httpStatus": 200,
-      "visibleText": 138
+      "visibleText": 129
     },
     {
       "id": "spanish-ii_spnsh2-tareas_index.html-unit3",
@@ -7820,7 +7758,7 @@
         ]
       },
       "links": [],
-      "checkedAt": "2026-11-24T17:28:20.875Z",
+      "checkedAt": "2026-11-24T17:37:43.695Z",
       "httpStatus": 200,
       "visibleText": 837
     },
@@ -7831,11 +7769,11 @@
         "SPNSH II"
       ],
       "title": "Spanish II Practice",
-      "status": "FAIL",
-      "fails": [
-        "Page rendered only 128 characters of visible text (expected at least 300). Usually means the page loaded but its content never mounted."
+      "status": "WARN",
+      "fails": [],
+      "warns": [
+        "Page rendered only 123 characters of visible text (floor 300), but its own self-check passed."
       ],
-      "warns": [],
       "selfCheck": {
         "ok": true,
         "checks": [
@@ -7870,9 +7808,9 @@
         ]
       },
       "links": [],
-      "checkedAt": "2026-11-24T17:28:21.279Z",
+      "checkedAt": "2026-11-24T17:37:44.286Z",
       "httpStatus": 200,
-      "visibleText": 128
+      "visibleText": 123
     },
     {
       "id": "spanish-ii_spnsh2-tareas_index.html-unit4",
@@ -7918,7 +7856,7 @@
         ]
       },
       "links": [],
-      "checkedAt": "2026-11-24T17:28:21.874Z",
+      "checkedAt": "2026-11-24T17:37:44.882Z",
       "httpStatus": 200,
       "visibleText": 742
     },
@@ -7929,11 +7867,11 @@
         "SPNSH II"
       ],
       "title": "Spanish II Practice",
-      "status": "FAIL",
-      "fails": [
-        "Page rendered only 135 characters of visible text (expected at least 300). Usually means the page loaded but its content never mounted."
+      "status": "WARN",
+      "fails": [],
+      "warns": [
+        "Page rendered only 156 characters of visible text (floor 300), but its own self-check passed."
       ],
-      "warns": [],
       "selfCheck": {
         "ok": true,
         "checks": [
@@ -7968,9 +7906,9 @@
         ]
       },
       "links": [],
-      "checkedAt": "2026-11-24T17:28:22.427Z",
+      "checkedAt": "2026-11-24T17:37:45.212Z",
       "httpStatus": 200,
-      "visibleText": 135
+      "visibleText": 156
     },
     {
       "id": "spanish-ii_spnsh2-tareas_index.html-unit5",
@@ -8016,7 +7954,7 @@
         ]
       },
       "links": [],
-      "checkedAt": "2026-11-24T17:28:22.466Z",
+      "checkedAt": "2026-11-24T17:37:45.349Z",
       "httpStatus": 200,
       "visibleText": 720
     },
@@ -8027,11 +7965,11 @@
         "SPNSH II"
       ],
       "title": "Spanish II Practice",
-      "status": "FAIL",
-      "fails": [
-        "Page rendered only 146 characters of visible text (expected at least 300). Usually means the page loaded but its content never mounted."
+      "status": "WARN",
+      "fails": [],
+      "warns": [
+        "Page rendered only 171 characters of visible text (floor 300), but its own self-check passed."
       ],
-      "warns": [],
       "selfCheck": {
         "ok": true,
         "checks": [
@@ -8066,9 +8004,9 @@
         ]
       },
       "links": [],
-      "checkedAt": "2026-11-24T17:28:22.488Z",
+      "checkedAt": "2026-11-24T17:37:45.539Z",
       "httpStatus": 200,
-      "visibleText": 146
+      "visibleText": 171
     },
     {
       "id": "spanish-ii_spnsh2-tareas_index.html-unit6",
@@ -8114,7 +8052,7 @@
         ]
       },
       "links": [],
-      "checkedAt": "2026-11-24T17:28:22.553Z",
+      "checkedAt": "2026-11-24T17:37:45.774Z",
       "httpStatus": 200,
       "visibleText": 705
     },
@@ -8125,11 +8063,11 @@
         "SPNSH II"
       ],
       "title": "Spanish II Practice",
-      "status": "FAIL",
-      "fails": [
-        "Page rendered only 149 characters of visible text (expected at least 300). Usually means the page loaded but its content never mounted."
+      "status": "WARN",
+      "fails": [],
+      "warns": [
+        "Page rendered only 147 characters of visible text (floor 300), but its own self-check passed."
       ],
-      "warns": [],
       "selfCheck": {
         "ok": true,
         "checks": [
@@ -8164,9 +8102,9 @@
         ]
       },
       "links": [],
-      "checkedAt": "2026-11-24T17:28:22.887Z",
+      "checkedAt": "2026-11-24T17:37:46.421Z",
       "httpStatus": 200,
-      "visibleText": 149
+      "visibleText": 147
     },
     {
       "id": "spanish-ii_spnsh2-tareas_index.html-unit7",
@@ -8212,7 +8150,7 @@
         ]
       },
       "links": [],
-      "checkedAt": "2026-11-24T17:28:23.458Z",
+      "checkedAt": "2026-11-24T17:37:46.810Z",
       "httpStatus": 200,
       "visibleText": 885
     },
@@ -8223,11 +8161,11 @@
         "SPNSH II"
       ],
       "title": "Spanish II Practice",
-      "status": "FAIL",
-      "fails": [
-        "Page rendered only 144 characters of visible text (expected at least 300). Usually means the page loaded but its content never mounted."
+      "status": "WARN",
+      "fails": [],
+      "warns": [
+        "Page rendered only 122 characters of visible text (floor 300), but its own self-check passed."
       ],
-      "warns": [],
       "selfCheck": {
         "ok": true,
         "checks": [
@@ -8262,9 +8200,9 @@
         ]
       },
       "links": [],
-      "checkedAt": "2026-11-24T17:28:24.008Z",
+      "checkedAt": "2026-11-24T17:37:47.005Z",
       "httpStatus": 200,
-      "visibleText": 144
+      "visibleText": 122
     },
     {
       "id": "spanish-ii_spnsh2-tareas_index.html-unit8",
@@ -8310,7 +8248,7 @@
         ]
       },
       "links": [],
-      "checkedAt": "2026-11-24T17:28:24.031Z",
+      "checkedAt": "2026-11-24T17:37:47.182Z",
       "httpStatus": 200,
       "visibleText": 1079
     },
@@ -8321,11 +8259,11 @@
         "SPNSH II"
       ],
       "title": "Spanish II Practice",
-      "status": "FAIL",
-      "fails": [
-        "Page rendered only 161 characters of visible text (expected at least 300). Usually means the page loaded but its content never mounted."
+      "status": "WARN",
+      "fails": [],
+      "warns": [
+        "Page rendered only 155 characters of visible text (floor 300), but its own self-check passed."
       ],
-      "warns": [],
       "selfCheck": {
         "ok": true,
         "checks": [
@@ -8360,9 +8298,9 @@
         ]
       },
       "links": [],
-      "checkedAt": "2026-11-24T17:28:24.087Z",
+      "checkedAt": "2026-11-24T17:37:47.308Z",
       "httpStatus": 200,
-      "visibleText": 161
+      "visibleText": 155
     },
     {
       "id": "spanish-ii_spnsh2-tareas_index.html-unit9",
@@ -8408,7 +8346,7 @@
         ]
       },
       "links": [],
-      "checkedAt": "2026-11-24T17:28:24.181Z",
+      "checkedAt": "2026-11-24T17:37:47.637Z",
       "httpStatus": 200,
       "visibleText": 881
     },
@@ -8419,11 +8357,11 @@
         "SPNSH II"
       ],
       "title": "Spanish II Practice",
-      "status": "FAIL",
-      "fails": [
-        "Page rendered only 153 characters of visible text (expected at least 300). Usually means the page loaded but its content never mounted."
+      "status": "WARN",
+      "fails": [],
+      "warns": [
+        "Page rendered only 147 characters of visible text (floor 300), but its own self-check passed."
       ],
-      "warns": [],
       "selfCheck": {
         "ok": true,
         "checks": [
@@ -8458,9 +8396,9 @@
         ]
       },
       "links": [],
-      "checkedAt": "2026-11-24T17:28:24.480Z",
+      "checkedAt": "2026-11-24T17:37:47.916Z",
       "httpStatus": 200,
-      "visibleText": 153
+      "visibleText": 147
     },
     {
       "id": "spanish-ii_spnsh2-tareas_index.html-unit10",
@@ -8506,7 +8444,7 @@
         ]
       },
       "links": [],
-      "checkedAt": "2026-11-24T17:28:24.946Z",
+      "checkedAt": "2026-11-24T17:37:48.517Z",
       "httpStatus": 200,
       "visibleText": 657
     },
@@ -8517,11 +8455,11 @@
         "SPNSH II"
       ],
       "title": "Spanish II Practice",
-      "status": "FAIL",
-      "fails": [
-        "Page rendered only 150 characters of visible text (expected at least 300). Usually means the page loaded but its content never mounted."
+      "status": "WARN",
+      "fails": [],
+      "warns": [
+        "Page rendered only 150 characters of visible text (floor 300), but its own self-check passed."
       ],
-      "warns": [],
       "selfCheck": {
         "ok": true,
         "checks": [
@@ -8556,7 +8494,7 @@
         ]
       },
       "links": [],
-      "checkedAt": "2026-11-24T17:28:25.527Z",
+      "checkedAt": "2026-11-24T17:37:48.723Z",
       "httpStatus": 200,
       "visibleText": 150
     },
@@ -8604,7 +8542,7 @@
         ]
       },
       "links": [],
-      "checkedAt": "2026-11-24T17:28:25.580Z",
+      "checkedAt": "2026-11-24T17:37:49.076Z",
       "httpStatus": 200,
       "visibleText": 782
     },
@@ -8615,11 +8553,11 @@
         "SPNSH II"
       ],
       "title": "Spanish II Practice",
-      "status": "FAIL",
-      "fails": [
-        "Page rendered only 156 characters of visible text (expected at least 300). Usually means the page loaded but its content never mounted."
+      "status": "WARN",
+      "fails": [],
+      "warns": [
+        "Page rendered only 148 characters of visible text (floor 300), but its own self-check passed."
       ],
-      "warns": [],
       "selfCheck": {
         "ok": true,
         "checks": [
@@ -8654,9 +8592,9 @@
         ]
       },
       "links": [],
-      "checkedAt": "2026-11-24T17:28:25.651Z",
+      "checkedAt": "2026-11-24T17:37:49.209Z",
       "httpStatus": 200,
-      "visibleText": 156
+      "visibleText": 148
     },
     {
       "id": "spanish-ii_spnsh2-tareas_index.html-unit12",
@@ -8702,7 +8640,7 @@
         ]
       },
       "links": [],
-      "checkedAt": "2026-11-24T17:28:25.975Z",
+      "checkedAt": "2026-11-24T17:37:49.436Z",
       "httpStatus": 200,
       "visibleText": 886
     },
@@ -8713,11 +8651,11 @@
         "SPNSH II"
       ],
       "title": "Spanish II Practice",
-      "status": "FAIL",
-      "fails": [
-        "Page rendered only 143 characters of visible text (expected at least 300). Usually means the page loaded but its content never mounted."
+      "status": "WARN",
+      "fails": [],
+      "warns": [
+        "Page rendered only 132 characters of visible text (floor 300), but its own self-check passed."
       ],
-      "warns": [],
       "selfCheck": {
         "ok": true,
         "checks": [
@@ -8752,9 +8690,9 @@
         ]
       },
       "links": [],
-      "checkedAt": "2026-11-24T17:28:26.234Z",
+      "checkedAt": "2026-11-24T17:37:49.639Z",
       "httpStatus": 200,
-      "visibleText": 143
+      "visibleText": 132
     },
     {
       "id": "spanish-ii_spnsh2-tareas_index.html-unit13",
@@ -8800,7 +8738,7 @@
         ]
       },
       "links": [],
-      "checkedAt": "2026-11-24T17:28:26.393Z",
+      "checkedAt": "2026-11-24T17:37:50.220Z",
       "httpStatus": 200,
       "visibleText": 893
     },
@@ -8848,7 +8786,7 @@
         ]
       },
       "links": [],
-      "checkedAt": "2026-11-24T17:28:27.071Z",
+      "checkedAt": "2026-11-24T17:37:50.467Z",
       "httpStatus": 200,
       "visibleText": 926
     },
@@ -8864,7 +8802,7 @@
       "warns": [],
       "selfCheck": null,
       "links": [],
-      "checkedAt": "2026-11-24T17:28:27.182Z",
+      "checkedAt": "2026-11-24T17:37:50.915Z",
       "httpStatus": 200,
       "visibleText": 1084
     },
@@ -8880,7 +8818,7 @@
       "warns": [],
       "selfCheck": null,
       "links": [],
-      "checkedAt": "2026-11-24T17:28:27.242Z",
+      "checkedAt": "2026-11-24T17:37:51.079Z",
       "httpStatus": 200,
       "visibleText": 1624
     },
@@ -8896,7 +8834,7 @@
       "warns": [],
       "selfCheck": null,
       "links": [],
-      "checkedAt": "2026-11-24T17:28:27.501Z",
+      "checkedAt": "2026-11-24T17:37:51.271Z",
       "httpStatus": 200,
       "visibleText": 4989
     },
@@ -8973,7 +8911,7 @@
         "https://tutorial.math.lamar.edu/Classes/CalcI/Tangents_Rates.aspx",
         "https://openstax.org/books/calculus-volume-1/pages/2-1-a-preview-of-calculus"
       ],
-      "checkedAt": "2026-11-24T17:28:27.658Z",
+      "checkedAt": "2026-11-24T17:37:51.300Z",
       "httpStatus": 200,
       "visibleText": 9235
     },
@@ -9015,7 +8953,7 @@
       "links": [
         "https://www.desmos.com/scientific"
       ],
-      "checkedAt": "2026-11-24T17:28:27.893Z",
+      "checkedAt": "2026-11-24T17:37:51.801Z",
       "httpStatus": 200,
       "visibleText": 1154
     },
@@ -9057,7 +8995,7 @@
       "links": [
         "https://www.desmos.com/scientific"
       ],
-      "checkedAt": "2026-11-24T17:28:28.487Z",
+      "checkedAt": "2026-11-24T17:37:52.006Z",
       "httpStatus": 200,
       "visibleText": 813
     },
@@ -9099,7 +9037,7 @@
       "links": [
         "https://www.desmos.com/scientific"
       ],
-      "checkedAt": "2026-11-24T17:28:28.518Z",
+      "checkedAt": "2026-11-24T17:37:52.387Z",
       "httpStatus": 200,
       "visibleText": 1270
     },
@@ -9141,7 +9079,7 @@
       "links": [
         "https://www.desmos.com/scientific"
       ],
-      "checkedAt": "2026-11-24T17:28:28.685Z",
+      "checkedAt": "2026-11-24T17:37:52.661Z",
       "httpStatus": 200,
       "visibleText": 1221
     }
