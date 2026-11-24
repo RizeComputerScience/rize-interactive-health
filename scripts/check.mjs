@@ -38,7 +38,8 @@ const LINK_UNVERIFIABLE = [
   'linkedin.com', 'x.com', 'twitter.com', 'facebook.com', 'instagram.com',
   'reddit.com', 'bloomberg.com', 'wsj.com', 'ft.com', 'nytimes.com',
 ];
-const ignored = (url) => IGNORE_HOSTS.some((h) => url.includes(h));
+// The browser asks every site for /favicon.ico on its own; a missing icon is not the page's problem.
+const ignored = (url) => IGNORE_HOSTS.some((h) => url.includes(h)) || /\/favicon\.ico(\?|$)/.test(url);
 
 /** A CDN URL pinned to a floating major tag ("mathjax@3") will change under us. */
 function unpinnedCdn(url) {
@@ -66,8 +67,10 @@ async function checkPage(browser, entry) {
     if (ignored(u) || u === entry.url) return;
     subresourceProblems.push({ url: u, type: req.resourceType(), why: req.failure()?.errorText || 'request failed' });
   });
+  const loaded = new Set(); // URLs that answered fine at least once
   page.on('response', (res) => {
     const u = res.url();
+    if (res.status() < 400) loaded.add(u);
     if (ignored(u) || u === entry.url || res.status() < 400) return;
     subresourceProblems.push({ url: u, type: res.request().resourceType(), why: `HTTP ${res.status()}` });
   });
@@ -98,8 +101,25 @@ async function checkPage(browser, entry) {
     const visibleText = await page.evaluate(() => (document.body?.innerText || '').trim().length);
     result.visibleText = visibleText;
     const floor = entry.expect?.minVisibleText ?? 300;
-    if (visibleText < floor) {
-      result.fails.push(`Page rendered only ${visibleText} characters of visible text (expected at least ${floor}). Usually means the page loaded but its content never mounted.`);
+    // A short page is only a failure if nothing else shows it mounted: a video page
+    // (a playable <video>) or a page whose own self-check passes has rendered.
+    let thin = visibleText < floor
+      ? `Page rendered only ${visibleText} characters of visible text (expected at least ${floor}). Usually means the page loaded but its content never mounted.`
+      : null;
+    if (thin) {
+      const playable = await page.evaluate(async () => {
+        const vids = [...document.querySelectorAll('video')];
+        const ready = (v) => v.readyState >= 1 && v.duration > 0;
+        for (const v of vids) {
+          if (ready(v)) return true;
+          v.preload = 'metadata';
+          v.load();
+          await new Promise((r) => { v.addEventListener('loadedmetadata', r, { once: true }); setTimeout(r, 5000); });
+          if (ready(v)) return true;
+        }
+        return false;
+      }).catch(() => false);
+      if (playable) thin = null;
     }
 
     // --- 2. Required elements -------------------------------------------
@@ -121,12 +141,20 @@ async function checkPage(browser, entry) {
       }
       if (!(sc.checks || []).some((c) => !c.ok)) result.fails.push('Self-check reported failure.');
     }
+    if (thin && sc && sc.ok === true) {
+      result.warns.push(`Page rendered only ${visibleText} characters of visible text (floor ${floor}), but its own self-check passed.`);
+      thin = null;
+    }
+    if (thin) result.fails.push(thin);
     if (sc === null && entry.expect?.selfCheck === true) {
       result.fails.push('Page is declared as self-checking but exposes no window.__selfCheck().');
     }
 
     // --- 4. Script and stylesheet failures --------------------------------
     for (const p of subresourceProblems) {
+      // Chrome aborts a video's first request when it switches to range requests;
+      // that abort is normal when the same file then loaded.
+      if (p.why === 'net::ERR_ABORTED' && loaded.has(p.url)) continue;
       const msg = `${p.type} failed to load (${p.why}): ${p.url}`;
       if (p.type === 'script' || p.type === 'stylesheet') result.fails.push(msg);
       else result.warns.push(msg);
@@ -196,15 +224,15 @@ let pages = manifest.pages;
 if (ONLY) pages = pages.filter((p) => p.id.includes(ONLY) || p.url.includes(ONLY));
 console.log(`Checking ${pages.length} page(s) with concurrency ${CONCURRENCY}...`);
 
-// Prefer Playwright's pinned Chromium. Fall back to the Chrome already on the
-// machine, so a local run works before the (slow, occasionally stalling) browser
-// download finishes. CI always installs the pinned build.
+// Prefer Google Chrome: Playwright's bundled Chromium cannot play H.264/AAC video
+// (no proprietary codecs), so every .mp4 on our pages would fail to load in it.
+// GitHub's ubuntu runners ship Chrome; fall back to the bundled build if missing.
 async function launch() {
   try {
-    return await chromium.launch();
-  } catch (e) {
-    console.warn('Bundled Chromium unavailable, falling back to installed Chrome.');
     return await chromium.launch({ channel: 'chrome' });
+  } catch (e) {
+    console.warn('Google Chrome unavailable, using bundled Chromium (H.264 video will not play).');
+    return await chromium.launch();
   }
 }
 
