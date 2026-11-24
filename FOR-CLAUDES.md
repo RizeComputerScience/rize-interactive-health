@@ -61,11 +61,16 @@ read at once refuses (a broken read, not a mass unwiring); the run then checks t
 list.
 
 **Courses that live in Psyque** (followsSanity off) have no copy in Sanity.
-`scripts/psyque_rows.py` reads them over Psyque's MCP endpoint (read only, Blueprint
-term, every document plus assignment and discussion steps; about a minute). It needs a
-Psyque token: in CI, the `PSYQUE_TOKEN` repository secret, which an org admin sets.
-Without it the run skips Psyque and leaves Psyque pages as they are; it only retires a
-Psyque page after a complete Psyque read.
+`scripts/psyque_rows.py` reads them from the route Psyque added for this check (Matt,
+2026-11-24): `GET https://api.cms.rize.education/api/terms/:termId/links/interactive`,
+one call per term, listing every github.io and netlify.app link with its course and
+document. It skips links inside quiz and exam questions. It needs a service token with
+the `links:read:interactive` scope (`content:read` also works): in CI, the
+`PSYQUE_TOKEN` repository secret, which an org admin sets. That token can't list terms,
+so the terms read are named in `PSYQUE_TERMS` in the script (Blueprint and f26 as of
+2026-11-24); **add each new running term (s27, ...) there.** Without the token the run
+skips Psyque and leaves Psyque pages as they are; it only retires a page after a
+complete read of that term.
 
 Hosts outside the list above go in by hand with `"source": "manual"` (and `courses`);
 a rebuild never retires a manual entry. The Workbench rule is that new pages go on
@@ -122,6 +127,9 @@ building the page, like alt text.
 
 ## Gotchas
 
+- **Check in Google Chrome, not bundled Chromium.** Playwright's Chromium can't play
+  H.264/AAC, so every .mp4 "fails to load" in it. `check.mjs` launches Chrome (GitHub's
+  runners have it) and falls back to Chromium only if Chrome is missing.
 - **Chromium download.** `npx playwright install chromium` is slow and can stall on a
   contended lock. If `~/Library/Caches/ms-playwright/chromium-*` sits at a few hundred
   kilobytes, kill the process, remove `__dirlock` and that directory, and rerun.

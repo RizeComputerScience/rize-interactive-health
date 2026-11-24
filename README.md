@@ -92,7 +92,7 @@ manifest.json           what gets checked, and which course each page serves
 scripts/check.mjs       the checker (Playwright; ~230 lines, the whole engine)
 scripts/render_status.mjs   builds the status board from results.json
 scripts/sanity_rows.py      reads every Rize-hosted link from both Sanity datasets (each run)
-scripts/psyque_rows.py      the same for courses that live in Psyque (needs PSYQUE_TOKEN)
+scripts/psyque_rows.py      the same for courses in Psyque, via its links/interactive route (needs PSYQUE_TOKEN)
 scripts/build_manifest.py   merges those rows into the manifest (keeps manual entries)
 scripts/sanity_urls.groq    the older MCP query, for a by-hand inventory
 template/interactive-page-template.html   start every new page from this
